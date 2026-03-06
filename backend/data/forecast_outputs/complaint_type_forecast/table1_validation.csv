@@ -1,0 +1,19 @@
+Date,Model,Top_Complaint_Type,Predicted,Predicted_p10,Predicted_p90,Actual_Count,Actual_Complaint_Text,Predicted_Part,Est_Unit_Cost,Est_Cost_p50
+2025-11,AAA2,Electrical & Instruments,1,1,1,0,High Oil Consumption,Pressure Gauge,4500,4500
+2025-11,AAA3,Cylinder & Overheating,1,1,1,0,—,Piston / Liner / Ring Set,45000,45000
+2025-11,AAA4,Oil Consumption & Carryover,2,2,2,0,High Oil Consumption,Piston / Liner / Ring Set,45000,90000
+2025-11,AAA6,Oil Consumption & Carryover,2,2,2,0,High Oil Consumption,Piston / Liner / Ring Set,45000,90000
+2025-11,AAA72,Oil Consumption & Carryover,1,1,1,0,Abnormal Noise,Piston / Liner / Ring Set,45000,45000
+2025-11,AB4,Sound & Vibration,1,1,1,0,High Oil Consumption,Piston / Liner / Ring Set,45000,45000
+2025-12,AAA3,Cylinder & Overheating,1,1,1,5,LP switch malfunctioning,Piston / Liner / Ring Set,45000,45000
+2025-12,AAA4,Oil Consumption & Carryover,2,2,2,6,High Oil Consumption,Piston / Liner / Ring Set,45000,90000
+2025-12,AAA6,Oil Consumption & Carryover,2,2,2,0,High Oil Consumption,Piston / Liner / Ring Set,45000,90000
+2025-12,AAA63,Sound & Vibration,1,1,1,1,Abnormal Noise,Piston / Liner / Ring Set,45000,45000
+2025-12,AAA72,Oil Consumption & Carryover,1,1,1,1,High Oil Consumption,Piston / Liner / Ring Set,45000,45000
+2025-12,AAA93,Cylinder & Overheating,1,1,1,1,Cylinder overheating,Piston / Liner / Ring Set,45000,45000
+2026-01,AAA2,Electrical & Instruments,1,1,1,0,High Oil Consumption,Pressure Gauge,4500,4500
+2026-01,AAA3,Cylinder & Overheating,1,1,1,0,High oil consumption,Piston / Liner / Ring Set,45000,45000
+2026-01,AAA4,Oil Consumption & Carryover,2,2,2,0,High Oil Consumption,Piston / Liner / Ring Set,45000,90000
+2026-01,AAA6,Oil Consumption & Carryover,1,1,1,0,High Oil Consumption,Piston / Liner / Ring Set,45000,45000
+2026-01,AAA72,Oil Consumption & Carryover,1,1,1,0,High Oil Consumption,Piston / Liner / Ring Set,45000,45000
+2026-01,AB72,Oil Pump,1,1,1,0,KC Pump drive gear shaft broken,Oil Pump / Element,25000,25000

@@ -1,0 +1,2 @@
+Train MAE,Holdout MAE,Train RMSE,Holdout RMSE,Train MAPE (%),Holdout MAPE (%),Holdout SMAPE (%),Train R²,Holdout R²,Overfit Ratio (H/T),PI Coverage (%),Verdict
+0.5642,1.3004,1.1961,1.9303,21.03,55.43,37.84,0.7315,0.4305,2.305,63.6,⚠️  HIGH OVERFITTING RISK — holdout error is 2x+ train error

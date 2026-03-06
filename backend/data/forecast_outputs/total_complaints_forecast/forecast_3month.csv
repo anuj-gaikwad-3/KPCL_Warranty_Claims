@@ -1,0 +1,4 @@
+Month,Holt-Winters,SARIMA,Prophet,Theta,LightGBM,Ensemble (Top-3),Best (Holt-Winters)
+Feb 2026,37.5,39.4,38.2,39.7,41.4,38.4,37.5
+Mar 2026,44.1,39.4,50.6,39.7,38.2,44.7,44.1
+Apr 2026,33.2,39.4,34.1,39.8,40.5,35.6,33.2

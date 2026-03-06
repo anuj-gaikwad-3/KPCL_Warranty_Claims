@@ -1,0 +1,3085 @@
+Date,Model,Complaint_Type,Volume,Forecast_p10,Forecast_p90,Source
+2015-04,AAA2,Major Mechanical,1,,,Actual
+2015-04,AB2,Oil Pump,1,,,Actual
+2015-04,AB3,Oil Pump,1,,,Actual
+2015-04,AB6,Oil Pump,1,,,Actual
+2015-04,AB6,Sound & Vibration,1,,,Actual
+2015-04,AB72,Electrical & Instruments,1,,,Actual
+2015-04,AAA3,Electrical & Instruments,1,,,Actual
+2015-04,AB102,Others,1,,,Actual
+2015-04,AB2,Cylinder & Overheating,1,,,Actual
+2015-04,AB3,Valves & Solenoids,1,,,Actual
+2015-04,AB31,Oil Pump,1,,,Actual
+2015-04,AB6,Sound & Vibration,1,,,Actual
+2015-04,AAA4,Cylinder & Overheating,1,,,Actual
+2015-04,AAA4,Sound & Vibration,1,,,Actual
+2015-04,AB3,Oil Pump,1,,,Actual
+2015-04,AB4,Electrical & Instruments,1,,,Actual
+2015-04,AB72,Oil Pump,1,,,Actual
+2015-04,AB4,Oil Pump,1,,,Actual
+2015-04,AAA3,Valves & Solenoids,1,,,Actual
+2015-04,AB2,Sound & Vibration,1,,,Actual
+2015-04,AF2,Valves & Solenoids,1,,,Actual
+2015-04,AAA2,Sound & Vibration,1,,,Actual
+2015-04,AF2,Shaft Seal,1,,,Actual
+2015-04,AAA3,Leaks (General),1,,,Actual
+2015-04,AAA3,Sound & Vibration,1,,,Actual
+2015-04,AAA4,Cylinder & Overheating,1,,,Actual
+2015-04,AB3,Sound & Vibration,1,,,Actual
+2015-04,AB4,Leaks (General),1,,,Actual
+2015-04,AF2,Oil Pump,1,,,Actual
+2015-04,AAA3,Oil Pump,1,,,Actual
+2015-04,AAA4,Cylinder & Overheating,1,,,Actual
+2015-04,AAA6,Others,1,,,Actual
+2015-04,AAA6,Sound & Vibration,1,,,Actual
+2015-04,AB42,Leaks (General),1,,,Actual
+2015-04,AB6,Sound & Vibration,1,,,Actual
+2015-05,AB2,Others,1,,,Actual
+2015-05,AB3,Shaft Seal,1,,,Actual
+2015-05,AB4,Oil Pump,1,,,Actual
+2015-05,AB51,Sound & Vibration,1,,,Actual
+2015-05,AB3,Electrical & Instruments,1,,,Actual
+2015-05,AB3,Oil Pump,1,,,Actual
+2015-05,AB31,Oil Pump,1,,,Actual
+2015-05,AB4,Electrical & Instruments,1,,,Actual
+2015-05,AB9,Leaks (General),1,,,Actual
+2015-05,AB4,Oil Pump,1,,,Actual
+2015-05,AAA6,Leaks (General),1,,,Actual
+2015-05,AAA2,Cylinder & Overheating,2,,,Actual
+2015-05,AAA3,Electrical & Instruments,1,,,Actual
+2015-05,AAA3,Shaft Seal,1,,,Actual
+2015-05,AAA3,Sound & Vibration,1,,,Actual
+2015-05,AAA3,Valves & Solenoids,1,,,Actual
+2015-05,AAA4,Leaks (General),1,,,Actual
+2015-05,AAA4,Oil Pump,2,,,Actual
+2015-05,AAA4,Valves & Solenoids,1,,,Actual
+2015-05,AB3,Leaks (General),1,,,Actual
+2015-05,AB3,Oil Pump,1,,,Actual
+2015-05,AB4,Sound & Vibration,1,,,Actual
+2015-05,AB4,Valves & Solenoids,1,,,Actual
+2015-05,AB51,Sound & Vibration,1,,,Actual
+2015-05,AB6,Oil Pump,1,,,Actual
+2015-05,AB6,Shaft Seal,1,,,Actual
+2015-05,AF2,Valves & Solenoids,1,,,Actual
+2015-05,AAA2,Leaks (General),1,,,Actual
+2015-05,AAA2,Oil Pump,1,,,Actual
+2015-05,AAA21,Electrical & Instruments,1,,,Actual
+2015-05,AAA3,Electrical & Instruments,1,,,Actual
+2015-05,AAA4,Electrical & Instruments,1,,,Actual
+2015-05,AAA42,Shaft Seal,1,,,Actual
+2015-05,AAA42,Sound & Vibration,2,,,Actual
+2015-05,AAA42,Valves & Solenoids,1,,,Actual
+2015-05,AB2,Shaft Seal,1,,,Actual
+2015-05,AB3,Oil Pump,1,,,Actual
+2015-05,AB4,Oil Pump,1,,,Actual
+2015-05,AB42,Electrical & Instruments,1,,,Actual
+2015-05,AB3,Sound & Vibration,1,,,Actual
+2015-05,AB63,Shaft Seal,1,,,Actual
+2015-05,AB63,Sound & Vibration,1,,,Actual
+2015-05,AB9,Sound & Vibration,1,,,Actual
+2015-06,AAA6,Sound & Vibration,1,,,Actual
+2015-06,AB12,Sound & Vibration,1,,,Actual
+2015-06,AB4,Leaks (General),1,,,Actual
+2015-06,AB4,Oil Pump,1,,,Actual
+2015-06,AB6,Shaft Seal,1,,,Actual
+2015-06,AB9,Sound & Vibration,1,,,Actual
+2015-06,AF2,Oil Pump,1,,,Actual
+2015-06,AAA3,Leaks (General),1,,,Actual
+2015-06,AAA2,Electrical & Instruments,2,,,Actual
+2015-06,AAA3,Electrical & Instruments,1,,,Actual
+2015-06,AAA3,Leaks (General),2,,,Actual
+2015-06,AAA3,Oil Pump,2,,,Actual
+2015-06,AB3,Oil Pump,2,,,Actual
+2015-06,AF2,Shaft Seal,1,,,Actual
+2015-06,AB3,Oil Pump,1,,,Actual
+2015-06,AB6,Major Mechanical,1,,,Actual
+2015-06,AAA3,Oil Pump,1,,,Actual
+2015-06,AB63,Oil Pump,1,,,Actual
+2015-06,AB2,Electrical & Instruments,2,,,Actual
+2015-06,AB4,Oil Pump,4,,,Actual
+2015-06,AB6,Electrical & Instruments,1,,,Actual
+2015-06,AB6,Oil Pump,1,,,Actual
+2015-06,AB6,Sound & Vibration,1,,,Actual
+2015-06,AB72,Major Mechanical,1,,,Actual
+2015-06,AAA4,Others,1,,,Actual
+2015-06,AAA6,Cylinder & Overheating,1,,,Actual
+2015-06,AAA72,Oil Pump,1,,,Actual
+2015-06,AB51,Oil Pump,1,,,Actual
+2015-06,AB51,Sound & Vibration,2,,,Actual
+2015-06,AB72,Major Mechanical,2,,,Actual
+2015-07,AAA2,Sound & Vibration,1,,,Actual
+2015-07,AB2,Oil Pump,1,,,Actual
+2015-07,AAA2,Cylinder & Overheating,1,,,Actual
+2015-07,AAA3,Leaks (General),1,,,Actual
+2015-07,AAA3,Sound & Vibration,1,,,Actual
+2015-07,AAA4,Sound & Vibration,1,,,Actual
+2015-07,AAA6,Sound & Vibration,1,,,Actual
+2015-07,AB2,Valves & Solenoids,1,,,Actual
+2015-07,AB3,Oil Pump,1,,,Actual
+2015-07,AB4,Leaks (General),1,,,Actual
+2015-07,AB4,Others,1,,,Actual
+2015-07,AB4,Valves & Solenoids,1,,,Actual
+2015-07,AB6,Shaft Seal,1,,,Actual
+2015-07,AB72,Major Mechanical,2,,,Actual
+2015-07,AF2,Major Mechanical,1,,,Actual
+2015-07,AB72,Electrical & Instruments,1,,,Actual
+2015-07,AAA3,Leaks (General),1,,,Actual
+2015-07,AB9,Oil Pump,1,,,Actual
+2015-07,AAA3,Oil Pump,1,,,Actual
+2015-07,AAA4,Sound & Vibration,1,,,Actual
+2015-07,AB3,Electrical & Instruments,1,,,Actual
+2015-07,AB3,Valves & Solenoids,1,,,Actual
+2015-07,AB42,Oil Pump,3,,,Actual
+2015-07,AB63,Oil Pump,1,,,Actual
+2015-07,AB72,Oil Pump,1,,,Actual
+2015-07,AB72,Valves & Solenoids,1,,,Actual
+2015-07,AB3,Shaft Seal,1,,,Actual
+2015-07,AAA4,Leaks (General),2,,,Actual
+2015-07,AB2,Electrical & Instruments,1,,,Actual
+2015-07,AB4,Valves & Solenoids,1,,,Actual
+2015-07,AB6,Valves & Solenoids,3,,,Actual
+2015-07,AB72,Oil Pump,1,,,Actual
+2015-08,AB2,Shaft Seal,1,,,Actual
+2015-08,AB2,Sound & Vibration,1,,,Actual
+2015-08,AB3,Valves & Solenoids,2,,,Actual
+2015-08,AAA3,Electrical & Instruments,1,,,Actual
+2015-08,AB42,Sound & Vibration,1,,,Actual
+2015-08,AAA3,Leaks (General),2,,,Actual
+2015-08,AAA4,Sound & Vibration,1,,,Actual
+2015-08,AB72,Others,1,,,Actual
+2015-08,AB93,Electrical & Instruments,1,,,Actual
+2015-08,AB3,Sound & Vibration,1,,,Actual
+2015-08,AAA3,Cylinder & Overheating,1,,,Actual
+2015-08,AB3,Sound & Vibration,1,,,Actual
+2015-08,AB3,Valves & Solenoids,1,,,Actual
+2015-08,AB31,Oil Pump,1,,,Actual
+2015-08,AB4,Electrical & Instruments,1,,,Actual
+2015-08,AB4,Leaks (General),1,,,Actual
+2015-08,AB4,Oil Pump,1,,,Actual
+2015-08,AB42,Others,1,,,Actual
+2015-08,AB51,Cylinder & Overheating,1,,,Actual
+2015-08,AB72,Others,1,,,Actual
+2015-08,AB72,Major Mechanical,1,,,Actual
+2015-09,AB2,Electrical & Instruments,1,,,Actual
+2015-09,AAA2,Sound & Vibration,1,,,Actual
+2015-09,AB3,Shaft Seal,1,,,Actual
+2015-09,AB4,Shaft Seal,1,,,Actual
+2015-09,AB4,Valves & Solenoids,2,,,Actual
+2015-09,AB6,Leaks (General),1,,,Actual
+2015-09,AB9,Oil Pump,1,,,Actual
+2015-09,AB3,Oil Pump,1,,,Actual
+2015-09,AB3,Oil Pump,1,,,Actual
+2015-09,AB93,Sound & Vibration,1,,,Actual
+2015-09,AAA3,Electrical & Instruments,1,,,Actual
+2015-09,AAA3,Sound & Vibration,1,,,Actual
+2015-09,AB3,Oil Pump,1,,,Actual
+2015-09,AB4,Oil Pump,1,,,Actual
+2015-09,AB51,Oil Pump,1,,,Actual
+2015-09,AB63,Oil Pump,1,,,Actual
+2015-09,AAA2,Leaks (General),1,,,Actual
+2015-09,AAA3,Leaks (General),1,,,Actual
+2015-09,AB42,Sound & Vibration,1,,,Actual
+2015-09,AB51,Oil Pump,1,,,Actual
+2015-09,AB51,Sound & Vibration,1,,,Actual
+2015-09,AB3,Oil Pump,1,,,Actual
+2015-09,AAA6,Shaft Seal,1,,,Actual
+2015-09,AB2,Valves & Solenoids,1,,,Actual
+2015-09,AB3,Electrical & Instruments,1,,,Actual
+2015-09,AB3,Oil Pump,2,,,Actual
+2015-09,AB6,Electrical & Instruments,1,,,Actual
+2015-09,AF2,Oil Pump,1,,,Actual
+2015-09,AAA3,Sound & Vibration,1,,,Actual
+2015-09,AAA4,Sound & Vibration,1,,,Actual
+2015-09,AAA6,Shaft Seal,1,,,Actual
+2015-09,AB72,Oil Pump,1,,,Actual
+2015-09,AB2,Electrical & Instruments,1,,,Actual
+2015-09,AB6,Sound & Vibration,1,,,Actual
+2015-09,AF2,Sound & Vibration,1,,,Actual
+2015-10,AAA4,Sound & Vibration,1,,,Actual
+2015-10,AB3,Oil Pump,1,,,Actual
+2015-10,AB4,Leaks (General),1,,,Actual
+2015-10,AB4,Oil Pump,1,,,Actual
+2015-10,AB72,Oil Pump,1,,,Actual
+2015-10,AAA3,Others,1,,,Actual
+2015-10,AAA31,Electrical & Instruments,1,,,Actual
+2015-10,AB42,Oil Pump,1,,,Actual
+2015-10,AAA3,Valves & Solenoids,1,,,Actual
+2015-10,AB72,Electrical & Instruments,1,,,Actual
+2015-10,AB4,Cylinder & Overheating,1,,,Actual
+2015-10,AB4,Oil Pump,1,,,Actual
+2015-10,AB51,Sound & Vibration,1,,,Actual
+2015-10,AB72,Major Mechanical,1,,,Actual
+2015-10,AB31,Others,1,,,Actual
+2015-10,AAA2,Others,1,,,Actual
+2015-10,AB51,Cylinder & Overheating,1,,,Actual
+2015-10,AB51,Shaft Seal,1,,,Actual
+2015-10,AAA3,Sound & Vibration,1,,,Actual
+2015-10,AAA4,Cylinder & Overheating,1,,,Actual
+2015-10,AB21,Valves & Solenoids,1,,,Actual
+2015-10,AB42,Shaft Seal,1,,,Actual
+2015-10,AB6,Oil Pump,1,,,Actual
+2015-11,AAA2,Oil Pump,1,,,Actual
+2015-11,AAA2,Others,1,,,Actual
+2015-11,AAA3,Others,1,,,Actual
+2015-11,AAA3,Sound & Vibration,1,,,Actual
+2015-11,AB4,Shaft Seal,1,,,Actual
+2015-11,AB6,Shaft Seal,1,,,Actual
+2015-11,AB9,Cylinder & Overheating,1,,,Actual
+2015-11,AAA2,Electrical & Instruments,1,,,Actual
+2015-11,AAA3,Cylinder & Overheating,1,,,Actual
+2015-11,AAA42,Shaft Seal,1,,,Actual
+2015-11,AB2,Leaks (General),1,,,Actual
+2015-11,AB21,Valves & Solenoids,1,,,Actual
+2015-11,AB4,Electrical & Instruments,2,,,Actual
+2015-11,AB6,Leaks (General),1,,,Actual
+2015-11,AAA2,Leaks (General),1,,,Actual
+2015-11,AAA2,Shaft Seal,1,,,Actual
+2015-11,AB2,Cylinder & Overheating,1,,,Actual
+2015-11,AB42,Sound & Vibration,1,,,Actual
+2015-11,AB4,Leaks (General),1,,,Actual
+2015-11,AB63,Oil Pump,1,,,Actual
+2015-11,AAA2,Cylinder & Overheating,1,,,Actual
+2015-11,AAA3,Leaks (General),1,,,Actual
+2015-11,AB3,Oil Pump,1,,,Actual
+2015-11,AB42,Oil Pump,1,,,Actual
+2015-11,AB9,Others,1,,,Actual
+2015-11,AB12,Sound & Vibration,1,,,Actual
+2015-11,AB6,Sound & Vibration,1,,,Actual
+2015-11,AB2,Others,1,,,Actual
+2015-11,AB4,Leaks (General),1,,,Actual
+2015-11,AB4,Oil Pump,1,,,Actual
+2015-11,AB42,Oil Pump,1,,,Actual
+2015-11,AAA4,Sound & Vibration,1,,,Actual
+2015-11,AB51,Oil Pump,1,,,Actual
+2015-12,AB42,Electrical & Instruments,1,,,Actual
+2015-12,AB42,Sound & Vibration,1,,,Actual
+2015-12,AB72,Oil Pump,1,,,Actual
+2015-12,AB3,Shaft Seal,1,,,Actual
+2015-12,AB3,Valves & Solenoids,1,,,Actual
+2015-12,AB31,Valves & Solenoids,1,,,Actual
+2015-12,AAA3,Leaks (General),1,,,Actual
+2015-12,AAA6,Sound & Vibration,1,,,Actual
+2015-12,AB102,Oil Pump,1,,,Actual
+2015-12,AB2,Electrical & Instruments,1,,,Actual
+2015-12,AB2,Leaks (General),1,,,Actual
+2015-12,AB42,Shaft Seal,1,,,Actual
+2015-12,AB6,Leaks (General),1,,,Actual
+2015-12,AB6,Valves & Solenoids,1,,,Actual
+2015-12,AB42,Leaks (General),1,,,Actual
+2015-12,AAA4,Sound & Vibration,1,,,Actual
+2015-12,AB31,Sound & Vibration,1,,,Actual
+2015-12,AB84,Sound & Vibration,1,,,Actual
+2015-12,AAA4,Electrical & Instruments,1,,,Actual
+2015-12,AB21,Valves & Solenoids,1,,,Actual
+2015-12,AAA2,Sound & Vibration,1,,,Actual
+2015-12,AAA6,Sound & Vibration,1,,,Actual
+2015-12,AB3,Others,1,,,Actual
+2015-12,AAA6,Valves & Solenoids,1,,,Actual
+2015-12,AB4,Oil Pump,1,,,Actual
+2015-12,AB4,Sound & Vibration,1,,,Actual
+2015-12,AB72,Oil Pump,1,,,Actual
+2015-12,AB9,Sound & Vibration,1,,,Actual
+2016-01,AF2,Leaks (General),1,,,Actual
+2016-01,AAA6,Electrical & Instruments,1,,,Actual
+2016-01,AAA63,Electrical & Instruments,1,,,Actual
+2016-01,AB31,Oil Pump,1,,,Actual
+2016-01,AB84,Sound & Vibration,1,,,Actual
+2016-01,AAA2,Cylinder & Overheating,1,,,Actual
+2016-01,AAA6,Cylinder & Overheating,1,,,Actual
+2016-01,AB2,Shaft Seal,1,,,Actual
+2016-01,AAA3,Electrical & Instruments,1,,,Actual
+2016-01,AAA3,Others,1,,,Actual
+2016-01,AB6,Leaks (General),1,,,Actual
+2016-01,AB72,Oil Pump,1,,,Actual
+2016-01,AAA2,Electrical & Instruments,1,,,Actual
+2016-01,AAA3,Leaks (General),1,,,Actual
+2016-01,AB42,Sound & Vibration,1,,,Actual
+2016-01,AB6,Oil Pump,1,,,Actual
+2016-01,AB84,Sound & Vibration,1,,,Actual
+2016-02,AAA3,Sound & Vibration,1,,,Actual
+2016-02,AB51,Sound & Vibration,1,,,Actual
+2016-02,AB63,Valves & Solenoids,1,,,Actual
+2016-02,AB93,Sound & Vibration,1,,,Actual
+2016-02,AB3,Oil Pump,1,,,Actual
+2016-02,AF2,Electrical & Instruments,1,,,Actual
+2016-02,AB3,Sound & Vibration,1,,,Actual
+2016-02,AAA2,Shaft Seal,1,,,Actual
+2016-02,AAA3,Sound & Vibration,1,,,Actual
+2016-02,AAA6,Sound & Vibration,1,,,Actual
+2016-02,AB4,Electrical & Instruments,1,,,Actual
+2016-02,AAA3,Valves & Solenoids,1,,,Actual
+2016-02,AAA42,Shaft Seal,1,,,Actual
+2016-02,AB6,Leaks (General),1,,,Actual
+2016-02,AB6,Others,1,,,Actual
+2016-02,AB3,Leaks (General),1,,,Actual
+2016-02,AB31,Sound & Vibration,1,,,Actual
+2016-02,AB6,Electrical & Instruments,1,,,Actual
+2016-02,AAA6,Sound & Vibration,1,,,Actual
+2016-03,AAA2,Sound & Vibration,1,,,Actual
+2016-03,AB3,Oil Pump,1,,,Actual
+2016-03,AAA4,Valves & Solenoids,1,,,Actual
+2016-03,AB42,Shaft Seal,1,,,Actual
+2016-03,AB4,Leaks (General),1,,,Actual
+2016-03,AB42,Sound & Vibration,1,,,Actual
+2016-03,AB4,Sound & Vibration,1,,,Actual
+2016-03,AF2,Valves & Solenoids,1,,,Actual
+2016-04,AAA3,Cylinder & Overheating,1,,,Actual
+2016-04,AAA3,Valves & Solenoids,1,,,Actual
+2016-04,AB3,Valves & Solenoids,1,,,Actual
+2016-04,AAA2,Valves & Solenoids,1,,,Actual
+2016-04,AAA42,Shaft Seal,1,,,Actual
+2016-04,AAA6,Oil Pump,1,,,Actual
+2016-04,AAA72,Electrical & Instruments,1,,,Actual
+2016-04,AB3,Cylinder & Overheating,1,,,Actual
+2016-04,AB3,Shaft Seal,1,,,Actual
+2016-04,AB3,Valves & Solenoids,1,,,Actual
+2016-04,AB93,Oil Pump,1,,,Actual
+2016-04,AF2,Leaks (General),1,,,Actual
+2016-04,AAA3,Sound & Vibration,1,,,Actual
+2016-04,AB4,Oil Pump,1,,,Actual
+2016-05,AAA2,Leaks (General),1,,,Actual
+2016-05,AAA6,Cylinder & Overheating,1,,,Actual
+2016-05,AB51,Electrical & Instruments,1,,,Actual
+2016-05,AB6,Cylinder & Overheating,1,,,Actual
+2016-05,AB6,Sound & Vibration,1,,,Actual
+2016-05,AAA4,Shaft Seal,1,,,Actual
+2016-05,AAA6,Cylinder & Overheating,1,,,Actual
+2016-05,AB93,Oil Pump,1,,,Actual
+2016-05,AAA2,Oil Pump,1,,,Actual
+2016-05,AAA3,Cylinder & Overheating,1,,,Actual
+2016-05,AB9,Oil Pump,1,,,Actual
+2016-05,AAA2,Oil Pump,1,,,Actual
+2016-05,AAA3,Leaks (General),1,,,Actual
+2016-05,AAA4,Oil Pump,1,,,Actual
+2016-05,AAA4,Shaft Seal,1,,,Actual
+2016-05,AAA4,Valves & Solenoids,2,,,Actual
+2016-05,AB3,Oil Pump,1,,,Actual
+2016-05,AB4,Shaft Seal,1,,,Actual
+2016-05,AB6,Oil Pump,1,,,Actual
+2016-05,AB6,Shaft Seal,1,,,Actual
+2016-05,AB6,Sound & Vibration,1,,,Actual
+2016-05,AB9,Electrical & Instruments,1,,,Actual
+2016-05,AF2,Electrical & Instruments,1,,,Actual
+2016-05,AAA4,Leaks (General),1,,,Actual
+2016-05,AAA6,Electrical & Instruments,1,,,Actual
+2016-05,AAA6,Leaks (General),2,,,Actual
+2016-05,AB3,Others,1,,,Actual
+2016-06,AB6,Oil Pump,1,,,Actual
+2016-06,AAA3,Others,1,,,Actual
+2016-06,AAA3,Valves & Solenoids,3,,,Actual
+2016-06,AAA4,Others,2,,,Actual
+2016-06,AAA4,Valves & Solenoids,2,,,Actual
+2016-06,AB3,Oil Pump,1,,,Actual
+2016-06,AB3,Valves & Solenoids,1,,,Actual
+2016-06,AB4,Valves & Solenoids,1,,,Actual
+2016-06,AB72,Oil Pump,1,,,Actual
+2016-06,AB72,Sound & Vibration,1,,,Actual
+2016-06,AAA3,Cylinder & Overheating,1,,,Actual
+2016-06,AAA3,Leaks (General),1,,,Actual
+2016-06,AAA2,Valves & Solenoids,1,,,Actual
+2016-06,AAA3,Electrical & Instruments,1,,,Actual
+2016-06,AAA4,Oil Pump,1,,,Actual
+2016-06,AB2,Shaft Seal,1,,,Actual
+2016-06,AB6,Oil Pump,1,,,Actual
+2016-06,AB6,Valves & Solenoids,1,,,Actual
+2016-06,AB93,Valves & Solenoids,1,,,Actual
+2016-06,AF2,Electrical & Instruments,1,,,Actual
+2016-06,AB42,Valves & Solenoids,1,,,Actual
+2016-06,AB6,Sound & Vibration,1,,,Actual
+2016-06,AB3,Sound & Vibration,1,,,Actual
+2016-06,AB4,Valves & Solenoids,2,,,Actual
+2016-06,AB6,Oil Pump,1,,,Actual
+2016-06,AF2,Leaks (General),1,,,Actual
+2016-06,AF2,Oil Pump,2,,,Actual
+2016-07,AB4,Oil Pump,1,,,Actual
+2016-07,AB6,Oil Pump,1,,,Actual
+2016-07,AB93,Major Mechanical,1,,,Actual
+2016-07,AAA42,Others,1,,,Actual
+2016-07,AB3,Oil Pump,1,,,Actual
+2016-07,AB6,Sound & Vibration,1,,,Actual
+2016-07,AB72,Oil Pump,1,,,Actual
+2016-07,AB9,Leaks (General),1,,,Actual
+2016-07,AAA3,Leaks (General),1,,,Actual
+2016-07,AAA3,Oil Pump,1,,,Actual
+2016-07,AAA3,Others,1,,,Actual
+2016-07,AAA3,Shaft Seal,1,,,Actual
+2016-07,AAA3,Valves & Solenoids,1,,,Actual
+2016-07,AAA6,Sound & Vibration,1,,,Actual
+2016-07,AB6,Valves & Solenoids,1,,,Actual
+2016-07,AAA3,Cylinder & Overheating,1,,,Actual
+2016-08,AAA3,Others,1,,,Actual
+2016-08,AB2,Electrical & Instruments,1,,,Actual
+2016-08,AB4,Leaks (General),1,,,Actual
+2016-08,AB4,Valves & Solenoids,1,,,Actual
+2016-08,AB42,Electrical & Instruments,1,,,Actual
+2016-08,AB6,Oil Pump,1,,,Actual
+2016-08,AF2,Valves & Solenoids,1,,,Actual
+2016-08,AAA4,Others,1,,,Actual
+2016-08,AAA6,Oil Pump,1,,,Actual
+2016-08,AB21,Valves & Solenoids,1,,,Actual
+2016-08,AB4,Oil Pump,1,,,Actual
+2016-08,AAA3,Cylinder & Overheating,1,,,Actual
+2016-08,AB72,Leaks (General),1,,,Actual
+2016-08,AB4,Oil Pump,1,,,Actual
+2016-08,AB4,Sound & Vibration,1,,,Actual
+2016-08,AAA3,Valves & Solenoids,1,,,Actual
+2016-08,AB72,Oil Pump,1,,,Actual
+2016-08,AB4,Sound & Vibration,1,,,Actual
+2016-08,AB42,Leaks (General),1,,,Actual
+2016-08,AB93,Oil Pump,1,,,Actual
+2016-08,AAA4,Valves & Solenoids,1,,,Actual
+2016-08,AB21,Valves & Solenoids,1,,,Actual
+2016-08,AB4,Shaft Seal,1,,,Actual
+2016-08,AAA9,Others,1,,,Actual
+2016-08,AAA9,Sound & Vibration,1,,,Actual
+2016-08,AB42,Oil Pump,1,,,Actual
+2016-08,AB63,Shaft Seal,1,,,Actual
+2016-09,AAA2,Oil Pump,1,,,Actual
+2016-09,AAA3,Leaks (General),1,,,Actual
+2016-09,AAA3,Oil Pump,1,,,Actual
+2016-09,AAA6,Electrical & Instruments,1,,,Actual
+2016-09,AB3,Leaks (General),1,,,Actual
+2016-09,AB6,Sound & Vibration,1,,,Actual
+2016-09,AAA6,Sound & Vibration,1,,,Actual
+2016-09,AAA3,Sound & Vibration,1,,,Actual
+2016-09,AB51,Sound & Vibration,1,,,Actual
+2016-09,AB3,Sound & Vibration,1,,,Actual
+2016-09,AAA3,Cylinder & Overheating,1,,,Actual
+2016-09,AB93,Others,1,,,Actual
+2016-09,AB72,Sound & Vibration,1,,,Actual
+2016-09,AAA6,Others,1,,,Actual
+2016-09,AB21,Others,1,,,Actual
+2016-10,AB4,Others,1,,,Actual
+2016-10,AB3,Cylinder & Overheating,1,,,Actual
+2016-10,AB3,Others,1,,,Actual
+2016-10,AAA42,Sound & Vibration,1,,,Actual
+2016-10,AAA6,Sound & Vibration,1,,,Actual
+2016-10,AAA2,Sound & Vibration,1,,,Actual
+2016-10,AAA4,Valves & Solenoids,1,,,Actual
+2016-10,AAA6,Cylinder & Overheating,1,,,Actual
+2016-10,AB3,Oil Pump,1,,,Actual
+2016-10,AB3,Shaft Seal,1,,,Actual
+2016-10,AB51,Oil Pump,1,,,Actual
+2016-10,AB6,Oil Pump,1,,,Actual
+2016-10,AAA72,Sound & Vibration,1,,,Actual
+2016-10,AAA3,Sound & Vibration,1,,,Actual
+2016-10,AB3,Shaft Seal,1,,,Actual
+2016-10,AAA6,Oil Pump,1,,,Actual
+2016-10,AB3,Others,1,,,Actual
+2016-10,AAA31,Oil Pump,1,,,Actual
+2016-10,AAA4,Shaft Seal,1,,,Actual
+2016-11,AB6,Sound & Vibration,1,,,Actual
+2016-11,AAA4,Leaks (General),1,,,Actual
+2016-11,AB42,Sound & Vibration,1,,,Actual
+2016-11,AB72,Shaft Seal,1,,,Actual
+2016-11,AB42,Oil Pump,1,,,Actual
+2016-11,AAA2,Electrical & Instruments,1,,,Actual
+2016-11,AAA21,Oil Pump,1,,,Actual
+2016-11,AAA3,Cylinder & Overheating,1,,,Actual
+2016-11,AAA3,Sound & Vibration,1,,,Actual
+2016-11,AAA4,Cylinder & Overheating,1,,,Actual
+2016-11,AAA4,Sound & Vibration,3,,,Actual
+2016-11,AAA6,Sound & Vibration,1,,,Actual
+2016-11,AB3,Shaft Seal,1,,,Actual
+2016-11,AB4,Others,1,,,Actual
+2016-12,AAA1,Others,1,,,Actual
+2016-12,AAA2,Cylinder & Overheating,1,,,Actual
+2016-12,AAA4,Sound & Vibration,1,,,Actual
+2016-12,AB21,Leaks (General),1,,,Actual
+2016-12,AB3,Shaft Seal,1,,,Actual
+2016-12,AB51,Leaks (General),1,,,Actual
+2016-12,AB6,Sound & Vibration,1,,,Actual
+2016-12,AB72,Others,1,,,Actual
+2016-12,AB2,Shaft Seal,1,,,Actual
+2016-12,AB42,Leaks (General),1,,,Actual
+2016-12,AB51,Leaks (General),1,,,Actual
+2016-12,AAA6,Others,1,,,Actual
+2016-12,AAA3,Sound & Vibration,1,,,Actual
+2016-12,AAA4,Shaft Seal,2,,,Actual
+2016-12,AAA6,Cylinder & Overheating,1,,,Actual
+2016-12,AAA72,Shaft Seal,1,,,Actual
+2016-12,AB42,Others,1,,,Actual
+2016-12,AB72,Others,1,,,Actual
+2016-12,AB72,Shaft Seal,1,,,Actual
+2017-01,AAA2,Cylinder & Overheating,1,,,Actual
+2017-01,AB6,Sound & Vibration,1,,,Actual
+2017-01,AAA2,Electrical & Instruments,2,,,Actual
+2017-01,AAA2,Shaft Seal,1,,,Actual
+2017-01,AAA4,Major Mechanical,1,,,Actual
+2017-01,AAA4,Oil Pump,1,,,Actual
+2017-01,AAA2,Sound & Vibration,1,,,Actual
+2017-01,AAA3,Leaks (General),1,,,Actual
+2017-01,AAA6,Sound & Vibration,1,,,Actual
+2017-01,AB51,Oil Pump,1,,,Actual
+2017-01,AB6,Sound & Vibration,1,,,Actual
+2017-01,AB93,Others,1,,,Actual
+2017-01,AAA2,Others,1,,,Actual
+2017-01,AAA3,Shaft Seal,1,,,Actual
+2017-01,AB3,Others,1,,,Actual
+2017-01,AB3,Leaks (General),1,,,Actual
+2017-01,AB31,Leaks (General),1,,,Actual
+2017-02,AB93,Others,1,,,Actual
+2017-02,AAA3,Shaft Seal,1,,,Actual
+2017-02,AAA4,Cylinder & Overheating,1,,,Actual
+2017-02,AAA4,Oil Pump,1,,,Actual
+2017-02,AB3,Others,1,,,Actual
+2017-02,AB6,Leaks (General),1,,,Actual
+2017-02,AAA4,Shaft Seal,2,,,Actual
+2017-02,AB3,Others,1,,,Actual
+2017-02,AB4,Oil Pump,1,,,Actual
+2017-02,AB9,Others,1,,,Actual
+2017-02,AAA2,Electrical & Instruments,1,,,Actual
+2017-02,AB6,Sound & Vibration,1,,,Actual
+2017-02,AB72,Oil Pump,1,,,Actual
+2017-02,AB72,Sound & Vibration,1,,,Actual
+2017-03,AAA3,Valves & Solenoids,2,,,Actual
+2017-03,AAA4,Valves & Solenoids,2,,,Actual
+2017-03,AB2,Valves & Solenoids,1,,,Actual
+2017-03,AAA6,Oil Pump,1,,,Actual
+2017-03,AAA3,Oil Pump,1,,,Actual
+2017-03,AAA4,Major Mechanical,1,,,Actual
+2017-03,AAA4,Oil Pump,1,,,Actual
+2017-03,AAA2,Electrical & Instruments,1,,,Actual
+2017-03,AAA4,Oil Pump,6,,,Actual
+2017-03,AAA4,Shaft Seal,1,,,Actual
+2017-03,AAA4,Valves & Solenoids,1,,,Actual
+2017-03,AAA6,Shaft Seal,2,,,Actual
+2017-03,AAA6,Sound & Vibration,2,,,Actual
+2017-03,AB3,Shaft Seal,1,,,Actual
+2017-03,AB4,Oil Pump,1,,,Actual
+2017-03,AB42,Sound & Vibration,1,,,Actual
+2017-03,AAA2,Others,1,,,Actual
+2017-03,AAA21,Valves & Solenoids,1,,,Actual
+2017-03,AAA3,Shaft Seal,1,,,Actual
+2017-03,AAA4,Oil Pump,1,,,Actual
+2017-03,AB4,Sound & Vibration,1,,,Actual
+2017-03,AB51,Shaft Seal,2,,,Actual
+2017-04,AAA4,Oil Pump,1,,,Actual
+2017-04,AAA72,Valves & Solenoids,1,,,Actual
+2017-04,AB3,Others,1,,,Actual
+2017-04,AB4,Electrical & Instruments,1,,,Actual
+2017-04,AB72,Sound & Vibration,1,,,Actual
+2017-04,AAA4,Leaks (General),1,,,Actual
+2017-04,AAA42,Others,1,,,Actual
+2017-04,AB4,Sound & Vibration,1,,,Actual
+2017-04,AAA2,Electrical & Instruments,1,,,Actual
+2017-04,AAA3,Others,1,,,Actual
+2017-04,AAA3,Sound & Vibration,1,,,Actual
+2017-04,AAA4,Leaks (General),1,,,Actual
+2017-04,AAA4,Oil Pump,1,,,Actual
+2017-04,AAA4,Shaft Seal,2,,,Actual
+2017-04,AAA72,Major Mechanical,2,,,Actual
+2017-04,AB4,Oil Pump,1,,,Actual
+2017-04,AB72,Valves & Solenoids,1,,,Actual
+2017-05,AAA3,Oil Pump,2,,,Actual
+2017-05,AAA4,Leaks (General),1,,,Actual
+2017-05,AAA4,Oil Pump,1,,,Actual
+2017-05,AAA6,Oil Pump,2,,,Actual
+2017-05,AAA6,Sound & Vibration,1,,,Actual
+2017-05,AAA72,Sound & Vibration,2,,,Actual
+2017-05,AAA9,Sound & Vibration,1,,,Actual
+2017-05,AB3,Others,1,,,Actual
+2017-05,AAA4,Cylinder & Overheating,1,,,Actual
+2017-05,AAA4,Oil Pump,1,,,Actual
+2017-05,AAA4,Shaft Seal,1,,,Actual
+2017-05,AAA3,Oil Pump,1,,,Actual
+2017-05,AAA3,Others,1,,,Actual
+2017-05,AAA3,Shaft Seal,3,,,Actual
+2017-05,AAA4,Electrical & Instruments,1,,,Actual
+2017-05,AAA6,Others,1,,,Actual
+2017-05,AB6,Sound & Vibration,1,,,Actual
+2017-06,AAA2,Others,1,,,Actual
+2017-06,AAA3,Oil Pump,1,,,Actual
+2017-06,AAA3,Shaft Seal,1,,,Actual
+2017-06,AAA3,Sound & Vibration,2,,,Actual
+2017-06,AAA4,Cylinder & Overheating,1,,,Actual
+2017-06,AAA4,Oil Pump,1,,,Actual
+2017-06,AAA6,Sound & Vibration,2,,,Actual
+2017-06,AAA72,Oil Pump,1,,,Actual
+2017-06,AB3,Valves & Solenoids,1,,,Actual
+2017-06,AAA4,Oil Pump,2,,,Actual
+2017-06,AB3,Others,1,,,Actual
+2017-06,AAA2,Others,1,,,Actual
+2017-06,AAA3,Others,1,,,Actual
+2017-06,AAA4,Valves & Solenoids,1,,,Actual
+2017-06,AAA6,Valves & Solenoids,1,,,Actual
+2017-06,AB4,Oil Pump,1,,,Actual
+2017-06,AB4,Valves & Solenoids,1,,,Actual
+2017-06,AB6,Oil Pump,1,,,Actual
+2017-06,AB6,Valves & Solenoids,2,,,Actual
+2017-07,AAA1,Leaks (General),1,,,Actual
+2017-07,AAA3,Electrical & Instruments,1,,,Actual
+2017-07,AAA3,Leaks (General),1,,,Actual
+2017-07,AAA3,Valves & Solenoids,2,,,Actual
+2017-07,AAA4,Electrical & Instruments,1,,,Actual
+2017-07,AAA4,Sound & Vibration,3,,,Actual
+2017-07,AAA6,Sound & Vibration,1,,,Actual
+2017-07,AB4,Sound & Vibration,1,,,Actual
+2017-07,AB6,Valves & Solenoids,1,,,Actual
+2017-07,AB72,Oil Pump,1,,,Actual
+2017-08,AAA2,Oil Pump,1,,,Actual
+2017-08,AAA6,Oil Pump,1,,,Actual
+2017-08,AAA9,Oil Pump,1,,,Actual
+2017-08,AAA3,Electrical & Instruments,1,,,Actual
+2017-08,AAA42,Valves & Solenoids,1,,,Actual
+2017-08,AB21,Sound & Vibration,1,,,Actual
+2017-08,AB6,Electrical & Instruments,1,,,Actual
+2017-08,AB6,Others,1,,,Actual
+2017-08,AAA2,Leaks (General),1,,,Actual
+2017-08,AAA3,Electrical & Instruments,1,,,Actual
+2017-08,AAA4,Leaks (General),1,,,Actual
+2017-08,AAA4,Oil Pump,1,,,Actual
+2017-08,AAA9,Others,1,,,Actual
+2017-08,AAA9,Sound & Vibration,1,,,Actual
+2017-08,AB3,Others,1,,,Actual
+2017-08,AB31,Electrical & Instruments,1,,,Actual
+2017-08,AB4,Valves & Solenoids,1,,,Actual
+2017-08,AB6,Sound & Vibration,1,,,Actual
+2017-08,AAA42,Cylinder & Overheating,1,,,Actual
+2017-09,AAA3,Oil Pump,1,,,Actual
+2017-09,AAA6,Oil Pump,1,,,Actual
+2017-09,AAA2,Shaft Seal,1,,,Actual
+2017-09,AAA3,Sound & Vibration,1,,,Actual
+2017-09,AAA4,Valves & Solenoids,1,,,Actual
+2017-09,AB6,Oil Pump,1,,,Actual
+2017-09,AAA3,Shaft Seal,1,,,Actual
+2017-09,AAA4,Electrical & Instruments,2,,,Actual
+2017-09,AAA6,Others,1,,,Actual
+2017-09,AB4,Others,3,,,Actual
+2017-09,AB42,Valves & Solenoids,1,,,Actual
+2017-09,AB6,Others,1,,,Actual
+2017-09,AB93,Others,1,,,Actual
+2017-10,AAA4,Valves & Solenoids,1,,,Actual
+2017-10,AAA42,Cylinder & Overheating,1,,,Actual
+2017-10,AAA51,Oil Pump,1,,,Actual
+2017-10,AAA3,Leaks (General),1,,,Actual
+2017-10,AAA3,Oil Pump,1,,,Actual
+2017-10,AAA3,Others,3,,,Actual
+2017-10,AAA3,Valves & Solenoids,1,,,Actual
+2017-10,AAA4,Leaks (General),1,,,Actual
+2017-10,AAA4,Shaft Seal,1,,,Actual
+2017-10,AAA42,Oil Pump,1,,,Actual
+2017-10,AAA6,Oil Pump,2,,,Actual
+2017-10,AAA72,Valves & Solenoids,1,,,Actual
+2017-10,AB21,Major Mechanical,1,,,Actual
+2017-10,AB4,Sound & Vibration,1,,,Actual
+2017-10,AB93,Oil Pump,1,,,Actual
+2017-10,AB93,Others,1,,,Actual
+2017-11,AAA6,Sound & Vibration,1,,,Actual
+2017-11,AAA3,Others,1,,,Actual
+2017-11,AAA4,Electrical & Instruments,1,,,Actual
+2017-11,AAA4,Others,1,,,Actual
+2017-11,AAA6,Oil Pump,1,,,Actual
+2017-11,AAA6,Others,2,,,Actual
+2017-11,AAA6,Sound & Vibration,1,,,Actual
+2017-11,AAA72,Oil Pump,1,,,Actual
+2017-11,AB72,Electrical & Instruments,1,,,Actual
+2017-11,AF2,Oil Pump,1,,,Actual
+2017-11,AAA2,Others,1,,,Actual
+2017-11,AAA4,Oil Pump,1,,,Actual
+2017-11,AAA4,Shaft Seal,1,,,Actual
+2017-11,AAA4,Valves & Solenoids,1,,,Actual
+2017-11,AAA42,Cylinder & Overheating,1,,,Actual
+2017-11,AAA51,Oil Pump,1,,,Actual
+2017-11,AB4,Oil Pump,1,,,Actual
+2017-11,AF2,Oil Pump,1,,,Actual
+2017-12,AAA2,Cylinder & Overheating,1,,,Actual
+2017-12,AAA4,Oil Pump,2,,,Actual
+2017-12,AAA4,Shaft Seal,3,,,Actual
+2017-12,AAA42,Valves & Solenoids,1,,,Actual
+2017-12,AAA9,Sound & Vibration,1,,,Actual
+2017-12,AB6,Oil Pump,1,,,Actual
+2017-12,AB72,Oil Pump,1,,,Actual
+2017-12,AB72,Shaft Seal,1,,,Actual
+2017-12,AB72,Sound & Vibration,1,,,Actual
+2017-12,AAA2,Electrical & Instruments,1,,,Actual
+2017-12,AAA72,Oil Pump,1,,,Actual
+2018-01,AAA3,Leaks (General),2,,,Actual
+2018-01,AAA3,Others,1,,,Actual
+2018-01,AAA3,Sound & Vibration,1,,,Actual
+2018-01,AAA3,Valves & Solenoids,1,,,Actual
+2018-01,AAA4,Shaft Seal,1,,,Actual
+2018-01,AAA51,Electrical & Instruments,1,,,Actual
+2018-01,AAA72,Sound & Vibration,1,,,Actual
+2018-01,AB6,Oil Pump,1,,,Actual
+2018-01,AAA2,Oil Pump,1,,,Actual
+2018-01,AAA4,Oil Pump,1,,,Actual
+2018-01,AAA42,Electrical & Instruments,1,,,Actual
+2018-01,AAA42,Others,1,,,Actual
+2018-01,AAA51,Major Mechanical,1,,,Actual
+2018-01,AAA51,Oil Pump,1,,,Actual
+2018-01,AAA51,Others,1,,,Actual
+2018-01,AAA51,Valves & Solenoids,1,,,Actual
+2018-01,AAA6,Sound & Vibration,2,,,Actual
+2018-01,AAA72,Sound & Vibration,1,,,Actual
+2018-01,AF2,Shaft Seal,1,,,Actual
+2018-01,AAA1,Leaks (General),1,,,Actual
+2018-01,AAA1,Others,2,,,Actual
+2018-01,AAA2,Sound & Vibration,1,,,Actual
+2018-01,AAA31,Oil Pump,1,,,Actual
+2018-01,AAA72,Sound & Vibration,1,,,Actual
+2018-01,AB51,Oil Pump,1,,,Actual
+2018-01,AB6,Leaks (General),1,,,Actual
+2018-01,AB9,Sound & Vibration,1,,,Actual
+2018-02,AAA2,Electrical & Instruments,1,,,Actual
+2018-02,AAA21,Oil Pump,2,,,Actual
+2018-02,AAA3,Electrical & Instruments,1,,,Actual
+2018-02,AAA3,Oil Pump,1,,,Actual
+2018-02,AAA3,Others,1,,,Actual
+2018-02,AAA31,Oil Pump,2,,,Actual
+2018-02,AAA42,Oil Pump,3,,,Actual
+2018-02,AAA72,Others,1,,,Actual
+2018-02,AAA72,Sound & Vibration,3,,,Actual
+2018-02,AB4,Valves & Solenoids,1,,,Actual
+2018-03,AAA2,Shaft Seal,1,,,Actual
+2018-03,AAA42,Electrical & Instruments,1,,,Actual
+2018-03,AB84,Oil Pump,1,,,Actual
+2018-03,AAA3,Others,1,,,Actual
+2018-03,AAA6,Oil Pump,1,,,Actual
+2018-03,AAA72,Sound & Vibration,1,,,Actual
+2018-03,AB31,Leaks (General),1,,,Actual
+2018-03,AF2,Oil Pump,1,,,Actual
+2018-03,AAA4,Oil Pump,1,,,Actual
+2018-03,AAA4,Shaft Seal,1,,,Actual
+2018-03,AAA6,Oil Pump,2,,,Actual
+2018-03,AAA4,Oil Pump,1,,,Actual
+2018-03,AAA42,Sound & Vibration,1,,,Actual
+2018-03,AAA6,Oil Pump,1,,,Actual
+2018-03,AAA6,Others,1,,,Actual
+2018-03,AF2,Sound & Vibration,1,,,Actual
+2018-04,AAA9,Shaft Seal,1,,,Actual
+2018-04,AAA9,Valves & Solenoids,1,,,Actual
+2018-04,AB9,Sound & Vibration,1,,,Actual
+2018-04,AAA1,Others,1,,,Actual
+2018-04,AAA2,Oil Pump,1,,,Actual
+2018-04,AAA2,Others,1,,,Actual
+2018-04,AAA2,Shaft Seal,1,,,Actual
+2018-04,AAA3,Valves & Solenoids,1,,,Actual
+2018-04,AAA4,Oil Pump,3,,,Actual
+2018-04,AAA4,Valves & Solenoids,1,,,Actual
+2018-04,AAA42,Leaks (General),1,,,Actual
+2018-04,AAA42,Oil Pump,1,,,Actual
+2018-04,AAA42,Valves & Solenoids,1,,,Actual
+2018-04,AAA6,Oil Pump,1,,,Actual
+2018-04,AAA6,Sound & Vibration,1,,,Actual
+2018-04,AAA72,Sound & Vibration,1,,,Actual
+2018-04,AB3,Oil Pump,1,,,Actual
+2018-05,AAA2,Leaks (General),1,,,Actual
+2018-05,AAA2,Shaft Seal,1,,,Actual
+2018-05,AAA3,Others,1,,,Actual
+2018-05,AAA4,Electrical & Instruments,1,,,Actual
+2018-05,AAA4,Leaks (General),1,,,Actual
+2018-05,AAA4,Oil Pump,3,,,Actual
+2018-05,AAA4,Others,1,,,Actual
+2018-05,AAA4,Valves & Solenoids,1,,,Actual
+2018-05,AAA6,Leaks (General),1,,,Actual
+2018-05,AAA6,Sound & Vibration,1,,,Actual
+2018-05,AAA72,Sound & Vibration,1,,,Actual
+2018-05,AAA93,Valves & Solenoids,1,,,Actual
+2018-05,AF2,Shaft Seal,1,,,Actual
+2018-05,AAA2,Valves & Solenoids,1,,,Actual
+2018-06,AAA51,Leaks (General),1,,,Actual
+2018-06,AAA21,Electrical & Instruments,1,,,Actual
+2018-06,AAA3,Valves & Solenoids,1,,,Actual
+2018-06,AAA4,Cylinder & Overheating,2,,,Actual
+2018-06,AAA4,Electrical & Instruments,1,,,Actual
+2018-06,AAA4,Leaks (General),1,,,Actual
+2018-06,AAA4,Oil Pump,3,,,Actual
+2018-06,AAA51,Sound & Vibration,1,,,Actual
+2018-06,AAA6,Oil Pump,5,,,Actual
+2018-06,AAA6,Valves & Solenoids,2,,,Actual
+2018-06,AAA72,Others,1,,,Actual
+2018-06,AAA3,Oil Pump,1,,,Actual
+2018-06,AAA4,Others,1,,,Actual
+2018-06,AAA51,Valves & Solenoids,1,,,Actual
+2018-06,AAA6,Oil Pump,1,,,Actual
+2018-06,AAA72,Others,1,,,Actual
+2018-06,AB4,Others,1,,,Actual
+2018-06,AB63,Oil Pump,1,,,Actual
+2018-07,AAA2,Valves & Solenoids,1,,,Actual
+2018-07,AAA4,Leaks (General),1,,,Actual
+2018-07,AAA6,Cylinder & Overheating,1,,,Actual
+2018-07,AAA63,Electrical & Instruments,1,,,Actual
+2018-07,AAA9,Sound & Vibration,1,,,Actual
+2018-07,AAA2,Electrical & Instruments,1,,,Actual
+2018-07,AAA2,Shaft Seal,1,,,Actual
+2018-07,AAA21,Sound & Vibration,1,,,Actual
+2018-07,AAA3,Cylinder & Overheating,1,,,Actual
+2018-07,AAA3,Oil Pump,1,,,Actual
+2018-07,AAA3,Others,2,,,Actual
+2018-07,AAA3,Sound & Vibration,1,,,Actual
+2018-07,AAA4,Leaks (General),1,,,Actual
+2018-07,AAA4,Oil Pump,1,,,Actual
+2018-07,AAA4,Others,1,,,Actual
+2018-07,AAA4,Sound & Vibration,1,,,Actual
+2018-07,AAA4,Valves & Solenoids,1,,,Actual
+2018-07,AAA6,Oil Pump,1,,,Actual
+2018-07,AAA6,Shaft Seal,1,,,Actual
+2018-07,AB63,Others,1,,,Actual
+2018-07,AB63,Sound & Vibration,1,,,Actual
+2018-07,AAA4,Leaks (General),1,,,Actual
+2018-07,AAA4,Oil Pump,1,,,Actual
+2018-07,AAA4,Shaft Seal,1,,,Actual
+2018-07,AAA4,Sound & Vibration,1,,,Actual
+2018-07,AAA84,Cylinder & Overheating,1,,,Actual
+2018-07,AAA9,Others,1,,,Actual
+2018-07,AAA93,Cylinder & Overheating,1,,,Actual
+2018-07,AB84,Others,1,,,Actual
+2018-08,AAA2,Leaks (General),1,,,Actual
+2018-08,AAA3,Electrical & Instruments,1,,,Actual
+2018-08,AB84,Others,1,,,Actual
+2018-08,AAA51,Others,2,,,Actual
+2018-08,AAA72,Major Mechanical,1,,,Actual
+2018-08,AAA21,Sound & Vibration,1,,,Actual
+2018-08,AAA3,Oil Pump,2,,,Actual
+2018-08,AAA31,Cylinder & Overheating,1,,,Actual
+2018-08,AAA4,Cylinder & Overheating,1,,,Actual
+2018-08,AAA4,Valves & Solenoids,1,,,Actual
+2018-08,AAA42,Sound & Vibration,1,,,Actual
+2018-08,AAA6,Shaft Seal,1,,,Actual
+2018-08,AAA72,Valves & Solenoids,1,,,Actual
+2018-08,AB84,Valves & Solenoids,2,,,Actual
+2018-08,AAA3,Electrical & Instruments,1,,,Actual
+2018-08,AAA2,Leaks (General),1,,,Actual
+2018-08,AB4,Cylinder & Overheating,1,,,Actual
+2018-08,AAA6,Oil Pump,1,,,Actual
+2018-09,AAA3,Leaks (General),1,,,Actual
+2018-09,AAA3,Shaft Seal,1,,,Actual
+2018-09,AAA3,Sound & Vibration,1,,,Actual
+2018-09,AAA4,Oil Pump,2,,,Actual
+2018-09,AAA4,Others,1,,,Actual
+2018-09,AAA42,Sound & Vibration,1,,,Actual
+2018-09,AAA42,Valves & Solenoids,1,,,Actual
+2018-09,AAA51,Sound & Vibration,1,,,Actual
+2018-09,AAA6,Oil Pump,2,,,Actual
+2018-09,AAA6,Sound & Vibration,1,,,Actual
+2018-09,AAA72,Major Mechanical,1,,,Actual
+2018-09,AAA2,Oil Pump,1,,,Actual
+2018-09,AAA3,Cylinder & Overheating,1,,,Actual
+2018-09,AAA3,Oil Pump,1,,,Actual
+2018-09,AAA3,Sound & Vibration,1,,,Actual
+2018-09,AAA51,Leaks (General),1,,,Actual
+2018-09,AAA51,Major Mechanical,1,,,Actual
+2018-09,AAA6,Electrical & Instruments,1,,,Actual
+2018-09,AAA6,Others,1,,,Actual
+2018-09,AAA72,Leaks (General),1,,,Actual
+2018-09,AAA72,Major Mechanical,1,,,Actual
+2018-09,AAA72,Sound & Vibration,1,,,Actual
+2018-10,AAA1,Sound & Vibration,1,,,Actual
+2018-10,AAA4,Others,1,,,Actual
+2018-10,AAA4,Sound & Vibration,1,,,Actual
+2018-10,AAA72,Sound & Vibration,1,,,Actual
+2018-10,AAA2,Others,1,,,Actual
+2018-10,AAA21,Oil Pump,1,,,Actual
+2018-10,AAA3,Oil Pump,1,,,Actual
+2018-10,AAA3,Shaft Seal,1,,,Actual
+2018-10,AAA3,Valves & Solenoids,1,,,Actual
+2018-10,AAA4,Oil Pump,2,,,Actual
+2018-10,AAA4,Others,2,,,Actual
+2018-10,AAA6,Cylinder & Overheating,1,,,Actual
+2018-10,AAA6,Others,2,,,Actual
+2018-10,AAA6,Shaft Seal,2,,,Actual
+2018-10,AAA6,Sound & Vibration,2,,,Actual
+2018-10,AAA72,Oil Pump,1,,,Actual
+2018-10,AB4,Others,1,,,Actual
+2018-10,AB4,Sound & Vibration,1,,,Actual
+2018-10,AAA3,Electrical & Instruments,1,,,Actual
+2018-11,AAA1,Sound & Vibration,1,,,Actual
+2018-11,AAA2,Others,1,,,Actual
+2018-11,AAA3,Leaks (General),1,,,Actual
+2018-11,AAA6,Leaks (General),1,,,Actual
+2018-11,AAA6,Others,1,,,Actual
+2018-11,AAA6,Sound & Vibration,1,,,Actual
+2018-11,AAA3,Shaft Seal,1,,,Actual
+2018-11,AAA51,Sound & Vibration,1,,,Actual
+2018-11,AAA6,Shaft Seal,1,,,Actual
+2018-11,AAA72,Others,1,,,Actual
+2018-11,AB93,Oil Pump,1,,,Actual
+2018-12,AAA2,Others,2,,,Actual
+2018-12,AAA3,Others,2,,,Actual
+2018-12,AAA4,Electrical & Instruments,1,,,Actual
+2018-12,AAA4,Sound & Vibration,1,,,Actual
+2018-12,AAA42,Sound & Vibration,1,,,Actual
+2018-12,AAA6,Sound & Vibration,2,,,Actual
+2018-12,AAA72,Oil Pump,1,,,Actual
+2018-12,AB21,Sound & Vibration,1,,,Actual
+2018-12,AB42,Valves & Solenoids,1,,,Actual
+2018-12,AB6,Others,1,,,Actual
+2018-12,AB72,Oil Pump,1,,,Actual
+2018-12,AB84,Others,1,,,Actual
+2018-12,AAA72,Sound & Vibration,1,,,Actual
+2018-12,AAA3,Leaks (General),1,,,Actual
+2018-12,AAA3,Oil Pump,1,,,Actual
+2018-12,AAA3,Shaft Seal,1,,,Actual
+2018-12,AAA4,Sound & Vibration,1,,,Actual
+2018-12,AAA51,Leaks (General),1,,,Actual
+2018-12,AAA9,Leaks (General),1,,,Actual
+2019-01,AAA2,Oil Pump,1,,,Actual
+2019-01,AAA21,Electrical & Instruments,1,,,Actual
+2019-01,AAA21,Oil Pump,1,,,Actual
+2019-01,AAA3,Cylinder & Overheating,1,,,Actual
+2019-01,AAA3,Leaks (General),1,,,Actual
+2019-01,AAA3,Sound & Vibration,2,,,Actual
+2019-01,AAA4,Cylinder & Overheating,1,,,Actual
+2019-01,AAA4,Others,3,,,Actual
+2019-01,AAA4,Shaft Seal,1,,,Actual
+2019-01,AAA4,Sound & Vibration,1,,,Actual
+2019-01,AAA42,Sound & Vibration,2,,,Actual
+2019-01,AAA51,Leaks (General),1,,,Actual
+2019-01,AAA6,Oil Pump,1,,,Actual
+2019-01,AAA6,Others,3,,,Actual
+2019-01,AAA6,Shaft Seal,1,,,Actual
+2019-01,AAA6,Sound & Vibration,2,,,Actual
+2019-01,AAA63,Others,1,,,Actual
+2019-01,AAA72,Electrical & Instruments,1,,,Actual
+2019-01,AAA72,Others,1,,,Actual
+2019-01,AAA9,Others,1,,,Actual
+2019-01,AAA93,Electrical & Instruments,1,,,Actual
+2019-01,AB4,Others,1,,,Actual
+2019-01,AB4,Sound & Vibration,2,,,Actual
+2019-01,AB72,Others,1,,,Actual
+2019-01,AF2,Oil Pump,1,,,Actual
+2019-02,AAA3,Others,1,,,Actual
+2019-02,AAA4,Shaft Seal,1,,,Actual
+2019-02,AB42,Sound & Vibration,1,,,Actual
+2019-02,AAA1,Oil Pump,1,,,Actual
+2019-02,AAA2,Others,2,,,Actual
+2019-02,AAA2,Shaft Seal,1,,,Actual
+2019-02,AAA3,Cylinder & Overheating,2,,,Actual
+2019-02,AAA3,Others,1,,,Actual
+2019-02,AAA3,Sound & Vibration,1,,,Actual
+2019-02,AAA4,Oil Pump,1,,,Actual
+2019-02,AAA4,Others,1,,,Actual
+2019-02,AAA42,Sound & Vibration,1,,,Actual
+2019-02,AAA51,Valves & Solenoids,1,,,Actual
+2019-02,AAA6,Cylinder & Overheating,1,,,Actual
+2019-02,AAA6,Shaft Seal,2,,,Actual
+2019-02,AAA6,Sound & Vibration,1,,,Actual
+2019-02,AB63,Leaks (General),1,,,Actual
+2019-02,AB6,Others,1,,,Actual
+2019-02,AAA4,Sound & Vibration,1,,,Actual
+2019-02,AB63,Leaks (General),1,,,Actual
+2019-02,AB63,Others,1,,,Actual
+2019-02,AB84,Valves & Solenoids,1,,,Actual
+2019-02,AAA3,Cylinder & Overheating,1,,,Actual
+2019-02,AAA4,Shaft Seal,1,,,Actual
+2019-02,AAA42,Sound & Vibration,1,,,Actual
+2019-02,AAA6,Cylinder & Overheating,2,,,Actual
+2019-02,AAA6,Valves & Solenoids,1,,,Actual
+2019-03,AAA3,Valves & Solenoids,1,,,Actual
+2019-03,AAA6,Shaft Seal,1,,,Actual
+2019-03,AAA72,Cylinder & Overheating,1,,,Actual
+2019-03,AAA93,Valves & Solenoids,1,,,Actual
+2019-03,AAA2,Sound & Vibration,1,,,Actual
+2019-03,AAA3,Sound & Vibration,1,,,Actual
+2019-03,AAA4,Valves & Solenoids,1,,,Actual
+2019-03,AAA6,Sound & Vibration,1,,,Actual
+2019-03,AAA72,Others,1,,,Actual
+2019-03,AAA2,Leaks (General),1,,,Actual
+2019-03,AAA21,Shaft Seal,1,,,Actual
+2019-03,AAA3,Leaks (General),1,,,Actual
+2019-03,AAA3,Shaft Seal,1,,,Actual
+2019-03,AAA4,Oil Pump,1,,,Actual
+2019-03,AAA51,Valves & Solenoids,1,,,Actual
+2019-03,AAA6,Leaks (General),1,,,Actual
+2019-03,AAA6,Oil Pump,1,,,Actual
+2019-03,AAA93,Others,1,,,Actual
+2019-03,AB72,Leaks (General),1,,,Actual
+2019-03,AB9,Shaft Seal,1,,,Actual
+2019-04,AAA2,Electrical & Instruments,1,,,Actual
+2019-04,AAA2,Oil Pump,1,,,Actual
+2019-04,AAA2,Others,1,,,Actual
+2019-04,AAA2,Sound & Vibration,1,,,Actual
+2019-04,AAA21,Leaks (General),1,,,Actual
+2019-04,AAA3,Oil Pump,2,,,Actual
+2019-04,AAA3,Shaft Seal,1,,,Actual
+2019-04,AAA4,Oil Pump,1,,,Actual
+2019-04,AAA4,Shaft Seal,1,,,Actual
+2019-04,AAA6,Sound & Vibration,1,,,Actual
+2019-04,AAA72,Others,1,,,Actual
+2019-04,AAA9,Others,1,,,Actual
+2019-04,AB6,Oil Pump,1,,,Actual
+2019-05,AAA6,Valves & Solenoids,1,,,Actual
+2019-05,AAA2,Oil Pump,1,,,Actual
+2019-05,AAA3,Cylinder & Overheating,1,,,Actual
+2019-05,AAA3,Oil Pump,1,,,Actual
+2019-05,AAA3,Shaft Seal,3,,,Actual
+2019-05,AAA4,Leaks (General),1,,,Actual
+2019-05,AAA6,Cylinder & Overheating,2,,,Actual
+2019-05,AAA6,Sound & Vibration,1,,,Actual
+2019-05,AAA63,Cylinder & Overheating,1,,,Actual
+2019-05,AAA72,Oil Pump,2,,,Actual
+2019-05,AAA72,Valves & Solenoids,1,,,Actual
+2019-05,AB3,Cylinder & Overheating,1,,,Actual
+2019-05,AAA2,Cylinder & Overheating,1,,,Actual
+2019-05,AAA2,Oil Pump,1,,,Actual
+2019-05,AAA2,Others,1,,,Actual
+2019-05,AAA2,Shaft Seal,1,,,Actual
+2019-05,AAA2,Sound & Vibration,1,,,Actual
+2019-05,AAA3,Leaks (General),1,,,Actual
+2019-05,AAA3,Oil Pump,2,,,Actual
+2019-05,AAA4,Oil Pump,1,,,Actual
+2019-05,AAA4,Shaft Seal,1,,,Actual
+2019-05,AAA51,Cylinder & Overheating,2,,,Actual
+2019-05,AAA51,Oil Pump,1,,,Actual
+2019-05,AAA6,Others,1,,,Actual
+2019-05,AAA9,Others,1,,,Actual
+2019-05,AAA2,Oil Pump,1,,,Actual
+2019-05,AAA3,Sound & Vibration,1,,,Actual
+2019-05,AAA4,Cylinder & Overheating,1,,,Actual
+2019-05,AAA4,Sound & Vibration,1,,,Actual
+2019-05,AAA6,Others,2,,,Actual
+2019-05,AAA72,Others,1,,,Actual
+2019-05,AAA9,Others,2,,,Actual
+2019-05,AAA9,Valves & Solenoids,1,,,Actual
+2019-05,AAA93,Leaks (General),1,,,Actual
+2019-06,AAA3,Leaks (General),1,,,Actual
+2019-06,AAA3,Oil Pump,1,,,Actual
+2019-06,AAA4,Oil Pump,1,,,Actual
+2019-06,AAA6,Leaks (General),1,,,Actual
+2019-06,AAA6,Oil Pump,1,,,Actual
+2019-06,AAA72,Cylinder & Overheating,1,,,Actual
+2019-06,AB3,Sound & Vibration,1,,,Actual
+2019-06,AAA1,Oil Pump,1,,,Actual
+2019-06,AAA2,Oil Pump,1,,,Actual
+2019-06,AAA21,Others,1,,,Actual
+2019-06,AAA3,Leaks (General),1,,,Actual
+2019-06,AAA4,Leaks (General),1,,,Actual
+2019-06,AAA4,Oil Pump,1,,,Actual
+2019-06,AAA4,Shaft Seal,1,,,Actual
+2019-06,AAA4,Sound & Vibration,1,,,Actual
+2019-06,AAA6,Others,2,,,Actual
+2019-06,AAA63,Sound & Vibration,1,,,Actual
+2019-06,AAA72,Others,2,,,Actual
+2019-06,AAA72,Valves & Solenoids,1,,,Actual
+2019-06,AAA84,Sound & Vibration,1,,,Actual
+2019-06,AAA9,Others,2,,,Actual
+2019-06,AAA3,Others,2,,,Actual
+2019-06,AAA4,Oil Pump,1,,,Actual
+2019-06,AAA4,Valves & Solenoids,1,,,Actual
+2019-06,AAA6,Others,1,,,Actual
+2019-06,AF2,Oil Pump,1,,,Actual
+2019-06,AAA3,Leaks (General),1,,,Actual
+2019-06,AAA72,Sound & Vibration,1,,,Actual
+2019-06,AAA3,Leaks (General),1,,,Actual
+2019-06,AAA3,Others,1,,,Actual
+2019-06,AAA4,Leaks (General),1,,,Actual
+2019-06,AAA4,Shaft Seal,1,,,Actual
+2019-06,AAA6,Shaft Seal,1,,,Actual
+2019-06,AAA93,Leaks (General),1,,,Actual
+2019-06,AAA93,Valves & Solenoids,1,,,Actual
+2019-07,AAA2,Electrical & Instruments,1,,,Actual
+2019-07,AAA4,Electrical & Instruments,1,,,Actual
+2019-07,AAA2,Leaks (General),1,,,Actual
+2019-07,AAA2,Oil Pump,1,,,Actual
+2019-07,AAA3,Others,1,,,Actual
+2019-07,AAA3,Sound & Vibration,1,,,Actual
+2019-07,AAA4,Leaks (General),1,,,Actual
+2019-07,AAA4,Others,1,,,Actual
+2019-07,AAA6,Shaft Seal,1,,,Actual
+2019-07,AAA6,Sound & Vibration,2,,,Actual
+2019-07,AAA9,Leaks (General),1,,,Actual
+2019-07,AAA93,Others,2,,,Actual
+2019-07,AAA3,Leaks (General),1,,,Actual
+2019-07,AAA4,Electrical & Instruments,1,,,Actual
+2019-07,AAA4,Oil Pump,1,,,Actual
+2019-07,AAA4,Others,1,,,Actual
+2019-07,AAA51,Sound & Vibration,1,,,Actual
+2019-07,AAA6,Shaft Seal,1,,,Actual
+2019-07,AAA6,Valves & Solenoids,1,,,Actual
+2019-07,AAA4,Cylinder & Overheating,1,,,Actual
+2019-07,AAA6,Others,1,,,Actual
+2019-07,AAA72,Cylinder & Overheating,1,,,Actual
+2019-07,AAA2,Leaks (General),1,,,Actual
+2019-07,AAA2,Oil Pump,2,,,Actual
+2019-07,AAA6,Leaks (General),1,,,Actual
+2019-07,AAA63,Cylinder & Overheating,1,,,Actual
+2019-07,AF2,Shaft Seal,1,,,Actual
+2019-07,AAA31,Others,1,,,Actual
+2019-07,AF2,Others,1,,,Actual
+2019-07,AAA51,Others,1,,,Actual
+2019-08,AAA3,Oil Pump,1,,,Actual
+2019-08,AAA6,Cylinder & Overheating,1,,,Actual
+2019-08,AAA6,Sound & Vibration,1,,,Actual
+2019-08,AAA2,Electrical & Instruments,1,,,Actual
+2019-08,AAA2,Shaft Seal,1,,,Actual
+2019-08,AAA3,Leaks (General),1,,,Actual
+2019-08,AAA3,Others,2,,,Actual
+2019-08,AAA6,Others,2,,,Actual
+2019-08,AAA9,Valves & Solenoids,1,,,Actual
+2019-08,AAA1,Others,1,,,Actual
+2019-08,AAA1,Sound & Vibration,1,,,Actual
+2019-08,AAA2,Electrical & Instruments,1,,,Actual
+2019-08,AAA2,Others,1,,,Actual
+2019-08,AAA4,Others,1,,,Actual
+2019-08,AAA4,Sound & Vibration,1,,,Actual
+2019-08,AAA42,Electrical & Instruments,1,,,Actual
+2019-08,AAA51,Electrical & Instruments,1,,,Actual
+2019-08,AAA6,Cylinder & Overheating,1,,,Actual
+2019-08,AAA6,Leaks (General),1,,,Actual
+2019-08,AAA6,Others,1,,,Actual
+2019-08,AAA6,Sound & Vibration,1,,,Actual
+2019-08,AAA6,Valves & Solenoids,1,,,Actual
+2019-08,AAA72,Valves & Solenoids,1,,,Actual
+2019-08,AAA9,Cylinder & Overheating,1,,,Actual
+2019-08,AAA9,Sound & Vibration,1,,,Actual
+2019-08,AAA93,Others,2,,,Actual
+2019-09,AAA3,Sound & Vibration,2,,,Actual
+2019-09,AAA4,Oil Pump,1,,,Actual
+2019-09,AAA42,Others,1,,,Actual
+2019-09,AAA6,Electrical & Instruments,1,,,Actual
+2019-09,AAA72,Sound & Vibration,1,,,Actual
+2019-09,AAA9,Others,1,,,Actual
+2019-09,AB72,Oil Pump,1,,,Actual
+2019-09,AAA1,Others,2,,,Actual
+2019-09,AAA2,Shaft Seal,1,,,Actual
+2019-09,AAA2,Sound & Vibration,1,,,Actual
+2019-09,AAA3,Electrical & Instruments,1,,,Actual
+2019-09,AAA3,Others,2,,,Actual
+2019-09,AAA3,Sound & Vibration,2,,,Actual
+2019-09,AAA42,Others,1,,,Actual
+2019-09,AAA51,Valves & Solenoids,2,,,Actual
+2019-09,AAA6,Others,1,,,Actual
+2019-09,AAA63,Sound & Vibration,1,,,Actual
+2019-09,AAA72,Cylinder & Overheating,1,,,Actual
+2019-09,AAA72,Sound & Vibration,1,,,Actual
+2019-09,AAA93,Cylinder & Overheating,1,,,Actual
+2019-09,AAA2,Oil Pump,1,,,Actual
+2019-09,AAA2,Sound & Vibration,1,,,Actual
+2019-09,AAA3,Cylinder & Overheating,2,,,Actual
+2019-09,AAA3,Electrical & Instruments,1,,,Actual
+2019-09,AAA3,Others,1,,,Actual
+2019-09,AAA4,Leaks (General),1,,,Actual
+2019-09,AAA4,Oil Pump,1,,,Actual
+2019-09,AAA4,Shaft Seal,1,,,Actual
+2019-09,AAA42,Sound & Vibration,1,,,Actual
+2019-09,AAA6,Others,3,,,Actual
+2019-09,AAA6,Valves & Solenoids,1,,,Actual
+2019-09,AAA72,Cylinder & Overheating,1,,,Actual
+2019-09,AAA72,Sound & Vibration,2,,,Actual
+2019-09,AAA93,Cylinder & Overheating,1,,,Actual
+2019-10,AAA2,Oil Pump,1,,,Actual
+2019-10,AAA3,Others,1,,,Actual
+2019-10,AAA4,Cylinder & Overheating,1,,,Actual
+2019-10,AAA4,Others,1,,,Actual
+2019-10,AAA4,Sound & Vibration,2,,,Actual
+2019-10,AAA42,Sound & Vibration,1,,,Actual
+2019-10,AAA51,Leaks (General),1,,,Actual
+2019-10,AAA51,Others,1,,,Actual
+2019-10,AAA51,Sound & Vibration,1,,,Actual
+2019-10,AAA6,Leaks (General),1,,,Actual
+2019-10,AAA6,Oil Pump,1,,,Actual
+2019-10,AAA6,Others,1,,,Actual
+2019-10,AAA63,Others,1,,,Actual
+2019-10,AAA72,Oil Pump,1,,,Actual
+2019-10,AAA72,Valves & Solenoids,1,,,Actual
+2019-10,AAA9,Leaks (General),1,,,Actual
+2019-10,AAA9,Others,1,,,Actual
+2019-10,AB4,Sound & Vibration,1,,,Actual
+2019-10,AB63,Cylinder & Overheating,1,,,Actual
+2019-10,AAA2,Others,1,,,Actual
+2019-10,AAA3,Leaks (General),2,,,Actual
+2019-10,AAA3,Oil Pump,1,,,Actual
+2019-10,AAA4,Leaks (General),1,,,Actual
+2019-10,AAA4,Sound & Vibration,1,,,Actual
+2019-10,AAA42,Sound & Vibration,1,,,Actual
+2019-10,AAA51,Cylinder & Overheating,1,,,Actual
+2019-10,AAA51,Electrical & Instruments,1,,,Actual
+2019-10,AAA51,Sound & Vibration,1,,,Actual
+2019-10,AAA6,Leaks (General),1,,,Actual
+2019-10,AAA6,Others,1,,,Actual
+2019-10,AAA72,Sound & Vibration,1,,,Actual
+2019-10,AB3,Shaft Seal,1,,,Actual
+2019-11,AAA1,Leaks (General),1,,,Actual
+2019-11,AAA3,Cylinder & Overheating,1,,,Actual
+2019-11,AAA3,Shaft Seal,1,,,Actual
+2019-11,AAA4,Cylinder & Overheating,1,,,Actual
+2019-11,AAA4,Leaks (General),1,,,Actual
+2019-11,AAA42,Sound & Vibration,1,,,Actual
+2019-11,AAA51,Cylinder & Overheating,1,,,Actual
+2019-11,AAA6,Sound & Vibration,2,,,Actual
+2019-11,AAA72,Others,1,,,Actual
+2019-11,AAA9,Sound & Vibration,1,,,Actual
+2019-11,AB2,Shaft Seal,1,,,Actual
+2019-11,AAA3,Sound & Vibration,1,,,Actual
+2019-11,AAA4,Leaks (General),1,,,Actual
+2019-11,AAA4,Sound & Vibration,1,,,Actual
+2019-11,AAA6,Shaft Seal,1,,,Actual
+2019-11,AAA6,Valves & Solenoids,1,,,Actual
+2019-11,AAA63,Others,2,,,Actual
+2019-11,AAA72,Cylinder & Overheating,1,,,Actual
+2019-11,AAA72,Valves & Solenoids,1,,,Actual
+2019-11,AAA93,Cylinder & Overheating,1,,,Actual
+2019-11,AAA93,Oil Pump,1,,,Actual
+2019-11,AAA2,Electrical & Instruments,1,,,Actual
+2019-12,AAA2,Major Mechanical,1,,,Actual
+2019-12,AAA2,Others,1,,,Actual
+2019-12,AAA3,Electrical & Instruments,1,,,Actual
+2019-12,AAA3,Leaks (General),1,,,Actual
+2019-12,AAA3,Oil Pump,2,,,Actual
+2019-12,AAA3,Sound & Vibration,3,,,Actual
+2019-12,AAA42,Oil Pump,1,,,Actual
+2019-12,AAA6,Cylinder & Overheating,1,,,Actual
+2019-12,AAA6,Others,1,,,Actual
+2019-12,AAA6,Shaft Seal,1,,,Actual
+2019-12,AAA6,Sound & Vibration,1,,,Actual
+2019-12,AAA63,Others,1,,,Actual
+2019-12,AAA72,Valves & Solenoids,1,,,Actual
+2019-12,AF2,Leaks (General),1,,,Actual
+2019-12,AAA2,Cylinder & Overheating,1,,,Actual
+2019-12,AAA42,Electrical & Instruments,1,,,Actual
+2019-12,AAA42,Others,1,,,Actual
+2019-12,AAA42,Valves & Solenoids,1,,,Actual
+2019-12,AAA51,Others,1,,,Actual
+2019-12,AAA51,Valves & Solenoids,2,,,Actual
+2019-12,AAA72,Valves & Solenoids,1,,,Actual
+2020-01,AAA2,Others,1,,,Actual
+2020-01,AAA3,Cylinder & Overheating,1,,,Actual
+2020-01,AAA3,Shaft Seal,2,,,Actual
+2020-01,AAA4,Leaks (General),1,,,Actual
+2020-01,AAA4,Others,2,,,Actual
+2020-01,AAA4,Shaft Seal,1,,,Actual
+2020-01,AAA4,Sound & Vibration,3,,,Actual
+2020-01,AAA42,Others,1,,,Actual
+2020-01,AAA51,Leaks (General),1,,,Actual
+2020-01,AAA6,Cylinder & Overheating,1,,,Actual
+2020-01,AAA6,Others,1,,,Actual
+2020-01,AAA72,Cylinder & Overheating,1,,,Actual
+2020-01,AAA9,Sound & Vibration,1,,,Actual
+2020-01,AAA93,Cylinder & Overheating,1,,,Actual
+2020-01,AAA2,Shaft Seal,1,,,Actual
+2020-01,AAA4,Shaft Seal,1,,,Actual
+2020-01,AAA6,Sound & Vibration,1,,,Actual
+2020-01,AAA3,Leaks (General),2,,,Actual
+2020-01,AAA4,Leaks (General),1,,,Actual
+2020-01,AAA4,Others,1,,,Actual
+2020-01,AAA2,Oil Pump,1,,,Actual
+2020-01,AAA2,Sound & Vibration,1,,,Actual
+2020-01,AAA3,Electrical & Instruments,1,,,Actual
+2020-01,AAA3,Oil Pump,1,,,Actual
+2020-01,AAA4,Cylinder & Overheating,1,,,Actual
+2020-01,AAA2,Others,2,,,Actual
+2020-01,AF2,Valves & Solenoids,1,,,Actual
+2020-02,AAA2,Electrical & Instruments,1,,,Actual
+2020-02,AAA4,Major Mechanical,1,,,Actual
+2020-02,AAA4,Shaft Seal,2,,,Actual
+2020-02,AAA42,Electrical & Instruments,1,,,Actual
+2020-02,AAA6,Electrical & Instruments,1,,,Actual
+2020-02,AAA6,Major Mechanical,1,,,Actual
+2020-02,AAA6,Others,1,,,Actual
+2020-02,AAA6,Sound & Vibration,1,,,Actual
+2020-02,AAA72,Cylinder & Overheating,1,,,Actual
+2020-02,AAA84,Sound & Vibration,1,,,Actual
+2020-02,AAA9,Others,1,,,Actual
+2020-02,AAA9,Sound & Vibration,1,,,Actual
+2020-02,AAA93,Cylinder & Overheating,1,,,Actual
+2020-02,AAA93,Oil Pump,1,,,Actual
+2020-02,AAA93,Others,1,,,Actual
+2020-02,AB72,Sound & Vibration,1,,,Actual
+2020-02,AAA6,Oil Pump,1,,,Actual
+2020-02,AAA2,Oil Pump,1,,,Actual
+2020-02,AAA2,Sound & Vibration,1,,,Actual
+2020-02,AAA3,Electrical & Instruments,1,,,Actual
+2020-02,AAA3,Others,1,,,Actual
+2020-02,AAA4,Electrical & Instruments,1,,,Actual
+2020-02,AAC2,Electrical & Instruments,1,,,Actual
+2020-02,AB3,Leaks (General),1,,,Actual
+2020-02,AB4,Electrical & Instruments,2,,,Actual
+2020-02,AB6,Shaft Seal,1,,,Actual
+2020-03,AAA2,Electrical & Instruments,1,,,Actual
+2020-03,AAA2,Sound & Vibration,1,,,Actual
+2020-03,AAA3,Others,1,,,Actual
+2020-03,AAA31,Others,1,,,Actual
+2020-03,AAA6,Electrical & Instruments,1,,,Actual
+2020-03,AAA9,Sound & Vibration,1,,,Actual
+2020-03,AAA2,Sound & Vibration,1,,,Actual
+2020-03,AAA3,Sound & Vibration,1,,,Actual
+2020-03,AAA31,Others,2,,,Actual
+2020-03,AAA4,Cylinder & Overheating,1,,,Actual
+2020-03,AAA4,Leaks (General),1,,,Actual
+2020-03,AAA4,Others,1,,,Actual
+2020-03,AAA42,Cylinder & Overheating,1,,,Actual
+2020-03,AAA51,Cylinder & Overheating,1,,,Actual
+2020-03,AAA6,Cylinder & Overheating,1,,,Actual
+2020-03,AAA6,Electrical & Instruments,1,,,Actual
+2020-03,AAA93,Sound & Vibration,1,,,Actual
+2020-03,AB4,Oil Pump,2,,,Actual
+2020-04,AAA2,Leaks (General),1,,,Actual
+2020-04,AAA2,Oil Pump,1,,,Actual
+2020-04,AAA3,Electrical & Instruments,1,,,Actual
+2020-04,AAA3,Leaks (General),1,,,Actual
+2020-04,AAA3,Others,1,,,Actual
+2020-04,AAA3,Valves & Solenoids,1,,,Actual
+2020-04,AAA63,Oil Pump,1,,,Actual
+2020-05,AAA4,Electrical & Instruments,1,,,Actual
+2020-06,AAA3,Cylinder & Overheating,1,,,Actual
+2020-06,AAA3,Oil Pump,2,,,Actual
+2020-06,AAA72,Electrical & Instruments,1,,,Actual
+2020-06,AAA31,Others,1,,,Actual
+2020-06,AAA4,Electrical & Instruments,1,,,Actual
+2020-06,AAA4,Oil Pump,2,,,Actual
+2020-06,AAA4,Others,1,,,Actual
+2020-06,AAA6,Sound & Vibration,1,,,Actual
+2020-06,AAC2,Major Mechanical,1,,,Actual
+2020-06,AAA2,Cylinder & Overheating,1,,,Actual
+2020-06,AAA3,Cylinder & Overheating,1,,,Actual
+2020-06,AAA3,Electrical & Instruments,1,,,Actual
+2020-06,AAA3,Leaks (General),1,,,Actual
+2020-06,AAA3,Shaft Seal,3,,,Actual
+2020-06,AAA4,Cylinder & Overheating,1,,,Actual
+2020-06,AAA4,Leaks (General),2,,,Actual
+2020-06,AAA42,Shaft Seal,1,,,Actual
+2020-06,AAA6,Cylinder & Overheating,1,,,Actual
+2020-06,AAA72,Leaks (General),1,,,Actual
+2020-06,AAA93,Cylinder & Overheating,1,,,Actual
+2020-06,AB72,Oil Pump,1,,,Actual
+2020-07,AAA3,Others,1,,,Actual
+2020-07,AAA3,Valves & Solenoids,1,,,Actual
+2020-07,AAA4,Electrical & Instruments,1,,,Actual
+2020-07,AAA4,Others,1,,,Actual
+2020-07,AAA4,Shaft Seal,1,,,Actual
+2020-07,AAA9,Cylinder & Overheating,1,,,Actual
+2020-07,AAA3,Shaft Seal,1,,,Actual
+2020-07,AAA4,Electrical & Instruments,1,,,Actual
+2020-07,AAA4,Oil Pump,1,,,Actual
+2020-07,AAA42,Electrical & Instruments,1,,,Actual
+2020-07,AAA3,Shaft Seal,1,,,Actual
+2020-07,AAA31,Others,1,,,Actual
+2020-07,AAA4,Cylinder & Overheating,1,,,Actual
+2020-07,AAA4,Others,1,,,Actual
+2020-07,AAA42,Others,1,,,Actual
+2020-07,AAA51,Sound & Vibration,1,,,Actual
+2020-07,AAA72,Shaft Seal,1,,,Actual
+2020-07,AAA72,Valves & Solenoids,1,,,Actual
+2020-08,AAA1,Valves & Solenoids,1,,,Actual
+2020-08,AAA6,Oil Pump,1,,,Actual
+2020-08,AAA72,Electrical & Instruments,1,,,Actual
+2020-08,AB4,Leaks (General),1,,,Actual
+2020-08,AAA3,Sound & Vibration,1,,,Actual
+2020-08,AAA4,Others,1,,,Actual
+2020-08,AAA4,Sound & Vibration,1,,,Actual
+2020-08,AAA6,Sound & Vibration,1,,,Actual
+2020-08,AAA72,Valves & Solenoids,1,,,Actual
+2020-08,AB72,Oil Pump,1,,,Actual
+2020-08,AAA2,Electrical & Instruments,1,,,Actual
+2020-08,AAA3,Leaks (General),1,,,Actual
+2020-08,AAA4,Electrical & Instruments,1,,,Actual
+2020-08,AAA4,Others,1,,,Actual
+2020-08,AAA6,Cylinder & Overheating,1,,,Actual
+2020-08,AAA72,Cylinder & Overheating,1,,,Actual
+2020-08,AAA72,Others,1,,,Actual
+2020-08,AAA3,Electrical & Instruments,1,,,Actual
+2020-08,AAA3,Shaft Seal,1,,,Actual
+2020-08,AAA72,Cylinder & Overheating,1,,,Actual
+2020-08,AAA72,Electrical & Instruments,1,,,Actual
+2020-08,AAA72,Sound & Vibration,1,,,Actual
+2020-08,AB6,Oil Pump,1,,,Actual
+2020-09,AAA4,Leaks (General),1,,,Actual
+2020-09,AAA72,Valves & Solenoids,1,,,Actual
+2020-09,AAA3,Others,1,,,Actual
+2020-09,AAA3,Valves & Solenoids,1,,,Actual
+2020-09,AAA4,Oil Pump,1,,,Actual
+2020-09,AAA4,Sound & Vibration,1,,,Actual
+2020-09,AAA6,Cylinder & Overheating,1,,,Actual
+2020-09,AAA63,Others,1,,,Actual
+2020-09,AAA72,Cylinder & Overheating,1,,,Actual
+2020-09,AAA9,Others,1,,,Actual
+2020-09,AAA1,Electrical & Instruments,1,,,Actual
+2020-09,AAA2,Others,1,,,Actual
+2020-09,AAA3,Others,1,,,Actual
+2020-09,AAA4,Oil Pump,1,,,Actual
+2020-09,AAA4,Others,3,,,Actual
+2020-09,AB6,Others,1,,,Actual
+2020-09,AAA72,Others,1,,,Actual
+2020-09,AAA12,Leaks (General),1,,,Actual
+2020-09,AAA31,Others,1,,,Actual
+2020-09,AAA51,Valves & Solenoids,2,,,Actual
+2020-09,AAA72,Electrical & Instruments,1,,,Actual
+2020-09,AAA72,Shaft Seal,1,,,Actual
+2020-09,AAA84,Cylinder & Overheating,1,,,Actual
+2020-09,AAC2,Shaft Seal,2,,,Actual
+2020-10,AAA3,Others,1,,,Actual
+2020-10,AAA72,Valves & Solenoids,1,,,Actual
+2020-10,AAA9,Others,1,,,Actual
+2020-10,AAA3,Cylinder & Overheating,1,,,Actual
+2020-10,AAA4,Others,1,,,Actual
+2020-10,AAA4,Shaft Seal,1,,,Actual
+2020-10,AAA42,Valves & Solenoids,1,,,Actual
+2020-10,AAA6,Electrical & Instruments,2,,,Actual
+2020-10,AAA84,Sound & Vibration,1,,,Actual
+2020-10,AAC2,Others,1,,,Actual
+2020-10,AB72,Oil Pump,1,,,Actual
+2020-10,AAA2,Cylinder & Overheating,1,,,Actual
+2020-10,AAA3,Others,1,,,Actual
+2020-10,AAA4,Oil Pump,1,,,Actual
+2020-10,AAA4,Others,1,,,Actual
+2020-10,AAA4,Sound & Vibration,1,,,Actual
+2020-10,AAA42,Valves & Solenoids,1,,,Actual
+2020-10,AAA51,Oil Pump,1,,,Actual
+2020-10,AAA6,Others,1,,,Actual
+2020-10,AAA93,Major Mechanical,1,,,Actual
+2020-10,AAA12,Leaks (General),1,,,Actual
+2020-10,AB4,Shaft Seal,1,,,Actual
+2020-11,AAA3,Cylinder & Overheating,1,,,Actual
+2020-11,AAA3,Others,1,,,Actual
+2020-11,AAA4,Cylinder & Overheating,3,,,Actual
+2020-11,AAA4,Electrical & Instruments,1,,,Actual
+2020-11,AAA4,Oil Pump,1,,,Actual
+2020-11,AAA4,Others,2,,,Actual
+2020-11,AAA4,Valves & Solenoids,1,,,Actual
+2020-11,AAA51,Valves & Solenoids,1,,,Actual
+2020-11,AAA6,Oil Pump,1,,,Actual
+2020-11,AAA6,Others,1,,,Actual
+2020-11,AAA72,Valves & Solenoids,1,,,Actual
+2020-11,AAA9,Others,2,,,Actual
+2020-11,AAA4,Others,1,,,Actual
+2020-11,AAA4,Cylinder & Overheating,1,,,Actual
+2020-11,AAA4,Leaks (General),1,,,Actual
+2020-11,AAA4,Shaft Seal,1,,,Actual
+2020-11,AAA42,Leaks (General),1,,,Actual
+2020-11,AAA72,Electrical & Instruments,1,,,Actual
+2020-11,AAA9,Valves & Solenoids,1,,,Actual
+2020-11,AAA3,Oil Pump,1,,,Actual
+2020-11,AAA3,Shaft Seal,1,,,Actual
+2020-11,AAA4,Leaks (General),1,,,Actual
+2020-11,AAA4,Sound & Vibration,1,,,Actual
+2020-11,AAA6,Electrical & Instruments,1,,,Actual
+2020-11,AAA72,Leaks (General),1,,,Actual
+2020-11,AAA72,Sound & Vibration,1,,,Actual
+2020-11,AAA84,Valves & Solenoids,1,,,Actual
+2020-12,AAA2,Cylinder & Overheating,1,,,Actual
+2020-12,AAA2,Oil Pump,1,,,Actual
+2020-12,AAA3,Cylinder & Overheating,1,,,Actual
+2020-12,AAA3,Oil Pump,1,,,Actual
+2020-12,AAA3,Others,2,,,Actual
+2020-12,AAA3,Shaft Seal,1,,,Actual
+2020-12,AAA4,Others,3,,,Actual
+2020-12,AAA4,Shaft Seal,2,,,Actual
+2020-12,AAA51,Sound & Vibration,1,,,Actual
+2020-12,AAA6,Others,1,,,Actual
+2020-12,AAA72,Others,1,,,Actual
+2020-12,AAA72,Sound & Vibration,2,,,Actual
+2020-12,AAA72,Valves & Solenoids,2,,,Actual
+2020-12,AAA93,Sound & Vibration,1,,,Actual
+2020-12,AF2,Leaks (General),1,,,Actual
+2020-12,AAA2,Others,1,,,Actual
+2020-12,AAA3,Others,1,,,Actual
+2020-12,AAA4,Electrical & Instruments,1,,,Actual
+2020-12,AAA72,Others,1,,,Actual
+2020-12,AB63,Shaft Seal,1,,,Actual
+2021-01,AAA1,Others,1,,,Actual
+2021-01,AAA12,Sound & Vibration,1,,,Actual
+2021-01,AAA2,Oil Pump,1,,,Actual
+2021-01,AAA3,Electrical & Instruments,1,,,Actual
+2021-01,AAA3,Major Mechanical,1,,,Actual
+2021-01,AAA3,Others,1,,,Actual
+2021-01,AAA3,Shaft Seal,1,,,Actual
+2021-01,AAA4,Others,1,,,Actual
+2021-01,AAA4,Shaft Seal,1,,,Actual
+2021-01,AAA51,Major Mechanical,1,,,Actual
+2021-01,AAA6,Valves & Solenoids,2,,,Actual
+2021-01,AAA72,Electrical & Instruments,1,,,Actual
+2021-01,AAA72,Major Mechanical,1,,,Actual
+2021-01,AAA72,Others,1,,,Actual
+2021-01,AAA72,Valves & Solenoids,1,,,Actual
+2021-01,AAA84,Cylinder & Overheating,1,,,Actual
+2021-01,AAA93,Valves & Solenoids,1,,,Actual
+2021-01,AAA3,Electrical & Instruments,1,,,Actual
+2021-01,AAA72,Electrical & Instruments,1,,,Actual
+2021-01,AAA9,Cylinder & Overheating,1,,,Actual
+2021-01,AAA2,Cylinder & Overheating,1,,,Actual
+2021-01,AAA21,Oil Pump,1,,,Actual
+2021-01,AAA3,Others,1,,,Actual
+2021-01,AAA31,Oil Pump,1,,,Actual
+2021-01,AAA4,Leaks (General),2,,,Actual
+2021-01,AAA4,Shaft Seal,1,,,Actual
+2021-01,AAA4,Sound & Vibration,2,,,Actual
+2021-01,AAA63,Valves & Solenoids,1,,,Actual
+2021-01,AAA72,Cylinder & Overheating,1,,,Actual
+2021-01,AAA72,Shaft Seal,1,,,Actual
+2021-01,AAC2,Major Mechanical,1,,,Actual
+2021-01,AAC2,Shaft Seal,1,,,Actual
+2021-02,AAA2,Oil Pump,1,,,Actual
+2021-02,AAA3,Electrical & Instruments,1,,,Actual
+2021-02,AAA3,Sound & Vibration,1,,,Actual
+2021-02,AAA4,Oil Pump,1,,,Actual
+2021-02,AAA4,Valves & Solenoids,1,,,Actual
+2021-02,AAA42,Sound & Vibration,1,,,Actual
+2021-02,AAA6,Oil Pump,1,,,Actual
+2021-02,AAA6,Others,1,,,Actual
+2021-02,AAA72,Cylinder & Overheating,1,,,Actual
+2021-02,AAA72,Others,2,,,Actual
+2021-02,AAA72,Valves & Solenoids,1,,,Actual
+2021-02,AAA84,Others,2,,,Actual
+2021-02,AAA9,Oil Pump,1,,,Actual
+2021-02,AAA3,Others,1,,,Actual
+2021-02,AAA3,Electrical & Instruments,1,,,Actual
+2021-02,AAA3,Sound & Vibration,1,,,Actual
+2021-02,AAA42,Oil Pump,1,,,Actual
+2021-02,AAA2,Others,1,,,Actual
+2021-02,AAA2,Valves & Solenoids,1,,,Actual
+2021-02,AAA3,Others,1,,,Actual
+2021-02,AAA3,Shaft Seal,1,,,Actual
+2021-02,AAA4,Leaks (General),1,,,Actual
+2021-02,AAA6,Others,1,,,Actual
+2021-02,AAA9,Cylinder & Overheating,1,,,Actual
+2021-03,AAA12,Cylinder & Overheating,1,,,Actual
+2021-03,AAA2,Cylinder & Overheating,1,,,Actual
+2021-03,AAA2,Oil Pump,1,,,Actual
+2021-03,AAA2,Others,1,,,Actual
+2021-03,AAA3,Cylinder & Overheating,1,,,Actual
+2021-03,AAA3,Others,2,,,Actual
+2021-03,AAA4,Others,1,,,Actual
+2021-03,AAA4,Valves & Solenoids,1,,,Actual
+2021-03,AAA42,Shaft Seal,1,,,Actual
+2021-03,AAA6,Cylinder & Overheating,1,,,Actual
+2021-03,AAA6,Oil Pump,1,,,Actual
+2021-03,AAA6,Others,2,,,Actual
+2021-03,AAA63,Others,1,,,Actual
+2021-03,AAA63,Valves & Solenoids,2,,,Actual
+2021-03,AAA72,Cylinder & Overheating,1,,,Actual
+2021-03,AAA72,Others,1,,,Actual
+2021-03,AAA84,Cylinder & Overheating,1,,,Actual
+2021-03,AAA93,Electrical & Instruments,1,,,Actual
+2021-03,AAA2,Oil Pump,1,,,Actual
+2021-03,AAA2,Valves & Solenoids,1,,,Actual
+2021-03,AAA3,Electrical & Instruments,1,,,Actual
+2021-03,AAA3,Others,1,,,Actual
+2021-03,AAA4,Leaks (General),1,,,Actual
+2021-03,AAA4,Shaft Seal,1,,,Actual
+2021-03,AAA42,Electrical & Instruments,1,,,Actual
+2021-03,AAA6,Oil Pump,1,,,Actual
+2021-03,AAA4,Oil Pump,1,,,Actual
+2021-03,AAA72,Sound & Vibration,1,,,Actual
+2021-03,AAA93,Valves & Solenoids,1,,,Actual
+2021-03,AAA4,Oil Pump,1,,,Actual
+2021-03,AAC2,Shaft Seal,1,,,Actual
+2021-03,AAA4,Leaks (General),1,,,Actual
+2021-03,AAA4,Sound & Vibration,1,,,Actual
+2021-03,AAA1,Electrical & Instruments,1,,,Actual
+2021-03,AAA3,Cylinder & Overheating,1,,,Actual
+2021-03,AAA3,Oil Pump,1,,,Actual
+2021-03,AAA3,Others,1,,,Actual
+2021-03,AAA31,Electrical & Instruments,1,,,Actual
+2021-03,AAA4,Oil Pump,1,,,Actual
+2021-03,AAA4,Sound & Vibration,1,,,Actual
+2021-03,AAA6,Oil Pump,1,,,Actual
+2021-03,AAA72,Electrical & Instruments,1,,,Actual
+2021-03,AAA72,Oil Pump,1,,,Actual
+2021-03,AAA84,Major Mechanical,1,,,Actual
+2021-03,AAA93,Sound & Vibration,1,,,Actual
+2021-04,AAA4,Others,1,,,Actual
+2021-04,AAA9,Others,1,,,Actual
+2021-04,AAA3,Cylinder & Overheating,1,,,Actual
+2021-04,AAA3,Oil Pump,1,,,Actual
+2021-04,AAA51,Valves & Solenoids,1,,,Actual
+2021-04,AAA6,Sound & Vibration,1,,,Actual
+2021-04,AAC2,Valves & Solenoids,1,,,Actual
+2021-04,AAA6,Others,1,,,Actual
+2021-04,AAA9,Others,1,,,Actual
+2021-04,AB3,Electrical & Instruments,1,,,Actual
+2021-04,AB3,Others,1,,,Actual
+2021-04,AAA2,Electrical & Instruments,1,,,Actual
+2021-04,AAA2,Oil Pump,1,,,Actual
+2021-04,AAA2,Shaft Seal,1,,,Actual
+2021-04,AAA4,Cylinder & Overheating,1,,,Actual
+2021-04,AAA4,Valves & Solenoids,1,,,Actual
+2021-04,AAA42,Others,1,,,Actual
+2021-04,AAA6,Cylinder & Overheating,2,,,Actual
+2021-04,AAA6,Leaks (General),1,,,Actual
+2021-04,AAA9,Cylinder & Overheating,1,,,Actual
+2021-04,AB3,Others,1,,,Actual
+2021-05,AAA2,Electrical & Instruments,1,,,Actual
+2021-05,AAA2,Leaks (General),1,,,Actual
+2021-05,AAA3,Cylinder & Overheating,1,,,Actual
+2021-05,AAA4,Leaks (General),2,,,Actual
+2021-05,AAA6,Cylinder & Overheating,1,,,Actual
+2021-05,AAA6,Sound & Vibration,1,,,Actual
+2021-05,AAA63,Leaks (General),3,,,Actual
+2021-05,AAA72,Leaks (General),2,,,Actual
+2021-05,AAA3,Others,1,,,Actual
+2021-05,AAA42,Leaks (General),1,,,Actual
+2021-06,AAA2,Valves & Solenoids,2,,,Actual
+2021-06,AAA4,Cylinder & Overheating,1,,,Actual
+2021-06,AAA4,Oil Pump,1,,,Actual
+2021-06,AAA72,Others,2,,,Actual
+2021-06,AB6,Electrical & Instruments,1,,,Actual
+2021-06,AAA12,Oil Pump,1,,,Actual
+2021-06,AAA2,Oil Pump,1,,,Actual
+2021-06,AAA6,Shaft Seal,1,,,Actual
+2021-06,AAA1,Others,1,,,Actual
+2021-06,AAA3,Sound & Vibration,1,,,Actual
+2021-06,AAA72,Sound & Vibration,2,,,Actual
+2021-06,AAA4,Cylinder & Overheating,1,,,Actual
+2021-06,AAA2,Valves & Solenoids,1,,,Actual
+2021-06,AAA4,Cylinder & Overheating,1,,,Actual
+2021-06,AAA4,Oil Pump,1,,,Actual
+2021-06,AAA6,Valves & Solenoids,1,,,Actual
+2021-06,AAA12,Cylinder & Overheating,1,,,Actual
+2021-06,AAA2,Cylinder & Overheating,2,,,Actual
+2021-06,AAA2,Oil Pump,1,,,Actual
+2021-06,AAA2,Others,2,,,Actual
+2021-06,AAA3,Cylinder & Overheating,1,,,Actual
+2021-06,AAA3,Oil Pump,2,,,Actual
+2021-06,AAA3,Valves & Solenoids,1,,,Actual
+2021-06,AAA4,Electrical & Instruments,1,,,Actual
+2021-06,AAA42,Oil Pump,1,,,Actual
+2021-06,AAA42,Others,1,,,Actual
+2021-06,AAA6,Others,1,,,Actual
+2021-06,AAA72,Electrical & Instruments,1,,,Actual
+2021-06,AAA72,Others,1,,,Actual
+2021-07,AAA3,Cylinder & Overheating,1,,,Actual
+2021-07,AAA3,Leaks (General),1,,,Actual
+2021-07,AAA3,Shaft Seal,2,,,Actual
+2021-07,AAA3,Valves & Solenoids,1,,,Actual
+2021-07,AAA4,Cylinder & Overheating,3,,,Actual
+2021-07,AAA51,Oil Pump,1,,,Actual
+2021-07,AAA6,Cylinder & Overheating,1,,,Actual
+2021-07,AAA6,Oil Pump,1,,,Actual
+2021-07,AAA6,Shaft Seal,1,,,Actual
+2021-07,AAA6,Valves & Solenoids,1,,,Actual
+2021-07,AAA72,Leaks (General),1,,,Actual
+2021-07,AAA1,Shaft Seal,1,,,Actual
+2021-07,AAA2,Cylinder & Overheating,1,,,Actual
+2021-07,AAA2,Electrical & Instruments,1,,,Actual
+2021-07,AAA4,Sound & Vibration,1,,,Actual
+2021-07,AAA42,Cylinder & Overheating,2,,,Actual
+2021-07,AAA6,Cylinder & Overheating,1,,,Actual
+2021-07,AAA6,Oil Pump,1,,,Actual
+2021-07,AAA63,Oil Pump,1,,,Actual
+2021-08,AAA2,Oil Pump,1,,,Actual
+2021-08,AAA2,Others,1,,,Actual
+2021-08,AAA2,Sound & Vibration,1,,,Actual
+2021-08,AAA3,Shaft Seal,1,,,Actual
+2021-08,AAA3,Sound & Vibration,1,,,Actual
+2021-08,AAA3,Valves & Solenoids,1,,,Actual
+2021-08,AAA4,Sound & Vibration,1,,,Actual
+2021-08,AAA42,Electrical & Instruments,1,,,Actual
+2021-08,AAA2,Oil Pump,3,,,Actual
+2021-08,AAA3,Cylinder & Overheating,2,,,Actual
+2021-08,AAA3,Electrical & Instruments,1,,,Actual
+2021-08,AAA4,Electrical & Instruments,1,,,Actual
+2021-08,AAA4,Leaks (General),1,,,Actual
+2021-08,AAA4,Others,1,,,Actual
+2021-08,AAA6,Others,1,,,Actual
+2021-08,AAA6,Valves & Solenoids,1,,,Actual
+2021-08,AAA72,Others,1,,,Actual
+2021-08,AAA93,Electrical & Instruments,1,,,Actual
+2021-08,AAA3,Sound & Vibration,1,,,Actual
+2021-08,AAA31,Valves & Solenoids,1,,,Actual
+2021-08,AAA51,Shaft Seal,1,,,Actual
+2021-08,AAA51,Sound & Vibration,1,,,Actual
+2021-08,AAA6,Others,1,,,Actual
+2021-08,AAA6,Valves & Solenoids,1,,,Actual
+2021-08,AAA72,Others,2,,,Actual
+2021-08,AAA72,Sound & Vibration,1,,,Actual
+2021-08,AAA93,Valves & Solenoids,1,,,Actual
+2021-09,AAA2,Sound & Vibration,1,,,Actual
+2021-09,AAA3,Cylinder & Overheating,1,,,Actual
+2021-09,AAA3,Electrical & Instruments,1,,,Actual
+2021-09,AAA4,Cylinder & Overheating,1,,,Actual
+2021-09,AAA4,Leaks (General),1,,,Actual
+2021-09,AAA4,Sound & Vibration,1,,,Actual
+2021-09,AAA42,Leaks (General),1,,,Actual
+2021-09,AAA6,Cylinder & Overheating,1,,,Actual
+2021-09,AAA6,Leaks (General),2,,,Actual
+2021-09,AAA6,Oil Pump,1,,,Actual
+2021-09,AAA72,Leaks (General),1,,,Actual
+2021-09,AAA72,Others,1,,,Actual
+2021-09,AAA72,Sound & Vibration,1,,,Actual
+2021-09,AB6,Oil Pump,1,,,Actual
+2021-09,AAA12,Oil Pump,1,,,Actual
+2021-09,AAA2,Oil Pump,1,,,Actual
+2021-09,AAA3,Shaft Seal,1,,,Actual
+2021-09,AAA4,Oil Pump,1,,,Actual
+2021-09,AAA4,Others,3,,,Actual
+2021-09,AAA51,Oil Pump,1,,,Actual
+2021-09,AAA6,Electrical & Instruments,1,,,Actual
+2021-09,AAA63,Oil Pump,1,,,Actual
+2021-09,AAA63,Others,1,,,Actual
+2021-09,AAA72,Electrical & Instruments,1,,,Actual
+2021-09,AAA12,Cylinder & Overheating,1,,,Actual
+2021-09,AAA31,Oil Pump,1,,,Actual
+2021-09,AAA4,Leaks (General),2,,,Actual
+2021-09,AAA4,Valves & Solenoids,1,,,Actual
+2021-09,AAA6,Cylinder & Overheating,1,,,Actual
+2021-09,AAA6,Leaks (General),1,,,Actual
+2021-09,AAA63,Cylinder & Overheating,1,,,Actual
+2021-09,AAA72,Electrical & Instruments,1,,,Actual
+2021-09,AAA72,Valves & Solenoids,1,,,Actual
+2021-09,AAA9,Leaks (General),1,,,Actual
+2021-09,AAA93,Cylinder & Overheating,1,,,Actual
+2021-10,AAA2,Cylinder & Overheating,1,,,Actual
+2021-10,AAA2,Electrical & Instruments,1,,,Actual
+2021-10,AAA21,Oil Pump,1,,,Actual
+2021-10,AAA3,Valves & Solenoids,1,,,Actual
+2021-10,AAA31,Valves & Solenoids,1,,,Actual
+2021-10,AAA42,Valves & Solenoids,1,,,Actual
+2021-10,AAA6,Cylinder & Overheating,1,,,Actual
+2021-10,AAA63,Others,2,,,Actual
+2021-10,AAA72,Leaks (General),1,,,Actual
+2021-10,AAA9,Major Mechanical,1,,,Actual
+2021-10,AAA3,Cylinder & Overheating,1,,,Actual
+2021-10,AAA4,Others,2,,,Actual
+2021-10,AAA6,Cylinder & Overheating,1,,,Actual
+2021-10,AAA72,Electrical & Instruments,1,,,Actual
+2021-10,AAA72,Leaks (General),1,,,Actual
+2021-10,AAC2,Leaks (General),1,,,Actual
+2021-10,AAA4,Oil Pump,1,,,Actual
+2021-10,AAA51,Cylinder & Overheating,1,,,Actual
+2021-10,AAA6,Valves & Solenoids,1,,,Actual
+2021-10,AAA3,Cylinder & Overheating,1,,,Actual
+2021-10,AAA3,Leaks (General),1,,,Actual
+2021-10,AAA3,Oil Pump,2,,,Actual
+2021-10,AAA3,Shaft Seal,1,,,Actual
+2021-10,AAA4,Leaks (General),1,,,Actual
+2021-10,AAA6,Oil Pump,1,,,Actual
+2021-10,AAA6,Valves & Solenoids,1,,,Actual
+2021-10,AAA63,Others,1,,,Actual
+2021-11,AAA4,Electrical & Instruments,1,,,Actual
+2021-11,AAA6,Sound & Vibration,1,,,Actual
+2021-11,AAA72,Sound & Vibration,1,,,Actual
+2021-11,AAA3,Leaks (General),1,,,Actual
+2021-11,AAA4,Valves & Solenoids,1,,,Actual
+2021-11,AAA6,Electrical & Instruments,1,,,Actual
+2021-11,AAA93,Oil Pump,1,,,Actual
+2021-11,AAA3,Cylinder & Overheating,1,,,Actual
+2021-11,AAA4,Valves & Solenoids,1,,,Actual
+2021-11,AAA6,Others,1,,,Actual
+2021-11,AAA72,Others,1,,,Actual
+2021-11,AAA4,Electrical & Instruments,1,,,Actual
+2021-11,AAA4,Oil Pump,1,,,Actual
+2021-11,AAA6,Electrical & Instruments,2,,,Actual
+2021-12,AAA3,Cylinder & Overheating,2,,,Actual
+2021-12,AAA3,Sound & Vibration,1,,,Actual
+2021-12,AAA4,Cylinder & Overheating,1,,,Actual
+2021-12,AAA4,Electrical & Instruments,1,,,Actual
+2021-12,AAA4,Leaks (General),4,,,Actual
+2021-12,AAA4,Oil Pump,1,,,Actual
+2021-12,AAA6,Electrical & Instruments,1,,,Actual
+2021-12,AAA63,Sound & Vibration,1,,,Actual
+2021-12,AAA72,Leaks (General),5,,,Actual
+2021-12,AAA72,Others,1,,,Actual
+2021-12,AAC2,Leaks (General),2,,,Actual
+2021-12,AAA2,Electrical & Instruments,1,,,Actual
+2021-12,AAA51,Cylinder & Overheating,1,,,Actual
+2021-12,AAA3,Cylinder & Overheating,1,,,Actual
+2021-12,AAA4,Others,1,,,Actual
+2021-12,AAA1,Others,2,,,Actual
+2021-12,AAA3,Others,1,,,Actual
+2021-12,AAA3,Valves & Solenoids,1,,,Actual
+2021-12,AAA4,Electrical & Instruments,1,,,Actual
+2021-12,AAA4,Major Mechanical,1,,,Actual
+2021-12,AAA63,Others,1,,,Actual
+2021-12,AAA63,Valves & Solenoids,1,,,Actual
+2021-12,AAA72,Cylinder & Overheating,3,,,Actual
+2021-12,AAA72,Leaks (General),2,,,Actual
+2021-12,AAA72,Valves & Solenoids,1,,,Actual
+2021-12,AAA93,Others,1,,,Actual
+2022-01,AAA2,Others,1,,,Actual
+2022-01,AAA4,Leaks (General),1,,,Actual
+2022-01,AAA4,Others,1,,,Actual
+2022-01,AAA6,Others,1,,,Actual
+2022-01,AAA63,Others,1,,,Actual
+2022-01,AAA1,Others,1,,,Actual
+2022-01,AAA51,Others,1,,,Actual
+2022-01,AAA72,Electrical & Instruments,1,,,Actual
+2022-01,AAA3,Cylinder & Overheating,1,,,Actual
+2022-01,AAA42,Sound & Vibration,1,,,Actual
+2022-01,AAA51,Shaft Seal,1,,,Actual
+2022-01,AAA6,Cylinder & Overheating,2,,,Actual
+2022-01,AAA63,Shaft Seal,1,,,Actual
+2022-01,AAA72,Others,1,,,Actual
+2022-01,AAA72,Sound & Vibration,1,,,Actual
+2022-01,AAA93,Cylinder & Overheating,1,,,Actual
+2022-01,AAA93,Shaft Seal,1,,,Actual
+2022-01,AAA1,Others,1,,,Actual
+2022-01,AAA102,Others,1,,,Actual
+2022-01,AAA6,Oil Pump,1,,,Actual
+2022-01,AAA9,Shaft Seal,1,,,Actual
+2022-01,AAA93,Others,1,,,Actual
+2022-02,AAA1,Electrical & Instruments,1,,,Actual
+2022-02,AAA2,Oil Pump,1,,,Actual
+2022-02,AAA2,Others,1,,,Actual
+2022-02,AAA2,Valves & Solenoids,1,,,Actual
+2022-02,AAA3,Electrical & Instruments,1,,,Actual
+2022-02,AAA3,Others,2,,,Actual
+2022-02,AAA3,Valves & Solenoids,1,,,Actual
+2022-02,AAA31,Cylinder & Overheating,1,,,Actual
+2022-02,AAA6,Shaft Seal,1,,,Actual
+2022-02,AAA72,Oil Pump,1,,,Actual
+2022-02,AAA72,Others,2,,,Actual
+2022-02,AB63,Sound & Vibration,1,,,Actual
+2022-02,AAA6,Others,1,,,Actual
+2022-02,AAA93,Cylinder & Overheating,1,,,Actual
+2022-02,AAA1,Oil Pump,1,,,Actual
+2022-02,AAA3,Cylinder & Overheating,1,,,Actual
+2022-02,AAA3,Sound & Vibration,1,,,Actual
+2022-02,AAA6,Cylinder & Overheating,1,,,Actual
+2022-02,AAA2,Others,1,,,Actual
+2022-02,AAA21,Valves & Solenoids,1,,,Actual
+2022-02,AAA4,Valves & Solenoids,1,,,Actual
+2022-02,AAA72,Others,1,,,Actual
+2022-02,AB93,Oil Pump,1,,,Actual
+2022-03,AAA3,Oil Pump,1,,,Actual
+2022-03,AAA3,Others,1,,,Actual
+2022-03,AAA63,Others,1,,,Actual
+2022-03,AAA72,Others,1,,,Actual
+2022-03,AAA1,Valves & Solenoids,1,,,Actual
+2022-03,AAA3,Cylinder & Overheating,2,,,Actual
+2022-03,AAA3,Others,1,,,Actual
+2022-03,AAA3,Shaft Seal,1,,,Actual
+2022-03,AAA3,Valves & Solenoids,1,,,Actual
+2022-03,AAA6,Electrical & Instruments,1,,,Actual
+2022-03,AB4,Others,1,,,Actual
+2022-03,AAA3,Others,2,,,Actual
+2022-03,AAA4,Major Mechanical,1,,,Actual
+2022-03,AAA9,Valves & Solenoids,1,,,Actual
+2022-03,AAA3,Shaft Seal,1,,,Actual
+2022-03,AAA31,Others,1,,,Actual
+2022-03,AAA63,Shaft Seal,1,,,Actual
+2022-03,AAA72,Leaks (General),1,,,Actual
+2022-03,AAA72,Shaft Seal,1,,,Actual
+2022-03,AB3,Valves & Solenoids,1,,,Actual
+2022-03,AB63,Oil Pump,1,,,Actual
+2022-03,AAA3,Cylinder & Overheating,1,,,Actual
+2022-03,AAA4,Cylinder & Overheating,2,,,Actual
+2022-03,AAA4,Valves & Solenoids,1,,,Actual
+2022-03,AAA42,Shaft Seal,1,,,Actual
+2022-03,AAA6,Electrical & Instruments,2,,,Actual
+2022-03,AAA6,Oil Pump,1,,,Actual
+2022-03,AAA72,Others,1,,,Actual
+2022-03,AB6,Oil Pump,1,,,Actual
+2022-03,AB6,Valves & Solenoids,1,,,Actual
+2022-04,AAA3,Electrical & Instruments,1,,,Actual
+2022-04,AAA3,Valves & Solenoids,1,,,Actual
+2022-04,AAA4,Oil Pump,2,,,Actual
+2022-04,AAA4,Others,1,,,Actual
+2022-04,AAA42,Cylinder & Overheating,1,,,Actual
+2022-04,AAA6,Cylinder & Overheating,1,,,Actual
+2022-04,AAA6,Others,1,,,Actual
+2022-04,AAA72,Leaks (General),1,,,Actual
+2022-04,AAC2,Shaft Seal,1,,,Actual
+2022-04,AB4,Electrical & Instruments,2,,,Actual
+2022-04,AAA12,Oil Pump,1,,,Actual
+2022-04,AAA3,Cylinder & Overheating,1,,,Actual
+2022-04,AAA3,Others,1,,,Actual
+2022-04,AAA4,Leaks (General),1,,,Actual
+2022-04,AAA4,Oil Pump,3,,,Actual
+2022-04,AAA4,Others,2,,,Actual
+2022-04,AAA4,Sound & Vibration,1,,,Actual
+2022-04,AAA42,Valves & Solenoids,1,,,Actual
+2022-04,AAC2,Shaft Seal,1,,,Actual
+2022-05,AAA2,Cylinder & Overheating,1,,,Actual
+2022-05,AAA2,Leaks (General),1,,,Actual
+2022-05,AAA2,Others,2,,,Actual
+2022-05,AAA3,Oil Pump,1,,,Actual
+2022-05,AAA31,Cylinder & Overheating,1,,,Actual
+2022-05,AAA9,Sound & Vibration,1,,,Actual
+2022-05,AAC2,Leaks (General),1,,,Actual
+2022-05,AAA3,Others,1,,,Actual
+2022-05,AAA3,Shaft Seal,1,,,Actual
+2022-05,AAA4,Leaks (General),2,,,Actual
+2022-05,AAA4,Valves & Solenoids,1,,,Actual
+2022-05,AAA42,Sound & Vibration,1,,,Actual
+2022-05,AAA6,Cylinder & Overheating,1,,,Actual
+2022-05,AAA6,Leaks (General),1,,,Actual
+2022-05,AAA6,Sound & Vibration,1,,,Actual
+2022-05,AAA9,Cylinder & Overheating,1,,,Actual
+2022-05,AAA9,Oil Pump,1,,,Actual
+2022-05,AAA2,Cylinder & Overheating,1,,,Actual
+2022-05,AAA3,Cylinder & Overheating,1,,,Actual
+2022-05,AAA3,Electrical & Instruments,1,,,Actual
+2022-05,AAA4,Cylinder & Overheating,1,,,Actual
+2022-05,AAA4,Leaks (General),1,,,Actual
+2022-05,AAA42,Leaks (General),1,,,Actual
+2022-05,AAA6,Major Mechanical,1,,,Actual
+2022-05,AAA63,Valves & Solenoids,1,,,Actual
+2022-05,AAA72,Others,1,,,Actual
+2022-05,AAA72,Shaft Seal,1,,,Actual
+2022-05,AB42,Oil Pump,1,,,Actual
+2022-06,AAA2,Others,2,,,Actual
+2022-06,AAA4,Cylinder & Overheating,2,,,Actual
+2022-06,AAA4,Others,2,,,Actual
+2022-06,AAA6,Cylinder & Overheating,1,,,Actual
+2022-06,AAA6,Leaks (General),1,,,Actual
+2022-06,AAA63,Shaft Seal,1,,,Actual
+2022-06,AAA72,Others,1,,,Actual
+2022-06,AAA9,Electrical & Instruments,1,,,Actual
+2022-06,AAA9,Others,1,,,Actual
+2022-06,AAC2,Leaks (General),1,,,Actual
+2022-06,AAA3,Leaks (General),1,,,Actual
+2022-06,AAA4,Leaks (General),1,,,Actual
+2022-06,AAA72,Cylinder & Overheating,1,,,Actual
+2022-07,AAA51,Cylinder & Overheating,2,,,Actual
+2022-07,AAA1,Electrical & Instruments,1,,,Actual
+2022-07,AAA3,Electrical & Instruments,2,,,Actual
+2022-07,AAA3,Leaks (General),2,,,Actual
+2022-07,AAA4,Cylinder & Overheating,2,,,Actual
+2022-07,AAA4,Sound & Vibration,2,,,Actual
+2022-07,AAA42,Sound & Vibration,1,,,Actual
+2022-07,AAA6,Cylinder & Overheating,1,,,Actual
+2022-07,AAA6,Leaks (General),1,,,Actual
+2022-07,AAA72,Valves & Solenoids,1,,,Actual
+2022-07,AAA9,Leaks (General),1,,,Actual
+2022-07,AAC2,Oil Pump,1,,,Actual
+2022-07,AAA2,Oil Pump,1,,,Actual
+2022-07,AAA21,Others,1,,,Actual
+2022-07,AAA3,Leaks (General),1,,,Actual
+2022-07,AAA3,Oil Pump,2,,,Actual
+2022-07,AAA4,Cylinder & Overheating,1,,,Actual
+2022-07,AAA4,Leaks (General),2,,,Actual
+2022-07,AAA4,Others,1,,,Actual
+2022-07,AAA42,Sound & Vibration,1,,,Actual
+2022-07,AAA9,Leaks (General),1,,,Actual
+2022-08,AAA1,Leaks (General),1,,,Actual
+2022-08,AAA1,Others,1,,,Actual
+2022-08,AAA2,Leaks (General),1,,,Actual
+2022-08,AAA2,Oil Pump,1,,,Actual
+2022-08,AAA2,Valves & Solenoids,1,,,Actual
+2022-08,AAA3,Others,3,,,Actual
+2022-08,AAA4,Cylinder & Overheating,2,,,Actual
+2022-08,AAA4,Leaks (General),1,,,Actual
+2022-08,AAA4,Others,1,,,Actual
+2022-08,AAA4,Sound & Vibration,1,,,Actual
+2022-08,AAA42,Others,1,,,Actual
+2022-08,AAA6,Leaks (General),1,,,Actual
+2022-08,AAA63,Cylinder & Overheating,1,,,Actual
+2022-08,AAA72,Cylinder & Overheating,1,,,Actual
+2022-08,AAA72,Electrical & Instruments,1,,,Actual
+2022-08,AAA72,Sound & Vibration,1,,,Actual
+2022-08,AAA84,Oil Pump,1,,,Actual
+2022-08,AAA9,Cylinder & Overheating,1,,,Actual
+2022-08,AAC2,Oil Pump,1,,,Actual
+2022-08,AB6,Oil Pump,1,,,Actual
+2022-08,AAA9,Others,1,,,Actual
+2022-08,AAA1,Leaks (General),1,,,Actual
+2022-08,AAA3,Oil Pump,1,,,Actual
+2022-08,AAA4,Cylinder & Overheating,1,,,Actual
+2022-08,AAA4,Leaks (General),2,,,Actual
+2022-08,AAA4,Valves & Solenoids,1,,,Actual
+2022-08,AAA42,Major Mechanical,1,,,Actual
+2022-08,AAA42,Oil Pump,1,,,Actual
+2022-08,AAA51,Leaks (General),1,,,Actual
+2022-08,AAA6,Sound & Vibration,1,,,Actual
+2022-08,AAA72,Cylinder & Overheating,1,,,Actual
+2022-08,AAA9,Leaks (General),1,,,Actual
+2022-09,AAA3,Oil Pump,1,,,Actual
+2022-09,AAA9,Oil Pump,1,,,Actual
+2022-09,AAA3,Others,1,,,Actual
+2022-09,AAA3,Sound & Vibration,1,,,Actual
+2022-09,AAA4,Oil Pump,1,,,Actual
+2022-09,AAA6,Cylinder & Overheating,1,,,Actual
+2022-09,AAA3,Valves & Solenoids,2,,,Actual
+2022-09,AAA6,Valves & Solenoids,1,,,Actual
+2022-09,AAA72,Others,1,,,Actual
+2022-09,AB3,Electrical & Instruments,1,,,Actual
+2022-09,AAA4,Sound & Vibration,1,,,Actual
+2022-09,AAA1,Others,1,,,Actual
+2022-09,AAA2,Others,1,,,Actual
+2022-09,AAA3,Cylinder & Overheating,1,,,Actual
+2022-09,AB4,Oil Pump,1,,,Actual
+2022-10,AAA1,Sound & Vibration,1,,,Actual
+2022-10,AAA2,Leaks (General),1,,,Actual
+2022-10,AAA4,Cylinder & Overheating,1,,,Actual
+2022-10,AAA4,Leaks (General),1,,,Actual
+2022-10,AAA4,Shaft Seal,1,,,Actual
+2022-10,AAA51,Cylinder & Overheating,1,,,Actual
+2022-10,AAA72,Shaft Seal,1,,,Actual
+2022-10,AAA1,Leaks (General),1,,,Actual
+2022-10,AAA1,Shaft Seal,1,,,Actual
+2022-10,AAA2,Cylinder & Overheating,2,,,Actual
+2022-10,AAA2,Sound & Vibration,1,,,Actual
+2022-10,AAA3,Cylinder & Overheating,1,,,Actual
+2022-10,AAA4,Cylinder & Overheating,1,,,Actual
+2022-10,AAA4,Sound & Vibration,1,,,Actual
+2022-10,AAA51,Cylinder & Overheating,1,,,Actual
+2022-10,AAA51,Valves & Solenoids,1,,,Actual
+2022-10,AAA6,Cylinder & Overheating,1,,,Actual
+2022-10,AAA6,Leaks (General),1,,,Actual
+2022-10,AAC2,Oil Pump,1,,,Actual
+2022-10,AB42,Oil Pump,1,,,Actual
+2022-10,AAA31,Others,1,,,Actual
+2022-10,AAA42,Others,1,,,Actual
+2022-10,AAA9,Valves & Solenoids,1,,,Actual
+2022-11,AAA2,Shaft Seal,2,,,Actual
+2022-11,AAA6,Cylinder & Overheating,1,,,Actual
+2022-11,AAA6,Sound & Vibration,1,,,Actual
+2022-11,AAA6,Valves & Solenoids,2,,,Actual
+2022-11,AAA72,Others,1,,,Actual
+2022-11,AAA2,Electrical & Instruments,1,,,Actual
+2022-11,AAA3,Valves & Solenoids,1,,,Actual
+2022-11,AAA4,Shaft Seal,1,,,Actual
+2022-11,AAA51,Valves & Solenoids,1,,,Actual
+2022-11,AAA6,Shaft Seal,1,,,Actual
+2022-11,AAA72,Others,2,,,Actual
+2022-11,AAA72,Cylinder & Overheating,1,,,Actual
+2022-11,AB3,Electrical & Instruments,1,,,Actual
+2022-11,AAA2,Leaks (General),1,,,Actual
+2022-11,AAA4,Cylinder & Overheating,1,,,Actual
+2022-11,AAA4,Leaks (General),1,,,Actual
+2022-11,AAA6,Leaks (General),1,,,Actual
+2022-11,AAA6,Valves & Solenoids,1,,,Actual
+2022-11,AAA9,Shaft Seal,1,,,Actual
+2022-12,AAA3,Valves & Solenoids,1,,,Actual
+2022-12,AAA63,Leaks (General),1,,,Actual
+2022-12,AAA4,Oil Pump,1,,,Actual
+2022-12,AAA4,Shaft Seal,1,,,Actual
+2022-12,AAA51,Leaks (General),1,,,Actual
+2022-12,AAA31,Others,1,,,Actual
+2022-12,AAA51,Others,1,,,Actual
+2022-12,AAA6,Others,1,,,Actual
+2022-12,AAA3,Shaft Seal,1,,,Actual
+2022-12,AAA31,Major Mechanical,1,,,Actual
+2022-12,AAA42,Others,1,,,Actual
+2022-12,AAA2,Cylinder & Overheating,1,,,Actual
+2022-12,AAA3,Cylinder & Overheating,2,,,Actual
+2022-12,AAA3,Others,1,,,Actual
+2022-12,AAA4,Others,2,,,Actual
+2022-12,AAA4,Sound & Vibration,1,,,Actual
+2022-12,AAA4,Valves & Solenoids,1,,,Actual
+2022-12,AAA42,Others,1,,,Actual
+2022-12,AAC2,Electrical & Instruments,1,,,Actual
+2022-12,AAE4,Shaft Seal,1,,,Actual
+2023-01,AAA2,Oil Pump,1,,,Actual
+2023-01,AAA2,Shaft Seal,1,,,Actual
+2023-01,AAA3,Others,1,,,Actual
+2023-01,AAA4,Shaft Seal,1,,,Actual
+2023-01,AAA51,Others,1,,,Actual
+2023-01,AAA72,Leaks (General),1,,,Actual
+2023-01,AAA9,Valves & Solenoids,2,,,Actual
+2023-01,AAA93,Shaft Seal,1,,,Actual
+2023-01,AAA102,Major Mechanical,1,,,Actual
+2023-01,AAA72,Others,1,,,Actual
+2023-01,AAA9,Sound & Vibration,1,,,Actual
+2023-01,AAA3,Others,1,,,Actual
+2023-01,AAA4,Cylinder & Overheating,1,,,Actual
+2023-01,AAA4,Oil Pump,1,,,Actual
+2023-01,AAA6,Sound & Vibration,1,,,Actual
+2023-01,AAC2,Others,1,,,Actual
+2023-02,AAA93,Shaft Seal,1,,,Actual
+2023-02,AAA3,Cylinder & Overheating,1,,,Actual
+2023-02,AAA4,Cylinder & Overheating,1,,,Actual
+2023-02,AAA51,Cylinder & Overheating,1,,,Actual
+2023-02,AAA6,Leaks (General),1,,,Actual
+2023-02,AAA72,Others,2,,,Actual
+2023-02,AAA84,Cylinder & Overheating,1,,,Actual
+2023-02,AAA9,Others,1,,,Actual
+2023-02,AAA2,Valves & Solenoids,1,,,Actual
+2023-02,AAA3,Cylinder & Overheating,1,,,Actual
+2023-02,AAA3,Valves & Solenoids,1,,,Actual
+2023-02,AAA4,Others,1,,,Actual
+2023-02,AAA4,Shaft Seal,1,,,Actual
+2023-02,AAA51,Shaft Seal,1,,,Actual
+2023-02,AAA6,Cylinder & Overheating,1,,,Actual
+2023-02,AAA9,Cylinder & Overheating,1,,,Actual
+2023-02,AAA93,Shaft Seal,1,,,Actual
+2023-03,AAA12,Cylinder & Overheating,1,,,Actual
+2023-03,AAA3,Cylinder & Overheating,1,,,Actual
+2023-03,AAA4,Cylinder & Overheating,1,,,Actual
+2023-03,AAA4,Others,1,,,Actual
+2023-03,AAA6,Sound & Vibration,1,,,Actual
+2023-03,AAA6,Valves & Solenoids,2,,,Actual
+2023-03,AAA84,Sound & Vibration,1,,,Actual
+2023-03,AAA9,Others,1,,,Actual
+2023-03,AB6,Valves & Solenoids,1,,,Actual
+2023-03,AB72,Valves & Solenoids,1,,,Actual
+2023-03,AAA4,Electrical & Instruments,1,,,Actual
+2023-03,AAA84,Cylinder & Overheating,1,,,Actual
+2023-03,AB6,Sound & Vibration,1,,,Actual
+2023-03,AAA2,Others,1,,,Actual
+2023-03,AAA9,Valves & Solenoids,1,,,Actual
+2023-03,AAA1,Cylinder & Overheating,1,,,Actual
+2023-03,AAA3,Electrical & Instruments,1,,,Actual
+2023-03,AAA3,Others,2,,,Actual
+2023-03,AAA3,Shaft Seal,1,,,Actual
+2023-03,AAA31,Others,1,,,Actual
+2023-03,AAA4,Cylinder & Overheating,1,,,Actual
+2023-03,AAA4,Major Mechanical,1,,,Actual
+2023-03,AAA4,Others,1,,,Actual
+2023-03,AAA42,Leaks (General),1,,,Actual
+2023-03,AAA42,Others,1,,,Actual
+2023-03,AAA51,Sound & Vibration,1,,,Actual
+2023-03,AAA6,Cylinder & Overheating,1,,,Actual
+2023-03,AAA6,Valves & Solenoids,1,,,Actual
+2023-03,AAA72,Others,1,,,Actual
+2023-03,AB4,Valves & Solenoids,2,,,Actual
+2023-03,AB6,Electrical & Instruments,1,,,Actual
+2023-03,AB84,Valves & Solenoids,3,,,Actual
+2023-04,AAA3,Electrical & Instruments,1,,,Actual
+2023-04,AAA3,Others,1,,,Actual
+2023-04,AAA3,Sound & Vibration,1,,,Actual
+2023-04,AAA4,Electrical & Instruments,1,,,Actual
+2023-04,AAA4,Valves & Solenoids,1,,,Actual
+2023-04,AAA4,Leaks (General),1,,,Actual
+2023-04,AAA4,Oil Pump,1,,,Actual
+2023-04,AAA4,Shaft Seal,1,,,Actual
+2023-04,AAA6,Shaft Seal,1,,,Actual
+2023-04,AAA6,Sound & Vibration,1,,,Actual
+2023-04,AAA72,Oil Pump,1,,,Actual
+2023-04,AAA72,Others,1,,,Actual
+2023-05,AAA3,Oil Pump,1,,,Actual
+2023-05,AAA31,Electrical & Instruments,1,,,Actual
+2023-05,AAA4,Sound & Vibration,1,,,Actual
+2023-05,AAA42,Shaft Seal,1,,,Actual
+2023-05,AAA6,Oil Pump,2,,,Actual
+2023-05,AAA72,Leaks (General),1,,,Actual
+2023-05,AAA72,Others,2,,,Actual
+2023-05,AAA93,Cylinder & Overheating,1,,,Actual
+2023-05,AAA93,Others,1,,,Actual
+2023-05,AAC2,Valves & Solenoids,1,,,Actual
+2023-05,AAA21,Major Mechanical,1,,,Actual
+2023-05,AAA3,Oil Pump,1,,,Actual
+2023-05,AAA42,Others,1,,,Actual
+2023-05,AAA72,Others,1,,,Actual
+2023-05,AAA93,Others,1,,,Actual
+2023-05,AB3,Cylinder & Overheating,1,,,Actual
+2023-06,AAA21,Cylinder & Overheating,1,,,Actual
+2023-06,AAA3,Oil Pump,1,,,Actual
+2023-06,AAA4,Shaft Seal,1,,,Actual
+2023-06,AAA4,Sound & Vibration,1,,,Actual
+2023-06,AAA72,Oil Pump,1,,,Actual
+2023-06,AAA93,Cylinder & Overheating,1,,,Actual
+2023-06,AAA93,Valves & Solenoids,1,,,Actual
+2023-06,AAA102,Others,1,,,Actual
+2023-06,AAA6,Shaft Seal,2,,,Actual
+2023-06,AAA72,Major Mechanical,1,,,Actual
+2023-06,AAA72,Others,1,,,Actual
+2023-06,AAA9,Cylinder & Overheating,1,,,Actual
+2023-06,AAA9,Oil Pump,1,,,Actual
+2023-06,AB3,Sound & Vibration,1,,,Actual
+2023-07,AAA2,Electrical & Instruments,1,,,Actual
+2023-07,AAA2,Oil Pump,1,,,Actual
+2023-07,AAA2,Valves & Solenoids,1,,,Actual
+2023-07,AAA3,Others,3,,,Actual
+2023-07,AAA3,Shaft Seal,1,,,Actual
+2023-07,AAA4,Cylinder & Overheating,1,,,Actual
+2023-07,AAA4,Sound & Vibration,1,,,Actual
+2023-07,AAA4,Valves & Solenoids,2,,,Actual
+2023-07,AAA42,Oil Pump,1,,,Actual
+2023-07,AAA42,Others,1,,,Actual
+2023-07,AAA6,Electrical & Instruments,1,,,Actual
+2023-07,AAA72,Valves & Solenoids,1,,,Actual
+2023-07,AAA9,Cylinder & Overheating,1,,,Actual
+2023-07,AB72,Others,1,,,Actual
+2023-07,AAA72,Electrical & Instruments,1,,,Actual
+2023-07,AAA9,Cylinder & Overheating,1,,,Actual
+2023-08,AAA12,Cylinder & Overheating,1,,,Actual
+2023-08,AAA2,Cylinder & Overheating,1,,,Actual
+2023-08,AAA2,Leaks (General),1,,,Actual
+2023-08,AAA2,Oil Pump,1,,,Actual
+2023-08,AAA3,Cylinder & Overheating,1,,,Actual
+2023-08,AAA3,Oil Pump,1,,,Actual
+2023-08,AAA3,Valves & Solenoids,1,,,Actual
+2023-08,AAA4,Cylinder & Overheating,1,,,Actual
+2023-08,AAA4,Electrical & Instruments,1,,,Actual
+2023-08,AAA4,Others,1,,,Actual
+2023-08,AAA4,Shaft Seal,1,,,Actual
+2023-08,AAA42,Electrical & Instruments,1,,,Actual
+2023-08,AAA42,Oil Pump,1,,,Actual
+2023-08,AAA42,Valves & Solenoids,1,,,Actual
+2023-08,AAA6,Cylinder & Overheating,1,,,Actual
+2023-08,AAA6,Oil Pump,1,,,Actual
+2023-08,AAA6,Others,2,,,Actual
+2023-08,AAA6,Sound & Vibration,2,,,Actual
+2023-08,AAA6,Valves & Solenoids,1,,,Actual
+2023-08,AAA72,Oil Pump,1,,,Actual
+2023-08,AAA72,Valves & Solenoids,1,,,Actual
+2023-08,AAA93,Valves & Solenoids,1,,,Actual
+2023-08,AB3,Others,1,,,Actual
+2023-09,AAA3,Oil Pump,1,,,Actual
+2023-09,AAA4,Others,1,,,Actual
+2023-09,AAA6,Oil Pump,1,,,Actual
+2023-09,AAA6,Valves & Solenoids,1,,,Actual
+2023-09,AAA72,Electrical & Instruments,1,,,Actual
+2023-09,AAA9,Leaks (General),1,,,Actual
+2023-09,AB4,Oil Pump,1,,,Actual
+2023-09,AAA12,Valves & Solenoids,1,,,Actual
+2023-09,AAA2,Others,2,,,Actual
+2023-09,AAA4,Cylinder & Overheating,1,,,Actual
+2023-09,AAA4,Shaft Seal,1,,,Actual
+2023-09,AAA63,Oil Pump,1,,,Actual
+2023-09,AAA63,Others,1,,,Actual
+2023-09,AAA63,Sound & Vibration,1,,,Actual
+2023-09,AAA63,Valves & Solenoids,1,,,Actual
+2023-09,AAA72,Cylinder & Overheating,1,,,Actual
+2023-10,AAA2,Leaks (General),1,,,Actual
+2023-10,AAA3,Others,2,,,Actual
+2023-10,AAA3,Valves & Solenoids,1,,,Actual
+2023-10,AAA4,Cylinder & Overheating,1,,,Actual
+2023-10,AAA4,Leaks (General),1,,,Actual
+2023-10,AAA4,Others,1,,,Actual
+2023-10,AAA4,Sound & Vibration,1,,,Actual
+2023-10,AAA72,Others,2,,,Actual
+2023-10,AAC2,Sound & Vibration,1,,,Actual
+2023-10,AAA3,Sound & Vibration,2,,,Actual
+2023-10,AAA3,Valves & Solenoids,1,,,Actual
+2023-10,AAA4,Sound & Vibration,1,,,Actual
+2023-10,AAA4,Valves & Solenoids,1,,,Actual
+2023-10,AAA6,Cylinder & Overheating,2,,,Actual
+2023-10,AAA72,Oil Pump,1,,,Actual
+2023-10,AAA9,Others,1,,,Actual
+2023-10,AAA9,Shaft Seal,1,,,Actual
+2023-10,AAC2,Cylinder & Overheating,1,,,Actual
+2023-11,AAA3,Leaks (General),1,,,Actual
+2023-11,AAA72,Others,1,,,Actual
+2023-11,AAA2,Valves & Solenoids,1,,,Actual
+2023-11,AAA3,Others,1,,,Actual
+2023-11,AAA3,Valves & Solenoids,1,,,Actual
+2023-11,AAA4,Shaft Seal,1,,,Actual
+2023-11,AAA51,Others,2,,,Actual
+2023-11,AAA6,Valves & Solenoids,2,,,Actual
+2023-11,AAA72,Others,1,,,Actual
+2023-11,AAA72,Shaft Seal,2,,,Actual
+2023-12,AAA2,Valves & Solenoids,1,,,Actual
+2023-12,AAA3,Others,2,,,Actual
+2023-12,AAA31,Others,1,,,Actual
+2023-12,AAA6,Leaks (General),1,,,Actual
+2023-12,AAA6,Sound & Vibration,1,,,Actual
+2023-12,AAA12,Oil Pump,1,,,Actual
+2023-12,AAA51,Electrical & Instruments,1,,,Actual
+2023-12,AAA51,Valves & Solenoids,1,,,Actual
+2023-12,AAA72,Oil Pump,1,,,Actual
+2023-12,AAA72,Valves & Solenoids,1,,,Actual
+2023-12,AB4,Leaks (General),1,,,Actual
+2023-12,AAA3,Others,1,,,Actual
+2024-01,AAA2,Cylinder & Overheating,1,,,Actual
+2024-01,AAA2,Electrical & Instruments,1,,,Actual
+2024-01,AAA3,Leaks (General),1,,,Actual
+2024-01,AAA3,Valves & Solenoids,1,,,Actual
+2024-01,AAA4,Sound & Vibration,1,,,Actual
+2024-01,AAA51,Cylinder & Overheating,1,,,Actual
+2024-01,AAA6,Oil Pump,1,,,Actual
+2024-01,AAA6,Valves & Solenoids,1,,,Actual
+2024-01,AAA63,Leaks (General),1,,,Actual
+2024-01,AAA72,Cylinder & Overheating,1,,,Actual
+2024-01,AAA72,Sound & Vibration,1,,,Actual
+2024-01,AAA93,Shaft Seal,2,,,Actual
+2024-01,AAA31,Valves & Solenoids,1,,,Actual
+2024-01,AAA3,Others,2,,,Actual
+2024-01,AAA3,Sound & Vibration,1,,,Actual
+2024-01,AAA6,Sound & Vibration,1,,,Actual
+2024-01,AAA63,Shaft Seal,1,,,Actual
+2024-01,AAA72,Sound & Vibration,1,,,Actual
+2024-01,AAC2,Leaks (General),1,,,Actual
+2024-02,AAA51,Others,1,,,Actual
+2024-02,AAA51,Sound & Vibration,1,,,Actual
+2024-02,AAA63,Shaft Seal,1,,,Actual
+2024-02,AAA72,Oil Pump,1,,,Actual
+2024-02,AAA1,Others,1,,,Actual
+2024-02,AAA2,Electrical & Instruments,1,,,Actual
+2024-02,AAA2,Sound & Vibration,1,,,Actual
+2024-02,AAA3,Others,2,,,Actual
+2024-02,AAA4,Others,1,,,Actual
+2024-02,AAA42,Sound & Vibration,1,,,Actual
+2024-02,AAA51,Shaft Seal,1,,,Actual
+2024-02,AAA72,Oil Pump,1,,,Actual
+2024-02,AAA72,Others,1,,,Actual
+2024-02,AAC2,Electrical & Instruments,1,,,Actual
+2024-02,AAA63,Others,1,,,Actual
+2024-02,AAA3,Leaks (General),1,,,Actual
+2024-02,AAA3,Others,1,,,Actual
+2024-02,AAA31,Shaft Seal,1,,,Actual
+2024-02,AAA31,Valves & Solenoids,1,,,Actual
+2024-02,AAA42,Sound & Vibration,2,,,Actual
+2024-02,AAA6,Cylinder & Overheating,1,,,Actual
+2024-02,AAA6,Leaks (General),2,,,Actual
+2024-02,AAA72,Shaft Seal,2,,,Actual
+2024-02,AAA72,Sound & Vibration,2,,,Actual
+2024-02,AAA1,Others,1,,,Actual
+2024-02,AAA2,Sound & Vibration,1,,,Actual
+2024-02,AAA3,Electrical & Instruments,2,,,Actual
+2024-02,AAA3,Leaks (General),2,,,Actual
+2024-02,AAA3,Oil Pump,2,,,Actual
+2024-02,AAA4,Leaks (General),2,,,Actual
+2024-02,AAA42,Cylinder & Overheating,1,,,Actual
+2024-02,AAA42,Shaft Seal,2,,,Actual
+2024-02,AAA6,Sound & Vibration,1,,,Actual
+2024-02,AAA72,Leaks (General),1,,,Actual
+2024-02,AAA72,Shaft Seal,1,,,Actual
+2024-02,AAA72,Sound & Vibration,4,,,Actual
+2024-02,AAA93,Others,1,,,Actual
+2024-02,AB4,Valves & Solenoids,4,,,Actual
+2024-02,AB6,Electrical & Instruments,1,,,Actual
+2024-03,AAA1,Shaft Seal,1,,,Actual
+2024-03,AAA2,Others,1,,,Actual
+2024-03,AAA2,Valves & Solenoids,1,,,Actual
+2024-03,AAA3,Cylinder & Overheating,1,,,Actual
+2024-03,AAA3,Electrical & Instruments,1,,,Actual
+2024-03,AAA3,Leaks (General),2,,,Actual
+2024-03,AAA3,Oil Pump,1,,,Actual
+2024-03,AAA3,Shaft Seal,1,,,Actual
+2024-03,AAA4,Others,5,,,Actual
+2024-03,AAA4,Valves & Solenoids,1,,,Actual
+2024-03,AAA42,Others,1,,,Actual
+2024-03,AAA42,Sound & Vibration,1,,,Actual
+2024-03,AAA6,Electrical & Instruments,1,,,Actual
+2024-03,AAA6,Oil Pump,1,,,Actual
+2024-03,AAA6,Others,1,,,Actual
+2024-03,AAA63,Valves & Solenoids,1,,,Actual
+2024-03,AAA72,Oil Pump,1,,,Actual
+2024-03,AAA72,Shaft Seal,1,,,Actual
+2024-03,AB3,Electrical & Instruments,1,,,Actual
+2024-03,AB4,Electrical & Instruments,8,,,Actual
+2024-03,AB4,Oil Pump,1,,,Actual
+2024-03,AB4,Others,1,,,Actual
+2024-03,AB6,Electrical & Instruments,4,,,Actual
+2024-03,AB6,Sound & Vibration,1,,,Actual
+2024-03,AB6,Valves & Solenoids,1,,,Actual
+2024-03,AB84,Oil Pump,1,,,Actual
+2024-03,AAA1,Shaft Seal,1,,,Actual
+2024-03,AAA4,Others,1,,,Actual
+2024-03,AAA6,Others,1,,,Actual
+2024-03,AAA72,Others,1,,,Actual
+2024-04,AAA12,Cylinder & Overheating,1,,,Actual
+2024-04,AAA2,Others,1,,,Actual
+2024-04,AAA2,Shaft Seal,1,,,Actual
+2024-04,AAA3,Others,1,,,Actual
+2024-04,AAA3,Shaft Seal,1,,,Actual
+2024-04,AAA3,Valves & Solenoids,1,,,Actual
+2024-04,AAA4,Others,1,,,Actual
+2024-04,AAA4,Sound & Vibration,1,,,Actual
+2024-04,AAA4,Valves & Solenoids,2,,,Actual
+2024-04,AAA6,Others,1,,,Actual
+2024-04,AAA6,Valves & Solenoids,1,,,Actual
+2024-04,AAA72,Shaft Seal,1,,,Actual
+2024-04,AAA72,Valves & Solenoids,1,,,Actual
+2024-04,AAA9,Cylinder & Overheating,1,,,Actual
+2024-04,AAC2,Leaks (General),1,,,Actual
+2024-04,AB3,Others,1,,,Actual
+2024-04,AB3,Valves & Solenoids,1,,,Actual
+2024-04,AB4,Leaks (General),1,,,Actual
+2024-04,AB4,Sound & Vibration,1,,,Actual
+2024-04,AB4,Valves & Solenoids,1,,,Actual
+2024-04,AB6,Others,1,,,Actual
+2024-04,AB6,Sound & Vibration,3,,,Actual
+2024-04,AB6,Valves & Solenoids,2,,,Actual
+2024-04,AAA2,Sound & Vibration,1,,,Actual
+2024-04,AAA4,Leaks (General),1,,,Actual
+2024-04,AAA4,Oil Pump,1,,,Actual
+2024-04,AAA51,Sound & Vibration,1,,,Actual
+2024-04,AAA6,Leaks (General),2,,,Actual
+2024-04,AAA6,Sound & Vibration,1,,,Actual
+2024-04,AAA72,Others,1,,,Actual
+2024-04,AB6,Valves & Solenoids,1,,,Actual
+2024-05,AAA3,Sound & Vibration,1,,,Actual
+2024-05,AAA4,Leaks (General),1,,,Actual
+2024-05,AAA4,Others,1,,,Actual
+2024-05,AAA51,Others,1,,,Actual
+2024-05,AAA6,Others,1,,,Actual
+2024-05,AB4,Valves & Solenoids,1,,,Actual
+2024-05,AAA1,Others,1,,,Actual
+2024-05,AAA2,Others,2,,,Actual
+2024-05,AAA3,Leaks (General),1,,,Actual
+2024-05,AAA3,Sound & Vibration,1,,,Actual
+2024-05,AAA3,Valves & Solenoids,1,,,Actual
+2024-05,AAA4,Oil Pump,1,,,Actual
+2024-05,AAA4,Sound & Vibration,1,,,Actual
+2024-05,AAA4,Valves & Solenoids,1,,,Actual
+2024-05,AAA6,Leaks (General),1,,,Actual
+2024-05,AAA6,Sound & Vibration,1,,,Actual
+2024-05,AAA72,Sound & Vibration,1,,,Actual
+2024-05,AB4,Valves & Solenoids,1,,,Actual
+2024-05,AB6,Sound & Vibration,1,,,Actual
+2024-06,AAA3,Shaft Seal,2,,,Actual
+2024-06,AAA4,Sound & Vibration,1,,,Actual
+2024-06,AB3,Others,1,,,Actual
+2024-06,AB6,Oil Pump,1,,,Actual
+2024-06,AAA2,Cylinder & Overheating,1,,,Actual
+2024-06,AAA2,Electrical & Instruments,1,,,Actual
+2024-06,AAA3,Oil Pump,1,,,Actual
+2024-06,AAA4,Sound & Vibration,2,,,Actual
+2024-06,AAA6,Valves & Solenoids,1,,,Actual
+2024-06,AAA72,Others,1,,,Actual
+2024-06,AAA3,Oil Pump,1,,,Actual
+2024-06,AAA72,Sound & Vibration,1,,,Actual
+2024-06,AAA2,Cylinder & Overheating,2,,,Actual
+2024-06,AAA2,Leaks (General),1,,,Actual
+2024-06,AAA2,Others,1,,,Actual
+2024-06,AAA2,Shaft Seal,1,,,Actual
+2024-06,AAA2,Sound & Vibration,1,,,Actual
+2024-06,AAA3,Leaks (General),1,,,Actual
+2024-06,AAA3,Oil Pump,1,,,Actual
+2024-06,AAA3,Others,1,,,Actual
+2024-06,AAA3,Sound & Vibration,2,,,Actual
+2024-06,AAA3,Valves & Solenoids,1,,,Actual
+2024-06,AAA4,Leaks (General),2,,,Actual
+2024-06,AAA4,Sound & Vibration,2,,,Actual
+2024-06,AAA42,Valves & Solenoids,1,,,Actual
+2024-06,AAA6,Cylinder & Overheating,1,,,Actual
+2024-06,AAA6,Leaks (General),1,,,Actual
+2024-06,AAA6,Oil Pump,1,,,Actual
+2024-06,AAA6,Sound & Vibration,1,,,Actual
+2024-06,AAA72,Cylinder & Overheating,1,,,Actual
+2024-06,AAA72,Shaft Seal,1,,,Actual
+2024-06,AB4,Oil Pump,1,,,Actual
+2024-06,AB4,Valves & Solenoids,1,,,Actual
+2024-07,AAA3,Sound & Vibration,1,,,Actual
+2024-07,AAA4,Sound & Vibration,2,,,Actual
+2024-07,AAA72,Sound & Vibration,1,,,Actual
+2024-07,AAA3,Sound & Vibration,1,,,Actual
+2024-07,AAA4,Cylinder & Overheating,4,,,Actual
+2024-07,AAA4,Others,2,,,Actual
+2024-07,AAA4,Sound & Vibration,1,,,Actual
+2024-07,AAA6,Cylinder & Overheating,1,,,Actual
+2024-07,AAA6,Oil Pump,1,,,Actual
+2024-07,AAA6,Sound & Vibration,2,,,Actual
+2024-07,AAA6,Valves & Solenoids,3,,,Actual
+2024-07,AAA72,Shaft Seal,1,,,Actual
+2024-07,AAA72,Sound & Vibration,1,,,Actual
+2024-07,AB3,Oil Pump,1,,,Actual
+2024-07,AB4,Leaks (General),1,,,Actual
+2024-07,AB4,Sound & Vibration,1,,,Actual
+2024-07,AB6,Oil Pump,1,,,Actual
+2024-07,AB6,Sound & Vibration,1,,,Actual
+2024-07,AAA12,Others,1,,,Actual
+2024-07,AAA2,Leaks (General),1,,,Actual
+2024-07,AAA2,Shaft Seal,1,,,Actual
+2024-07,AAA3,Others,1,,,Actual
+2024-07,AAA31,Others,1,,,Actual
+2024-07,AAA4,Leaks (General),2,,,Actual
+2024-07,AAA4,Oil Pump,1,,,Actual
+2024-07,AAA4,Others,1,,,Actual
+2024-07,AAA4,Valves & Solenoids,1,,,Actual
+2024-07,AAA6,Leaks (General),1,,,Actual
+2024-07,AAA6,Sound & Vibration,1,,,Actual
+2024-08,AAA1,Shaft Seal,1,,,Actual
+2024-08,AAA2,Leaks (General),2,,,Actual
+2024-08,AAA2,Others,1,,,Actual
+2024-08,AAA2,Shaft Seal,2,,,Actual
+2024-08,AAA2,Sound & Vibration,1,,,Actual
+2024-08,AAA3,Leaks (General),2,,,Actual
+2024-08,AAA3,Oil Pump,1,,,Actual
+2024-08,AAA3,Others,3,,,Actual
+2024-08,AAA3,Sound & Vibration,1,,,Actual
+2024-08,AAA4,Others,3,,,Actual
+2024-08,AAA4,Sound & Vibration,1,,,Actual
+2024-08,AAA6,Others,6,,,Actual
+2024-08,AAA6,Sound & Vibration,2,,,Actual
+2024-08,AAA72,Leaks (General),2,,,Actual
+2024-08,AAA72,Others,1,,,Actual
+2024-08,AAA72,Sound & Vibration,1,,,Actual
+2024-08,AAE4,Valves & Solenoids,1,,,Actual
+2024-08,AB3,Oil Pump,2,,,Actual
+2024-08,AB3,Valves & Solenoids,2,,,Actual
+2024-08,AB4,Sound & Vibration,1,,,Actual
+2024-08,AB4,Valves & Solenoids,1,,,Actual
+2024-08,AB6,Sound & Vibration,1,,,Actual
+2024-08,AAA3,Sound & Vibration,1,,,Actual
+2024-08,AAA4,Leaks (General),1,,,Actual
+2024-08,AAA4,Others,1,,,Actual
+2024-08,AAA6,Others,1,,,Actual
+2024-08,AAA6,Sound & Vibration,1,,,Actual
+2024-08,AAA72,Leaks (General),1,,,Actual
+2024-08,AAA72,Oil Pump,1,,,Actual
+2024-08,AAA9,Others,1,,,Actual
+2024-08,AB6,Sound & Vibration,1,,,Actual
+2024-09,AAA2,Others,2,,,Actual
+2024-09,AAA2,Shaft Seal,2,,,Actual
+2024-09,AAA3,Others,2,,,Actual
+2024-09,AAA3,Sound & Vibration,1,,,Actual
+2024-09,AAA4,Cylinder & Overheating,1,,,Actual
+2024-09,AAA4,Oil Pump,1,,,Actual
+2024-09,AAA4,Others,2,,,Actual
+2024-09,AAA4,Sound & Vibration,7,,,Actual
+2024-09,AAA4,Valves & Solenoids,1,,,Actual
+2024-09,AAA42,Others,2,,,Actual
+2024-09,AAA6,Cylinder & Overheating,1,,,Actual
+2024-09,AAA6,Others,3,,,Actual
+2024-09,AAA6,Sound & Vibration,2,,,Actual
+2024-09,AAA63,Others,1,,,Actual
+2024-09,AAA72,Others,2,,,Actual
+2024-09,AAA8,Others,1,,,Actual
+2024-09,AB3,Sound & Vibration,1,,,Actual
+2024-09,AB4,Leaks (General),1,,,Actual
+2024-09,AB4,Others,1,,,Actual
+2024-09,AB4,Valves & Solenoids,1,,,Actual
+2024-09,AB6,Cylinder & Overheating,1,,,Actual
+2024-09,AB6,Others,1,,,Actual
+2024-09,AB6,Sound & Vibration,2,,,Actual
+2024-09,AB6,Valves & Solenoids,1,,,Actual
+2024-09,AAA21,Cylinder & Overheating,1,,,Actual
+2024-09,AAA3,Shaft Seal,1,,,Actual
+2024-09,AAA3,Sound & Vibration,1,,,Actual
+2024-09,AAA4,Others,1,,,Actual
+2024-09,AAA4,Sound & Vibration,1,,,Actual
+2024-09,AAA6,Others,1,,,Actual
+2024-09,AAA72,Sound & Vibration,1,,,Actual
+2024-09,AAA1,Leaks (General),1,,,Actual
+2024-09,AAA4,Leaks (General),1,,,Actual
+2024-10,AAA2,Shaft Seal,1,,,Actual
+2024-10,AAA2,Sound & Vibration,1,,,Actual
+2024-10,AAA3,Leaks (General),1,,,Actual
+2024-10,AAA3,Oil Pump,1,,,Actual
+2024-10,AAA31,Shaft Seal,1,,,Actual
+2024-10,AAA4,Oil Pump,1,,,Actual
+2024-10,AAA4,Sound & Vibration,1,,,Actual
+2024-10,AAA6,Electrical & Instruments,1,,,Actual
+2024-10,AAA6,Others,1,,,Actual
+2024-10,AAA6,Shaft Seal,1,,,Actual
+2024-10,AAA6,Valves & Solenoids,1,,,Actual
+2024-10,AAA63,Cylinder & Overheating,1,,,Actual
+2024-10,AAA72,Cylinder & Overheating,1,,,Actual
+2024-10,AAA72,Sound & Vibration,1,,,Actual
+2024-10,AAA9,Shaft Seal,1,,,Actual
+2024-10,AB4,Valves & Solenoids,1,,,Actual
+2024-10,AB6,Others,1,,,Actual
+2024-10,AB6,Sound & Vibration,4,,,Actual
+2024-10,AAA1,Shaft Seal,1,,,Actual
+2024-10,AAA3,Oil Pump,1,,,Actual
+2024-10,AAA4,Others,3,,,Actual
+2024-10,AAA6,Shaft Seal,1,,,Actual
+2024-10,AAA72,Others,1,,,Actual
+2024-10,AAC2,Shaft Seal,1,,,Actual
+2024-10,AAA3,Shaft Seal,1,,,Actual
+2024-10,AAA3,Valves & Solenoids,1,,,Actual
+2024-10,AAA31,Others,1,,,Actual
+2024-10,AAA4,Others,2,,,Actual
+2024-10,AAA4,Shaft Seal,1,,,Actual
+2024-10,AAA42,Shaft Seal,1,,,Actual
+2024-10,AAA6,Shaft Seal,1,,,Actual
+2024-10,AAA72,Cylinder & Overheating,1,,,Actual
+2024-10,AAA72,Others,2,,,Actual
+2024-10,AAA72,Valves & Solenoids,1,,,Actual
+2024-11,AAA2,Others,1,,,Actual
+2024-11,AAA2,Shaft Seal,1,,,Actual
+2024-11,AAA2,Sound & Vibration,1,,,Actual
+2024-11,AAA4,Oil Pump,1,,,Actual
+2024-11,AAA4,Others,1,,,Actual
+2024-11,AAA42,Leaks (General),1,,,Actual
+2024-11,AAA42,Shaft Seal,1,,,Actual
+2024-11,AAA6,Leaks (General),2,,,Actual
+2024-11,AAA6,Sound & Vibration,1,,,Actual
+2024-11,AAA63,Cylinder & Overheating,1,,,Actual
+2024-11,AAA72,Leaks (General),1,,,Actual
+2024-11,AAA72,Shaft Seal,2,,,Actual
+2024-11,AAA72,Sound & Vibration,2,,,Actual
+2024-11,AAA9,Others,1,,,Actual
+2024-11,AAA93,Cylinder & Overheating,1,,,Actual
+2024-11,AAA93,Sound & Vibration,1,,,Actual
+2024-11,AAC2,Electrical & Instruments,1,,,Actual
+2024-11,AAE4,Sound & Vibration,1,,,Actual
+2024-11,AB4,Shaft Seal,1,,,Actual
+2024-11,AB6,Leaks (General),1,,,Actual
+2024-11,AAA12,Others,1,,,Actual
+2024-11,AAA2,Leaks (General),1,,,Actual
+2024-11,AAA2,Oil Pump,1,,,Actual
+2024-11,AAA21,Others,1,,,Actual
+2024-11,AAA3,Others,1,,,Actual
+2024-11,AAA4,Leaks (General),1,,,Actual
+2024-11,AAA6,Cylinder & Overheating,2,,,Actual
+2024-11,AAA6,Leaks (General),3,,,Actual
+2024-11,AAA63,Others,1,,,Actual
+2024-11,AAA72,Sound & Vibration,2,,,Actual
+2024-11,AAA84,Sound & Vibration,1,,,Actual
+2024-11,AAA1,Shaft Seal,1,,,Actual
+2024-11,AAA3,Shaft Seal,2,,,Actual
+2024-11,AAA4,Leaks (General),1,,,Actual
+2024-11,AAA6,Cylinder & Overheating,1,,,Actual
+2024-11,AAA6,Others,2,,,Actual
+2024-12,AAA3,Others,1,,,Actual
+2024-12,AAA6,Cylinder & Overheating,1,,,Actual
+2024-12,AAA72,Others,1,,,Actual
+2024-12,AAA6,Leaks (General),1,,,Actual
+2024-12,AAA93,Leaks (General),1,,,Actual
+2024-12,AAA3,Oil Pump,1,,,Actual
+2024-12,AAA4,Leaks (General),1,,,Actual
+2024-12,AAA4,Sound & Vibration,1,,,Actual
+2024-12,AAA6,Cylinder & Overheating,1,,,Actual
+2024-12,AAA12,Leaks (General),1,,,Actual
+2024-12,AAA2,Leaks (General),2,,,Actual
+2024-12,AAA3,Leaks (General),3,,,Actual
+2024-12,AAA3,Valves & Solenoids,1,,,Actual
+2024-12,AAA31,Oil Pump,1,,,Actual
+2024-12,AAA31,Shaft Seal,1,,,Actual
+2024-12,AAA4,Cylinder & Overheating,1,,,Actual
+2024-12,AAA4,Leaks (General),2,,,Actual
+2024-12,AAA4,Others,1,,,Actual
+2024-12,AAA51,Oil Pump,1,,,Actual
+2024-12,AAA6,Leaks (General),2,,,Actual
+2024-12,AAA6,Oil Pump,1,,,Actual
+2024-12,AAA6,Sound & Vibration,3,,,Actual
+2024-12,AAA63,Sound & Vibration,1,,,Actual
+2024-12,AAA72,Leaks (General),1,,,Actual
+2024-12,AAA72,Oil Pump,1,,,Actual
+2024-12,AAA72,Sound & Vibration,2,,,Actual
+2024-12,AAA93,Leaks (General),1,,,Actual
+2024-12,AB4,Leaks (General),1,,,Actual
+2024-12,AB4,Valves & Solenoids,1,,,Actual
+2024-12,AB6,Sound & Vibration,1,,,Actual
+2024-12,AAA12,Shaft Seal,1,,,Actual
+2024-12,AAA3,Leaks (General),1,,,Actual
+2024-12,AAA3,Others,1,,,Actual
+2024-12,AAA3,Sound & Vibration,1,,,Actual
+2024-12,AAA4,Leaks (General),4,,,Actual
+2024-12,AAA6,Cylinder & Overheating,1,,,Actual
+2024-12,AAA6,Leaks (General),2,,,Actual
+2024-12,AAA72,Leaks (General),1,,,Actual
+2025-01,AAA3,Electrical & Instruments,1,,,Actual
+2025-01,AAA3,Others,1,,,Actual
+2025-01,AAA4,Oil Pump,1,,,Actual
+2025-01,AAA4,Sound & Vibration,1,,,Actual
+2025-01,AAA42,Cylinder & Overheating,1,,,Actual
+2025-01,AAA6,Shaft Seal,1,,,Actual
+2025-01,AAA6,Valves & Solenoids,1,,,Actual
+2025-01,AAA72,Oil Pump,1,,,Actual
+2025-01,AAA93,Leaks (General),1,,,Actual
+2025-01,AAC2,Others,1,,,Actual
+2025-01,AAA3,Leaks (General),1,,,Actual
+2025-01,AAA31,Cylinder & Overheating,1,,,Actual
+2025-01,AAA4,Leaks (General),1,,,Actual
+2025-01,AAA4,Others,1,,,Actual
+2025-01,AAA42,Valves & Solenoids,1,,,Actual
+2025-01,AAA6,Others,1,,,Actual
+2025-01,AAA6,Sound & Vibration,1,,,Actual
+2025-01,AAA63,Sound & Vibration,1,,,Actual
+2025-01,AAA72,Others,1,,,Actual
+2025-01,AAA72,Sound & Vibration,1,,,Actual
+2025-01,AAA84,Valves & Solenoids,1,,,Actual
+2025-01,AB3,Electrical & Instruments,1,,,Actual
+2025-02,AAA1,Shaft Seal,1,,,Actual
+2025-02,AAA3,Cylinder & Overheating,1,,,Actual
+2025-02,AAA3,Others,1,,,Actual
+2025-02,AAA3,Shaft Seal,1,,,Actual
+2025-02,AAA3,Sound & Vibration,1,,,Actual
+2025-02,AAA4,Leaks (General),1,,,Actual
+2025-02,AAA4,Others,2,,,Actual
+2025-02,AAA42,Shaft Seal,1,,,Actual
+2025-02,AAA6,Cylinder & Overheating,1,,,Actual
+2025-02,AAA6,Sound & Vibration,2,,,Actual
+2025-02,AAA72,Cylinder & Overheating,1,,,Actual
+2025-02,AAA72,Others,1,,,Actual
+2025-02,AAA72,Sound & Vibration,2,,,Actual
+2025-02,AAA84,Others,1,,,Actual
+2025-02,AAA9,Oil Pump,1,,,Actual
+2025-02,AB4,Sound & Vibration,1,,,Actual
+2025-02,AAA3,Electrical & Instruments,1,,,Actual
+2025-02,AAA4,Valves & Solenoids,1,,,Actual
+2025-02,AAA72,Shaft Seal,1,,,Actual
+2025-02,AAA93,Cylinder & Overheating,1,,,Actual
+2025-03,AAA12,Sound & Vibration,1,,,Actual
+2025-03,AAA2,Sound & Vibration,1,,,Actual
+2025-03,AAA3,Leaks (General),3,,,Actual
+2025-03,AAA3,Others,2,,,Actual
+2025-03,AAA3,Sound & Vibration,2,,,Actual
+2025-03,AAA3,Valves & Solenoids,2,,,Actual
+2025-03,AAA31,Sound & Vibration,1,,,Actual
+2025-03,AAA4,Leaks (General),4,,,Actual
+2025-03,AAA4,Oil Pump,3,,,Actual
+2025-03,AAA4,Others,2,,,Actual
+2025-03,AAA4,Valves & Solenoids,1,,,Actual
+2025-03,AAA42,Leaks (General),1,,,Actual
+2025-03,AAA42,Sound & Vibration,1,,,Actual
+2025-03,AAA51,Cylinder & Overheating,1,,,Actual
+2025-03,AAA6,Electrical & Instruments,1,,,Actual
+2025-03,AAA6,Leaks (General),2,,,Actual
+2025-03,AAA6,Others,1,,,Actual
+2025-03,AAA6,Shaft Seal,1,,,Actual
+2025-03,AAA6,Sound & Vibration,2,,,Actual
+2025-03,AAA6,Valves & Solenoids,1,,,Actual
+2025-03,AAA72,Leaks (General),1,,,Actual
+2025-03,AAA72,Others,1,,,Actual
+2025-03,AAA72,Sound & Vibration,1,,,Actual
+2025-03,AAA72,Valves & Solenoids,1,,,Actual
+2025-03,AAA9,Sound & Vibration,1,,,Actual
+2025-03,AAA93,Others,1,,,Actual
+2025-03,AAD4,Shaft Seal,2,,,Actual
+2025-03,AB4,Electrical & Instruments,1,,,Actual
+2025-03,AB4,Leaks (General),1,,,Actual
+2025-03,AB4,Shaft Seal,1,,,Actual
+2025-03,AB4,Valves & Solenoids,2,,,Actual
+2025-03,AB6,Electrical & Instruments,4,,,Actual
+2025-03,AB6,Valves & Solenoids,1,,,Actual
+2025-03,AAA12,Shaft Seal,1,,,Actual
+2025-03,AAA2,Leaks (General),1,,,Actual
+2025-03,AAA2,Others,1,,,Actual
+2025-03,AAA3,Electrical & Instruments,1,,,Actual
+2025-03,AAA3,Leaks (General),1,,,Actual
+2025-03,AAA3,Others,1,,,Actual
+2025-03,AAA4,Cylinder & Overheating,1,,,Actual
+2025-03,AAA4,Oil Pump,1,,,Actual
+2025-03,AAA4,Others,1,,,Actual
+2025-03,AAA6,Electrical & Instruments,2,,,Actual
+2025-03,AAA72,Sound & Vibration,1,,,Actual
+2025-03,AB2,Oil Pump,1,,,Actual
+2025-03,AB3,Electrical & Instruments,2,,,Actual
+2025-03,AB4,Electrical & Instruments,5,,,Actual
+2025-03,AB4,Valves & Solenoids,2,,,Actual
+2025-03,AB6,Electrical & Instruments,2,,,Actual
+2025-03,AAA2,Shaft Seal,1,,,Actual
+2025-03,AAA3,Cylinder & Overheating,1,,,Actual
+2025-03,AAA3,Sound & Vibration,1,,,Actual
+2025-03,AAA4,Cylinder & Overheating,1,,,Actual
+2025-03,AAA4,Oil Pump,1,,,Actual
+2025-03,AAA4,Others,1,,,Actual
+2025-03,AAA4,Sound & Vibration,1,,,Actual
+2025-03,AAA6,Leaks (General),2,,,Actual
+2025-03,AAA6,Others,1,,,Actual
+2025-03,AAA6,Sound & Vibration,1,,,Actual
+2025-03,AAA72,Cylinder & Overheating,1,,,Actual
+2025-03,AAA72,Shaft Seal,1,,,Actual
+2025-03,AAA72,Sound & Vibration,1,,,Actual
+2025-03,AAA93,Others,1,,,Actual
+2025-03,AAD4,Oil Pump,1,,,Actual
+2025-03,AB3,Others,1,,,Actual
+2025-03,AB4,Shaft Seal,1,,,Actual
+2025-03,AB6,Electrical & Instruments,4,,,Actual
+2025-04,AAA3,Electrical & Instruments,1,,,Actual
+2025-04,AAA3,Others,1,,,Actual
+2025-04,AAA3,Shaft Seal,1,,,Actual
+2025-04,AAA31,Others,1,,,Actual
+2025-04,AAA4,Cylinder & Overheating,1,,,Actual
+2025-04,AAA4,Electrical & Instruments,2,,,Actual
+2025-04,AAA4,Others,1,,,Actual
+2025-04,AAA4,Shaft Seal,1,,,Actual
+2025-04,AAA6,Cylinder & Overheating,2,,,Actual
+2025-04,AAA6,Electrical & Instruments,1,,,Actual
+2025-04,AAA6,Major Mechanical,1,,,Actual
+2025-04,AAA6,Others,1,,,Actual
+2025-04,AAA6,Sound & Vibration,1,,,Actual
+2025-04,AAA72,Cylinder & Overheating,1,,,Actual
+2025-04,AAC2,Others,1,,,Actual
+2025-04,AAC2,Shaft Seal,1,,,Actual
+2025-04,AB4,Electrical & Instruments,3,,,Actual
+2025-04,AB4,Others,1,,,Actual
+2025-04,AB6,Electrical & Instruments,4,,,Actual
+2025-04,AAA6,Electrical & Instruments,1,,,Actual
+2025-04,AAC2,Shaft Seal,1,,,Actual
+2025-04,AB3,Others,1,,,Actual
+2025-04,AB6,Electrical & Instruments,1,,,Actual
+2025-05,AAA2,Shaft Seal,1,,,Actual
+2025-05,AAA3,Cylinder & Overheating,1,,,Actual
+2025-05,AAA3,Electrical & Instruments,1,,,Actual
+2025-05,AAA31,Others,1,,,Actual
+2025-05,AAA4,Cylinder & Overheating,2,,,Actual
+2025-05,AAA4,Valves & Solenoids,1,,,Actual
+2025-05,AAA6,Electrical & Instruments,1,,,Actual
+2025-05,AB3,Oil Pump,1,,,Actual
+2025-05,AB3,Others,2,,,Actual
+2025-05,AB4,Sound & Vibration,1,,,Actual
+2025-05,AAA12,Leaks (General),1,,,Actual
+2025-05,AAA3,Sound & Vibration,1,,,Actual
+2025-05,AAA4,Cylinder & Overheating,1,,,Actual
+2025-05,AAA4,Others,1,,,Actual
+2025-05,AAA51,Others,1,,,Actual
+2025-05,AAA2,Electrical & Instruments,1,,,Actual
+2025-05,AAA21,Sound & Vibration,1,,,Actual
+2025-05,AAA3,Cylinder & Overheating,1,,,Actual
+2025-05,AAA4,Leaks (General),1,,,Actual
+2025-05,AAA4,Sound & Vibration,1,,,Actual
+2025-05,AAA42,Sound & Vibration,1,,,Actual
+2025-05,AAA6,Leaks (General),1,,,Actual
+2025-05,AAA6,Sound & Vibration,1,,,Actual
+2025-05,AAA63,Shaft Seal,1,,,Actual
+2025-05,AAA84,Others,2,,,Actual
+2025-05,AAC2,Leaks (General),1,,,Actual
+2025-05,AB3,Sound & Vibration,2,,,Actual
+2025-05,AB4,Leaks (General),1,,,Actual
+2025-05,AB4,Sound & Vibration,2,,,Actual
+2025-05,AB6,Sound & Vibration,1,,,Actual
+2025-05,AAA12,Others,1,,,Actual
+2025-05,AAA3,Others,1,,,Actual
+2025-05,AAA4,Cylinder & Overheating,1,,,Actual
+2025-05,AAA4,Sound & Vibration,1,,,Actual
+2025-05,AAA6,Leaks (General),1,,,Actual
+2025-05,AAA6,Shaft Seal,1,,,Actual
+2025-05,AAA72,Leaks (General),1,,,Actual
+2025-05,AAA9,Others,1,,,Actual
+2025-05,AAC2,Cylinder & Overheating,1,,,Actual
+2025-05,AAC2,Electrical & Instruments,1,,,Actual
+2025-05,AB2,Leaks (General),1,,,Actual
+2025-05,AAA2,Others,1,,,Actual
+2025-05,AAA3,Leaks (General),1,,,Actual
+2025-05,AAA4,Leaks (General),2,,,Actual
+2025-05,AAA72,Sound & Vibration,1,,,Actual
+2025-05,AAA12,Cylinder & Overheating,1,,,Actual
+2025-05,AAA12,Leaks (General),1,,,Actual
+2025-05,AAA2,Shaft Seal,1,,,Actual
+2025-05,AAA3,Major Mechanical,1,,,Actual
+2025-05,AAA3,Others,1,,,Actual
+2025-05,AAA3,Sound & Vibration,1,,,Actual
+2025-05,AAA4,Leaks (General),2,,,Actual
+2025-05,AAA4,Others,1,,,Actual
+2025-05,AAA4,Sound & Vibration,1,,,Actual
+2025-05,AAA42,Leaks (General),1,,,Actual
+2025-05,AAA42,Sound & Vibration,1,,,Actual
+2025-05,AAA51,Sound & Vibration,1,,,Actual
+2025-05,AAA6,Leaks (General),2,,,Actual
+2025-05,AAA72,Leaks (General),1,,,Actual
+2025-05,AAA84,Leaks (General),1,,,Actual
+2025-05,AB3,Electrical & Instruments,1,,,Actual
+2025-05,AB4,Sound & Vibration,2,,,Actual
+2025-05,AB6,Electrical & Instruments,1,,,Actual
+2025-06,AAA2,Electrical & Instruments,2,,,Actual
+2025-06,AAA3,Electrical & Instruments,1,,,Actual
+2025-06,AAA3,Leaks (General),1,,,Actual
+2025-06,AAA3,Others,1,,,Actual
+2025-06,AAA4,Cylinder & Overheating,3,,,Actual
+2025-06,AAA4,Electrical & Instruments,1,,,Actual
+2025-06,AAA4,Leaks (General),1,,,Actual
+2025-06,AAA6,Leaks (General),2,,,Actual
+2025-06,AAA72,Others,2,,,Actual
+2025-06,AAC2,Others,1,,,Actual
+2025-06,AB3,Leaks (General),1,,,Actual
+2025-06,AB3,Oil Pump,1,,,Actual
+2025-06,AB4,Electrical & Instruments,3,,,Actual
+2025-06,AB4,Oil Pump,1,,,Actual
+2025-06,AB4,Shaft Seal,1,,,Actual
+2025-06,AB4,Sound & Vibration,2,,,Actual
+2025-06,AAA3,Others,1,,,Actual
+2025-06,AAA4,Sound & Vibration,1,,,Actual
+2025-06,AAA51,Cylinder & Overheating,1,,,Actual
+2025-06,AAA6,Cylinder & Overheating,1,,,Actual
+2025-06,AAA72,Leaks (General),1,,,Actual
+2025-06,AB4,Sound & Vibration,1,,,Actual
+2025-06,AAA6,Sound & Vibration,1,,,Actual
+2025-07,AAA2,Electrical & Instruments,2,,,Actual
+2025-07,AAA2,Others,2,,,Actual
+2025-07,AAA3,Oil Pump,1,,,Actual
+2025-07,AAA3,Others,1,,,Actual
+2025-07,AAA3,Sound & Vibration,1,,,Actual
+2025-07,AAA31,Others,1,,,Actual
+2025-07,AAA31,Valves & Solenoids,1,,,Actual
+2025-07,AAA4,Cylinder & Overheating,1,,,Actual
+2025-07,AAA4,Leaks (General),2,,,Actual
+2025-07,AAA4,Others,1,,,Actual
+2025-07,AAA4,Shaft Seal,1,,,Actual
+2025-07,AAA4,Sound & Vibration,2,,,Actual
+2025-07,AAA4,Valves & Solenoids,1,,,Actual
+2025-07,AAA6,Leaks (General),1,,,Actual
+2025-07,AAA6,Oil Pump,1,,,Actual
+2025-07,AAA63,Sound & Vibration,2,,,Actual
+2025-07,AAA72,Others,1,,,Actual
+2025-07,AAA72,Shaft Seal,1,,,Actual
+2025-07,AAA72,Sound & Vibration,1,,,Actual
+2025-07,AAC2,Electrical & Instruments,1,,,Actual
+2025-07,AAC2,Others,1,,,Actual
+2025-07,AB3,Others,1,,,Actual
+2025-07,AB4,Sound & Vibration,2,,,Actual
+2025-07,AB6,Leaks (General),1,,,Actual
+2025-07,AB6,Sound & Vibration,2,,,Actual
+2025-07,AAA3,Electrical & Instruments,1,,,Actual
+2025-07,AAA4,Leaks (General),3,,,Actual
+2025-07,AAA4,Sound & Vibration,1,,,Actual
+2025-07,AAA6,Leaks (General),1,,,Actual
+2025-07,AAA6,Sound & Vibration,2,,,Actual
+2025-07,AAA72,Cylinder & Overheating,1,,,Actual
+2025-07,AAA72,Others,1,,,Actual
+2025-07,AAA72,Sound & Vibration,1,,,Actual
+2025-07,AAA93,Cylinder & Overheating,1,,,Actual
+2025-07,AAA93,Others,1,,,Actual
+2025-07,AAA93,Sound & Vibration,1,,,Actual
+2025-07,AB4,Leaks (General),3,,,Actual
+2025-07,AB6,Leaks (General),1,,,Actual
+2025-07,AAA12,Valves & Solenoids,1,,,Actual
+2025-07,AAA2,Electrical & Instruments,1,,,Actual
+2025-07,AAA2,Others,1,,,Actual
+2025-08,AAA3,Cylinder & Overheating,1,,,Actual
+2025-08,AAA3,Shaft Seal,1,,,Actual
+2025-08,AAA4,Sound & Vibration,1,,,Actual
+2025-08,AAA72,Others,1,,,Actual
+2025-08,AB3,Shaft Seal,1,,,Actual
+2025-08,AB4,Sound & Vibration,1,,,Actual
+2025-08,AAA2,Cylinder & Overheating,1,,,Actual
+2025-08,AAA2,Leaks (General),1,,,Actual
+2025-08,AAA21,Valves & Solenoids,1,,,Actual
+2025-08,AAA3,Leaks (General),2,,,Actual
+2025-08,AAA3,Sound & Vibration,1,,,Actual
+2025-08,AAA4,Leaks (General),2,,,Actual
+2025-08,AAA4,Sound & Vibration,2,,,Actual
+2025-08,AAA51,Sound & Vibration,1,,,Actual
+2025-08,AAA6,Leaks (General),1,,,Actual
+2025-08,AAA6,Shaft Seal,1,,,Actual
+2025-08,AAA6,Sound & Vibration,1,,,Actual
+2025-08,AAA63,Sound & Vibration,2,,,Actual
+2025-08,AAA72,Cylinder & Overheating,1,,,Actual
+2025-08,AAA72,Oil Pump,1,,,Actual
+2025-08,AAA72,Sound & Vibration,1,,,Actual
+2025-08,AAA93,Oil Pump,1,,,Actual
+2025-08,AAA93,Sound & Vibration,2,,,Actual
+2025-08,AB4,Leaks (General),1,,,Actual
+2025-08,AB6,Leaks (General),3,,,Actual
+2025-08,AB6,Valves & Solenoids,1,,,Actual
+2025-08,AAA4,Others,1,,,Actual
+2025-08,AAA6,Others,2,,,Actual
+2025-08,AAA72,Others,4,,,Actual
+2025-08,AAA3,Leaks (General),1,,,Actual
+2025-08,AAA6,Others,1,,,Actual
+2025-08,AAA2,Leaks (General),1,,,Actual
+2025-08,AAA3,Others,1,,,Actual
+2025-08,AAA4,Leaks (General),3,,,Actual
+2025-08,AAA4,Others,1,,,Actual
+2025-08,AAA4,Shaft Seal,1,,,Actual
+2025-08,AAA6,Cylinder & Overheating,1,,,Actual
+2025-08,AAA6,Leaks (General),2,,,Actual
+2025-08,AAA63,Sound & Vibration,1,,,Actual
+2025-08,AAA72,Oil Pump,1,,,Actual
+2025-08,AAA72,Shaft Seal,1,,,Actual
+2025-08,AAA72,Sound & Vibration,1,,,Actual
+2025-08,AAA93,Cylinder & Overheating,1,,,Actual
+2025-08,AB2,Sound & Vibration,1,,,Actual
+2025-08,AB4,Sound & Vibration,1,,,Actual
+2025-09,AAA12,Leaks (General),1,,,Actual
+2025-09,AAA2,Leaks (General),1,,,Actual
+2025-09,AAA2,Shaft Seal,1,,,Actual
+2025-09,AAA2,Sound & Vibration,1,,,Actual
+2025-09,AAA3,Leaks (General),1,,,Actual
+2025-09,AAA3,Others,1,,,Actual
+2025-09,AAA3,Sound & Vibration,1,,,Actual
+2025-09,AAA3,Valves & Solenoids,1,,,Actual
+2025-09,AAA31,Electrical & Instruments,1,,,Actual
+2025-09,AAA4,Cylinder & Overheating,2,,,Actual
+2025-09,AAA4,Leaks (General),4,,,Actual
+2025-09,AAA42,Others,1,,,Actual
+2025-09,AAA51,Electrical & Instruments,1,,,Actual
+2025-09,AAA6,Leaks (General),3,,,Actual
+2025-09,AAA6,Sound & Vibration,1,,,Actual
+2025-09,AAA6,Valves & Solenoids,1,,,Actual
+2025-09,AAA63,Shaft Seal,1,,,Actual
+2025-09,AAA63,Sound & Vibration,1,,,Actual
+2025-09,AAA72,Sound & Vibration,1,,,Actual
+2025-09,AAA9,Electrical & Instruments,1,,,Actual
+2025-09,AAD6,Shaft Seal,1,,,Actual
+2025-09,AB3,Leaks (General),1,,,Actual
+2025-09,AB3,Sound & Vibration,1,,,Actual
+2025-09,AB4,Sound & Vibration,2,,,Actual
+2025-09,AAA1,Leaks (General),1,,,Actual
+2025-09,AAA2,Shaft Seal,1,,,Actual
+2025-09,AAA6,Cylinder & Overheating,1,,,Actual
+2025-09,AAA72,Sound & Vibration,1,,,Actual
+2025-09,AB6,Sound & Vibration,1,,,Actual
+2025-09,AAA6,Sound & Vibration,1,,,Actual
+2025-10,AAA2,Electrical & Instruments,2,,,Actual
+2025-10,AAA3,Cylinder & Overheating,1,,,Actual
+2025-10,AAA3,Leaks (General),1,,,Actual
+2025-10,AAA4,Electrical & Instruments,1,,,Actual
+2025-10,AAA4,Leaks (General),1,,,Actual
+2025-10,AAA42,Oil Pump,1,,,Actual
+2025-10,AAA6,Leaks (General),3,,,Actual
+2025-10,AAA93,Cylinder & Overheating,1,,,Actual
+2025-10,AAC2,Oil Pump,1,,,Actual
+2025-10,AAA4,Others,1,,,Actual
+2025-10,AAA4,Sound & Vibration,1,,,Actual
+2025-10,AAA72,Leaks (General),1,,,Actual
+2025-10,AAA72,Sound & Vibration,1,,,Actual
+2025-10,AAA2,Electrical & Instruments,1,,,Actual
+2025-10,AAA2,Leaks (General),2,,,Actual
+2025-10,AAA2,Sound & Vibration,1,,,Actual
+2025-10,AAA3,Cylinder & Overheating,1,,,Actual
+2025-10,AAA3,Sound & Vibration,1,,,Actual
+2025-10,AAA4,Leaks (General),1,,,Actual
+2025-10,AAA4,Shaft Seal,1,,,Actual
+2025-10,AAA4,Sound & Vibration,1,,,Actual
+2025-10,AAA42,Valves & Solenoids,1,,,Actual
+2025-10,AAA6,Leaks (General),2,,,Actual
+2025-10,AAA63,Sound & Vibration,1,,,Actual
+2025-10,AAA9,Oil Pump,1,,,Actual
+2025-10,AAA93,Oil Pump,1,,,Actual
+2025-10,AB4,Leaks (General),1,,,Actual
+2025-10,AB4,Sound & Vibration,1,,,Actual
+2025-10,AAA72,Valves & Solenoids,1,,,Actual
+2025-10,AB4,Sound & Vibration,1,,,Actual
+2025-11,AAA1,Oil Pump,1,,,Actual
+2025-11,AAA2,Leaks (General),1,,,Actual
+2025-11,AAA42,Cylinder & Overheating,1,,,Actual
+2025-11,AAA6,Sound & Vibration,1,,,Actual
+2025-11,AAA72,Oil Pump,1,,,Actual
+2025-11,AAA72,Sound & Vibration,1,,,Actual
+2025-11,AAA42,Sound & Vibration,1,,,Actual
+2025-11,AAA72,Others,1,,,Actual
+2025-11,AAA93,Others,1,,,Actual
+2025-11,AAA2,Leaks (General),2,,,Actual
+2025-11,AAA4,Cylinder & Overheating,1,,,Actual
+2025-11,AAA4,Leaks (General),1,,,Actual
+2025-11,AAA4,Sound & Vibration,1,,,Actual
+2025-11,AAA6,Leaks (General),2,,,Actual
+2025-11,AAA6,Sound & Vibration,1,,,Actual
+2025-11,AB4,Leaks (General),1,,,Actual
+2025-11,AAA72,Valves & Solenoids,1,,,Actual
+2025-11,AAA4,Oil Pump,1,,,Actual
+2025-11,AAA4,Sound & Vibration,1,,,Actual
+2025-11,AAA51,Cylinder & Overheating,1,,,Actual
+2025-11,AAA51,Others,1,,,Actual
+2025-11,AAA6,Cylinder & Overheating,1,,,Actual
+2025-11,AAA6,Sound & Vibration,1,,,Actual
+2025-11,AAA72,Shaft Seal,1,,,Actual
+2025-11,AAA93,Oil Pump,1,,,Actual
+2025-12,AAA3,Electrical & Instruments,1,,,Actual
+2025-12,AAA3,Sound & Vibration,1,,,Actual
+2025-12,AAA31,Leaks (General),1,,,Actual
+2025-12,AAA4,Leaks (General),2,,,Actual
+2025-12,AAA4,Sound & Vibration,1,,,Actual
+2025-12,AAA6,Leaks (General),1,,,Actual
+2025-12,AAA72,Electrical & Instruments,1,,,Actual
+2025-12,AAA72,Sound & Vibration,1,,,Actual
+2025-12,AAA93,Cylinder & Overheating,1,,,Actual
+2025-12,AAA93,Sound & Vibration,1,,,Actual
+2025-12,AAC2,Leaks (General),1,,,Actual
+2025-12,AAA72,Leaks (General),2,,,Actual
+2025-12,AAA93,Cylinder & Overheating,1,,,Actual
+2025-12,AAA4,Sound & Vibration,1,,,Actual
+2025-12,AAA63,Leaks (General),1,,,Actual
+2025-12,AAA3,Electrical & Instruments,1,,,Actual
+2025-12,AAA3,Leaks (General),2,,,Actual
+2025-12,AAA3,Others,1,,,Actual
+2025-12,AAA3,Sound & Vibration,1,,,Actual
+2025-12,AAA4,Cylinder & Overheating,1,,,Actual
+2025-12,AAA4,Leaks (General),1,,,Actual
+2025-12,AAA4,Others,1,,,Actual
+2025-12,AAA4,Shaft Seal,2,,,Actual
+2025-12,AAA4,Sound & Vibration,1,,,Actual
+2025-12,AAA63,Sound & Vibration,1,,,Actual
+2025-12,AAA72,Shaft Seal,1,,,Actual
+2025-12,AAA93,Leaks (General),1,,,Actual
+2026-01,AAA1,Sound & Vibration,1,,,Actual
+2026-01,AAA2,Leaks (General),1,,,Actual
+2026-01,AAA4,Leaks (General),1,,,Actual
+2026-01,AAA4,Shaft Seal,1,,,Actual
+2026-01,AAA6,Leaks (General),2,,,Actual
+2026-01,AAA72,Leaks (General),1,,,Actual
+2026-01,AAA72,Oil Pump,1,,,Actual
+2026-01,AAA72,Others,1,,,Actual
+2026-01,AAC2,Shaft Seal,1,,,Actual
+2026-01,AAD6,Shaft Seal,1,,,Actual
+2026-01,AB3,Leaks (General),1,,,Actual
+2026-01,AB72,Electrical & Instruments,1,,,Actual
+2026-01,AAA4,Sound & Vibration,1,,,Actual
+2026-01,AAA72,Electrical & Instruments,1,,,Actual
+2026-01,AB3,Electrical & Instruments,1,,,Actual
+2026-01,AB72,Others,1,,,Actual
+2026-01,AAA2,Shaft Seal,1,,,Actual
+2026-01,AAA3,Leaks (General),1,,,Actual
+2026-01,AAA3,Sound & Vibration,1,,,Actual
+2026-01,AAA4,Oil Pump,1,,,Actual
+2026-01,AAA4,Shaft Seal,1,,,Actual
+2026-01,AAA42,Leaks (General),1,,,Actual
+2026-02,AAA2,Leaks (General),0,0.0,1.0,Forecast
+2026-02,AAA3,Leaks (General),0,0.0,1.0,Forecast
+2026-02,AAA3,Sound & Vibration,0,0.0,1.0,Forecast
+2026-02,AAA4,Leaks (General),0,0.0,1.0,Forecast
+2026-02,AAA4,Sound & Vibration,0,0.0,1.0,Forecast
+2026-02,AAA6,Sound & Vibration,0,0.0,1.0,Forecast
+2026-02,AAA72,Others,0,0.0,0.0,Forecast
+2026-02,AAA72,Sound & Vibration,0,0.0,0.0,Forecast
+2026-02,AB3,Electrical & Instruments,0,0.0,1.0,Forecast
+2026-02,AB4,Sound & Vibration,0,0.0,1.0,Forecast
+2026-02,AB6,Leaks (General),0,0.0,0.0,Forecast
+2026-03,AAA2,Electrical & Instruments,0,0.0,0.0,Forecast
+2026-03,AAA2,Shaft Seal,0,0.0,1.0,Forecast
+2026-03,AAA3,Leaks (General),0,0.0,1.0,Forecast
+2026-03,AAA3,Sound & Vibration,0,0.0,1.0,Forecast
+2026-03,AAA4,Leaks (General),0,0.0,1.0,Forecast
+2026-03,AAA4,Sound & Vibration,0,0.0,1.0,Forecast
+2026-03,AAA6,Leaks (General),0,0.0,1.0,Forecast
+2026-03,AAA6,Sound & Vibration,0,0.0,1.0,Forecast
+2026-03,AB3,Leaks (General),0,0.0,1.0,Forecast
+2026-03,AB4,Leaks (General),0,0.0,0.0,Forecast
+2026-04,AAA2,Leaks (General),0,0.0,1.0,Forecast
+2026-04,AAA3,Oil Pump,0,0.0,1.0,Forecast
+2026-04,AAA3,Others,0,0.0,1.0,Forecast
+2026-04,AAA3,Shaft Seal,0,0.0,1.0,Forecast
+2026-04,AAA3,Valves & Solenoids,0,0.0,1.0,Forecast
+2026-04,AAA4,Leaks (General),0,0.0,1.0,Forecast
+2026-04,AAA4,Shaft Seal,0,0.0,1.0,Forecast
+2026-04,AAA4,Sound & Vibration,0,0.0,1.0,Forecast
+2026-04,AAA6,Leaks (General),0,0.0,1.0,Forecast

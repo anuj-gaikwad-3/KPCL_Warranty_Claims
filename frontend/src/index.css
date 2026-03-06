@@ -1,0 +1,257 @@
+@import "tailwindcss";
+
+/* ============================================
+   UNIFIED THEME TOKENS
+   Forecast-inspired corporate light palette
+   ============================================ */
+:root {
+  --primary-teal: #1a7a6d;
+  --primary-teal-light: #e6f5f2;
+  --primary-teal-dark: #1a7a6e;
+  --accent-coral: #e07c3a;
+  --accent-coral-light: #fef3eb;
+  --accent-coral-dark: #b46830;
+  --dark-teal: #155f55;
+  --gray: #5f6b7a;
+  --light-gray: #dde1e6;
+  --bg-primary: #f0f2f5;
+  --bg-card: #ffffff;
+  --bg-gradient-start: #eef2f5;
+  --bg-gradient-end: #e8edf2;
+  --text-primary: #1a1a2e;
+  --text-secondary: #5f6b7a;
+  --text-muted: #8e99a4;
+  --border-color: #dde1e6;
+  --divider-color: #e5e9ee;
+  --success: #27ae60;
+  --warning: #e07c3a;
+  --danger: #d94f4f;
+  --info: #1b8a7a;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 14px;
+}
+
+/* ============================================
+   GLOBAL STYLES
+   ============================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+  color: var(--text-primary);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================
+   DASHBOARD HEADER
+   ============================================ */
+.dashboard-header {
+  background:
+    linear-gradient(135deg, rgba(26, 122, 109, 0.94) 0%, rgba(27, 138, 122, 0.92) 100%),
+    url("/BG.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 34px 38px;
+  margin-bottom: 24px;
+  box-shadow: var(--shadow-md);
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.dashboard-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  opacity: 0.25;
+}
+
+/* ============================================
+   SIDEBAR
+   ============================================ */
+.sidebar-shell {
+  background: linear-gradient(180deg, #155f55 0%, #1a7a6d 100%);
+  color: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.16);
+}
+
+.sidebar-link {
+  position: relative;
+}
+
+.sidebar-link.active::before {
+  content: "";
+  position: absolute;
+  left: -10px;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  border-radius: 0 3px 3px 0;
+  background: rgba(255, 255, 255, 0.95);
+}
+
+/* ============================================
+   KPI CARDS
+   ============================================ */
+.kpi-card {
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  padding: 0;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border-color);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.kpi-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--primary-teal);
+  transition: width 0.3s ease;
+}
+
+.kpi-card.kpi-primary::before {
+  background: var(--primary-teal);
+}
+.kpi-card.kpi-secondary::before {
+  background: var(--accent-coral);
+}
+.kpi-card.kpi-warning::before {
+  background: var(--warning);
+}
+.kpi-card.kpi-info::before {
+  background: var(--info);
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: #b8bfc7;
+}
+.kpi-card:hover::before {
+  width: 5px;
+}
+
+/* ============================================
+   CHART CONTAINERS
+   ============================================ */
+.chart-container {
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+  height: 100%;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.chart-container:hover {
+  box-shadow: var(--shadow-md);
+  border-color: #b8bfc7;
+}
+
+.section-title {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.subtle-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 3px 8px;
+  border-radius: 6px;
+  color: var(--primary-teal);
+  background: var(--primary-teal-light);
+  font-weight: 700;
+}
+
+/* ============================================
+   PLOTLY OVERRIDES
+   ============================================ */
+.js-plotly-plot .plotly .modebar {
+  display: none !important;
+}
+.js-plotly-plot .plotly .main-svg {
+  border-radius: 8px;
+}
+
+/* ============================================
+   SCROLLBAR
+   ============================================ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--light-gray);
+  border-radius: 10px;
+  transition: background 0.3s ease;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-teal);
+}
+
+/* ============================================
+   ANIMATIONS
+   ============================================ */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media (max-width: 992px) {
+  .dashboard-header {
+    padding: 26px 26px;
+  }
+}
+
+@media (max-width: 768px) {
+  .dashboard-header {
+    padding: 22px 18px;
+  }
+}

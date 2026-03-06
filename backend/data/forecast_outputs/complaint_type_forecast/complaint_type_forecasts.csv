@@ -1,0 +1,20 @@
+Date,Model,Complaint_Type,Forecast_p10,Forecast_p50,Forecast_p90,Predicted_Part,Est_Unit_Cost,Est_Cost_p10,Est_Cost_p50,Est_Cost_p90
+2026-02,AAA3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-02,AAA4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,45000,45000,45000,90000
+2026-03,AAA3,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-03,AAA3,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
+2026-03,AAA3,Oil Pump,0,1,1,Oil Pump / Element,25000,0,25000,25000
+2026-03,AAA3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-03,AAA4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-03,AAA4,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
+2026-03,AAA4,Shaft Seal,0,1,1,Shaft Seal / O-ring,12000,0,12000,12000
+2026-03,AAA4,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
+2026-03,AAA6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
+2026-03,AAA6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-03,AAA72,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
+2026-04,AAA3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-04,AAA3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-04,AAA4,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
+2026-04,AAA4,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+2026-04,AAA6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
+2026-04,AAA6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
