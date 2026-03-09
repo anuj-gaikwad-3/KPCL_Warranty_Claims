@@ -35,7 +35,7 @@ export function FiscalYearProvider({ children }) {
   useEffect(() => {
     async function fetchFys() {
       try {
-        const res = await fetch("/api/v1/dashboard/fys");
+        const res = await fetch(`${baseUrl}/api/v1/dashboard/fys`);
         const json = await res.json();
         const list = Array.isArray(json.fys) ? json.fys : [];
         setFys(list);
