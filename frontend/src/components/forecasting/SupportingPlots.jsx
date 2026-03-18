@@ -1,4 +1,10 @@
 import React from "react";
+import { baseUrl } from "../../config/api";
+
+function absUrl(url) {
+  if (!url) return url;
+  return url.startsWith("/") ? `${baseUrl}${url}` : url;
+}
 
 export default function SupportingPlots({ category, curatedPlots, openLightbox }) {
   if (!curatedPlots || !curatedPlots[category]) return null;
@@ -14,16 +20,19 @@ export default function SupportingPlots({ category, curatedPlots, openLightbox }
       marginTop: 8,
     }}>
       {supp.map((p, i) => (
+        (() => {
+          const url = absUrl(p.url);
+          return (
         <div
           key={i}
           className="chart-card"
-          onClick={() => openLightbox(p.url, p.label)}
+          onClick={() => openLightbox(url, p.label)}
           style={{ cursor: "pointer" }}
         >
           {/* Image */}
           <div style={{ position: "relative", overflow: "hidden" }}>
             <img
-              src={p.url}
+              src={url}
               alt={p.label}
               loading="lazy"
               style={{
@@ -75,6 +84,8 @@ export default function SupportingPlots({ category, curatedPlots, openLightbox }
             </div>
           </div>
         </div>
+          );
+        })()
       ))}
     </div>
   );

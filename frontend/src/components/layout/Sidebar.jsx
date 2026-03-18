@@ -14,11 +14,7 @@ const subLinkClass = ({ isActive }) =>
   }`;
 
 const FORECAST_LINKS = [
-  { to: "/app/forecasting/summary", label: "Executive Summary" },
-  { to: "/app/forecasting/costs", label: "Cost Outlook" },
-  { to: "/app/forecasting/models", label: "Model Risk Watch" },
-  { to: "/app/forecasting/parts", label: "Parts & Inventory" },
-  { to: "/app/forecasting/trends", label: "Trends & History" },
+  { to: "/app/forecasting/dashboard", label: "Forecasting Dashboard" },
 ];
 
 export default function Sidebar() {

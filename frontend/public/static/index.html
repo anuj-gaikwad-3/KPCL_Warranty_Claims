@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KPCL Warranty Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loader-container">
+            <div class="loader-ring"></div>
+            <div class="loader-text">Loading Dashboard</div>
+            <div class="loader-sub">Preparing warranty intelligence...</div>
+        </div>
+    </div>
+
+    <nav class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="logo-mark">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3 3v18h18"></path>
+                    <path d="m19 9-5 5-4-4-3 3"></path>
+                </svg>
+            </div>
+            <div class="logo-wordmark">
+                <span class="logo-name">KPCL Warranty</span>
+                <span class="logo-badge">Intelligence</span>
+            </div>
+        </div>
+
+        <div class="nav-section-label">Dashboard</div>
+        <ul class="nav-list">
+            <li>
+                <a class="nav-link active" data-tab="summary" id="nav-summary">
+                    <div class="nav-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="3" width="7" height="7"></rect>
+                            <rect x="14" y="3" width="7" height="7"></rect>
+                            <rect x="14" y="14" width="7" height="7"></rect>
+                            <rect x="3" y="14" width="7" height="7"></rect>
+                        </svg></div>
+                    <span>Executive Summary</span>
+                </a>
+            </li>
+            <li>
+                <a class="nav-link" data-tab="costs" id="nav-costs">
+                    <div class="nav-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <line x1="12" y1="1" x2="12" y2="23"></line>
+                            <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+                        </svg></div>
+                    <span>Warranty Cost Outlook</span>
+                </a>
+            </li>
+            <li>
+                <a class="nav-link" data-tab="models" id="nav-models">
+                    <div class="nav-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <path
+                                d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
+                            <line x1="12" y1="9" x2="12" y2="13" />
+                            <line x1="12" y1="17" x2="12.01" y2="17" />
+                        </svg></div>
+                    <span>Model Risk Watch</span>
+                </a>
+            </li>
+            <li>
+                <a class="nav-link" data-tab="parts" id="nav-parts">
+                    <div class="nav-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <path
+                                d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
+                        </svg></div>
+                    <span>Parts & Inventory</span>
+                </a>
+            </li>
+            <li>
+                <a class="nav-link" data-tab="trends" id="nav-trends">
+                    <div class="nav-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+                        </svg></div>
+                    <span>Trends & History</span>
+                </a>
+            </li>
+        </ul>
+
+        <div class="sidebar-footer">
+            <div class="status-dot"></div>
+            <span>Data up to Jan 2026</span>
+        </div>
+    </nav>
+
+    <main class="main-content" id="main-content">
+
+        <!-- TAB: EXECUTIVE SUMMARY -->
+        <section id="tab-summary" class="tab-panel active">
+            <div class="hero-banner">
+                <div class="hero-left">
+                    <div class="hero-eyebrow"><span class="pulse-dot"></span>Warranty Forecast Active</div>
+                    <h1 class="hero-title">Quarterly Warranty<br><span class="gradient-text">Cost & Risk Overview</span>
+                    </h1>
+                    <p class="hero-subtitle">Next 3 months outlook across <strong id="kpi-models-count">--</strong>
+                        compressor models</p>
+                </div>
+                <div class="hero-right">
+                    <div class="hero-metric-card">
+                        <div class="hero-metric-label">Est. Quarterly Parts Cost*</div>
+                        <div class="hero-metric-value" id="kpi-total-cost">--</div>
+                        <div class="hero-metric-sub" id="kpi-cost-period">Feb - Apr 2026</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="kpi-strip">
+                <div class="kpi-card">
+                    <div class="kpi-icon-wrap kpi-icon-blue">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <polyline points="23 6 13.5 15.5 8.5 10.5 1 18" />
+                            <polyline points="17 6 23 6 23 12" />
+                        </svg>
+                    </div>
+                    <div class="kpi-data">
+                        <div class="kpi-value" id="kpi-expected-claims">--</div>
+                        <div class="kpi-label">Expected Claims (3 months)</div>
+                    </div>
+                    <div class="kpi-trend" id="kpi-trend-badge">
+                        <span id="kpi-trend-arrow"></span>
+                        <span id="kpi-trend-value"></span>
+                    </div>
+                </div>
+
+                <div class="kpi-card">
+                    <div class="kpi-icon-wrap kpi-icon-rose">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path
+                                d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
+                            <line x1="12" y1="9" x2="12" y2="13" />
+                            <line x1="12" y1="17" x2="12.01" y2="17" />
+                        </svg>
+                    </div>
+                    <div class="kpi-data">
+                        <div class="kpi-value" id="kpi-risk-model">--</div>
+                        <div class="kpi-label">Highest Risk Model</div>
+                    </div>
+                    <div class="kpi-sub-value"><span id="kpi-risk-value">0</span> expected claims</div>
+                </div>
+
+                <div class="kpi-card">
+                    <div class="kpi-icon-wrap kpi-icon-amber">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <circle cx="12" cy="12" r="10" />
+                            <polyline points="12 6 12 12 16 14" />
+                        </svg>
+                    </div>
+                    <div class="kpi-data">
+                        <div class="kpi-value" id="kpi-top-issue">--</div>
+                        <div class="kpi-label">Top Failure Category</div>
+                    </div>
+                    <div class="kpi-sub-value"><span id="kpi-top-issue-pct">0</span>% of claims</div>
+                </div>
+            </div>
+
+            <div class="quick-charts-row">
+                <div class="chart-card chart-card-wide">
+                    <div class="chart-card-header">
+                        <h3>Monthly Claims Forecast</h3>
+                        <span class="chart-badge">Next 3 Months</span>
+                    </div>
+                    <div class="chart-container" style="height: 300px;">
+                        <canvas id="summaryTrendChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <div class="chart-card-header">
+                        <h3>Cost by Failure Type</h3>
+                        <span class="chart-badge">Estimated</span>
+                    </div>
+                    <div class="chart-container" style="height: 300px;">
+                        <canvas id="summaryCostChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="data-card" style="margin-top: 1.5rem;">
+                <div class="data-card-header">
+                    <h3>Key Actions Required</h3>
+                    <div class="data-card-count" id="action-count"></div>
+                </div>
+                <div class="table-wrap">
+                    <table id="action-table">
+                        <thead>
+                            <tr>
+                                <th>Priority</th>
+                                <th>Model</th>
+                                <th>Issue</th>
+                                <th>Likely Part Needed</th>
+                                <th>Est. Cost</th>
+                                <th>Expected Claims</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB: WARRANTY COST OUTLOOK -->
+        <section id="tab-costs" class="tab-panel">
+            <div class="tab-header">
+                <div>
+                    <h2 class="tab-title">Warranty Cost Outlook</h2>
+                    <p class="tab-subtitle">Indicative warranty cost based on predicted failures and share-weighted
+                        average part costs</p>
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label">Period</label>
+                    <select id="cost-month-filter" class="filter-select"></select>
+                </div>
+            </div>
+
+            <div class="kpi-strip">
+                <div class="kpi-card">
+                    <div class="kpi-icon-wrap kpi-icon-blue">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <line x1="12" y1="1" x2="12" y2="23" />
+                            <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+                        </svg>
+                    </div>
+                    <div class="kpi-data">
+                        <div class="kpi-value" id="cost-total">--</div>
+                        <div class="kpi-label">Total Estimated Cost</div>
+                    </div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-icon-wrap kpi-icon-emerald">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <line x1="12" y1="1" x2="12" y2="23" />
+                            <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+                        </svg>
+                    </div>
+                    <div class="kpi-data">
+                        <div class="kpi-value" id="cost-best-case">--</div>
+                        <div class="kpi-label">Best Case Scenario</div>
+                    </div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-icon-wrap kpi-icon-rose">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <line x1="12" y1="1" x2="12" y2="23" />
+                            <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+                        </svg>
+                    </div>
+                    <div class="kpi-data">
+                        <div class="kpi-value" id="cost-worst-case">--</div>
+                        <div class="kpi-label">Worst Case Scenario</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="quick-charts-row">
+                <div class="chart-card chart-card-wide">
+                    <div class="chart-card-header">
+                        <h3>Cost Breakdown by Failure Type</h3>
+                    </div>
+                    <div class="chart-container" style="height: 350px;">
+                        <canvas id="costByTypeChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <div class="chart-card-header">
+                        <h3>Cost by Model</h3>
+                    </div>
+                    <div class="chart-container" style="height: 350px;">
+                        <canvas id="costByModelChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="data-card" style="margin-top: 1.5rem;">
+                <div class="data-card-header">
+                    <h3>Detailed Cost Forecast</h3>
+                </div>
+                <div class="table-wrap">
+                    <table id="cost-detail-table">
+                        <thead>
+                            <tr>
+                                <th>Failure Type</th>
+                                <th>Most Likely Part</th>
+                                <th>Avg Cost/Claim*</th>
+                                <th>Expected Claims</th>
+                                <th>Expected Total Cost*</th>
+                                <th>Best Case</th>
+                                <th>Worst Case</th>
+                                <th>Models Affected</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <p
+                    style="margin-top: 0.75rem; font-size: 0.78rem; color: var(--clr-muted); line-height: 1.5; padding: 0 1.3rem 1rem;">
+                    * Cost estimates are indicative. "Avg Cost/Claim" is a share-weighted average across all
+                    historically observed replacement parts for each failure type &mdash; actual costs depend on the
+                    specific part needed, labour, and unit costs are internal estimates and should be validated with
+                    procurement.
+                </p>
+            </div>
+
+            <div class="section-divider"><span>Deep-Dive Analysis</span></div>
+
+            <div class="quick-charts-row">
+                <div class="chart-card chart-card-wide">
+                    <div class="chart-card-header">
+                        <h3>Forecast by Complaint Type</h3>
+                        <span class="chart-badge">With Confidence Bands</span>
+                    </div>
+                    <div class="chart-container" style="height: 350px;">
+                        <canvas id="costComplaintTypeChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <div class="chart-card-header">
+                        <h3>Historical Category Distribution</h3>
+                        <span class="chart-badge">Proportions</span>
+                    </div>
+                    <div class="chart-container" style="height: 350px;">
+                        <canvas id="costHistDistChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB: MODEL RISK WATCH -->
+        <section id="tab-models" class="tab-panel">
+            <div class="tab-header">
+                <div>
+                    <h2 class="tab-title">Model Risk Watch</h2>
+                    <p class="tab-subtitle">Which compressor models need attention in the coming months</p>
+                </div>
+                <div class="filter-group">
+                    <label class="filter-label">Forecast Month</label>
+                    <select id="model-month-filter" class="filter-select"></select>
+                </div>
+            </div>
+
+            <div class="narrative-banner" id="model-narrative">
+                <div class="narrative-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path
+                            d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
+                    </svg>
+                </div>
+                <div class="narrative-content">
+                    <div class="narrative-headline" id="model-narrative-headline">Loading...</div>
+                    <div class="narrative-body" id="model-narrative-body"></div>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <h3>Top 10 Models - Forecasted Claims (3 months)</h3>
+                    <span class="chart-badge">Aggregate</span>
+                </div>
+                <div class="chart-container" style="height: 380px;">
+                    <canvas id="modelTop10Chart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card" style="margin-top: 1.5rem;">
+                <div class="chart-card-header">
+                    <h3 id="model-chart-title">Expected Claims by Model</h3>
+                    <span class="chart-badge" id="model-chart-badge">Feb 2026</span>
+                </div>
+                <div class="chart-container" style="height: 600px;">
+                    <canvas id="modelBarChart"></canvas>
+                </div>
+            </div>
+
+            <div class="story-row" style="margin-top: 1.5rem;">
+                <div class="data-card">
+                    <div class="data-card-header">
+                        <h3>Model Forecast Details</h3>
+                        <div class="data-card-count" id="model-table-count">0 models</div>
+                    </div>
+                    <div class="table-wrap">
+                        <table id="model-forecast-table">
+                            <thead>
+                                <tr>
+                                    <th>Model</th>
+                                    <th>Best Case</th>
+                                    <th>Expected</th>
+                                    <th>Worst Case</th>
+                                    <th>Confidence Range</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="data-card">
+                    <div class="data-card-header">
+                        <h3>Forecast Reliability</h3>
+                    </div>
+                    <div class="table-wrap">
+                        <table id="model-validation-table">
+                            <thead>
+                                <tr>
+                                    <th>Model</th>
+                                    <th>Actual Claims</th>
+                                    <th>Predicted</th>
+                                    <th>Confidence</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- TAB: PARTS & INVENTORY -->
+        <section id="tab-parts" class="tab-panel">
+            <div class="tab-header">
+                <div>
+                    <h2 class="tab-title">Parts & Inventory Planning</h2>
+                    <p class="tab-subtitle">What parts to stock based on predicted failures across all models</p>
+                </div>
+            </div>
+
+            <div class="narrative-banner">
+                <div class="narrative-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path
+                            d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
+                    </svg>
+                </div>
+                <div class="narrative-content">
+                    <div class="narrative-headline" id="parts-narrative-headline">Loading...</div>
+                    <div class="narrative-body" id="parts-narrative-body"></div>
+                </div>
+            </div>
+
+            <div class="chart-card" style="margin-bottom: 1.5rem;">
+                <div class="chart-card-header">
+                    <h3>Parts Demand Forecast</h3>
+                    <span class="chart-badge">Next Quarter</span>
+                </div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="partsDemandChart"></canvas>
+                </div>
+            </div>
+
+            <div class="data-card">
+                <div class="data-card-header">
+                    <h3>Recommended Parts Stocking</h3>
+                </div>
+                <div class="table-wrap">
+                    <table id="parts-stocking-table">
+                        <thead>
+                            <tr>
+                                <th>Part / Component</th>
+                                <th>Units Needed (Expected)</th>
+                                <th>Units Needed (Worst Case)</th>
+                                <th>Avg Cost/Unit*</th>
+                                <th>Est. Budget (Expected)*</th>
+                                <th>Primary Failure Types</th>
+                                <th>Models Using This Part</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="data-card" style="margin-top: 1.5rem;">
+                <div class="data-card-header">
+                    <h3>Part Requirements by Model</h3>
+                </div>
+                <div class="table-wrap">
+                    <table id="parts-by-model-table">
+                        <thead>
+                            <tr>
+                                <th>Model</th>
+                                <th>Failure Type</th>
+                                <th>Likely Part</th>
+                                <th>Qty (Expected)</th>
+                                <th>Qty (Worst Case)</th>
+                                <th>Cost</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="section-divider"><span>Deep-Dive Analysis</span></div>
+
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <h3>Type Share by Model</h3>
+                    <span class="chart-badge">Failure Profile</span>
+                </div>
+                <div class="chart-container" style="height: 450px;">
+                    <canvas id="partsTypeShareChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB: TRENDS & HISTORY -->
+        <section id="tab-trends" class="tab-panel">
+            <div class="tab-header">
+                <div>
+                    <h2 class="tab-title">Trends & Historical Analysis</h2>
+                    <p class="tab-subtitle">Long-term complaint patterns and forecast methodology performance</p>
+                </div>
+            </div>
+
+            <div class="narrative-banner" id="trends-narrative">
+                <div class="narrative-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="22 12 18 12 15 21 9 3 6 12 2 12" />
+                    </svg>
+                </div>
+                <div class="narrative-content">
+                    <div class="narrative-headline" id="trends-narrative-headline">Loading...</div>
+                    <div class="narrative-body" id="trends-narrative-body"></div>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-card-header">
+                    <h3>Full History + Forecast Overview</h3>
+                    <span class="chart-badge">Ensemble</span>
+                </div>
+                <div class="chart-container" style="height: 380px;">
+                    <canvas id="trendsOverviewChart"></canvas>
+                </div>
+            </div>
+
+            <div class="story-row" style="margin-top: 1.5rem;">
+                <div class="chart-card">
+                    <div class="chart-card-header">
+                        <h3>Recent Actuals vs Predictions</h3>
+                        <span class="chart-badge">Validation Period</span>
+                    </div>
+                    <div class="chart-container" style="height: 340px;">
+                        <canvas id="trendsActualChart"></canvas>
+                    </div>
+                </div>
+                <div class="data-card">
+                    <div class="data-card-header">
+                        <h3>Forecast Method Performance</h3>
+                    </div>
+                    <div class="table-wrap">
+                        <table id="trends-comparison-table">
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Method</th>
+                                    <th>Avg Error</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="data-card" style="margin-top: 1.5rem;">
+                <div class="data-card-header">
+                    <h3>3-Month Forward Predictions (All Methods)</h3>
+                </div>
+                <div class="table-wrap">
+                    <table id="trends-forecast-table">
+                        <thead>
+                            <tr>
+                                <th>Month</th>
+                                <th>Holt-Winters</th>
+                                <th>SARIMA</th>
+                                <th>Prophet</th>
+                                <th>LightGBM</th>
+                                <th>Combined Best</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="section-divider"><span>Deep-Dive Analysis</span></div>
+
+            <div class="quick-charts-row">
+                <div class="chart-card chart-card-wide">
+                    <div class="chart-card-header">
+                        <h3>Algorithm Leaderboard</h3>
+                        <span class="chart-badge">Test MAE</span>
+                    </div>
+                    <div class="chart-container" style="height: 300px;">
+                        <canvas id="trendsAlgoChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <div class="chart-card-header">
+                        <h3>Feature Importance - LightGBM</h3>
+                        <span class="chart-badge">Methodology</span>
+                    </div>
+                    <div class="chart-container" style="height: 380px;">
+                        <canvas id="trendsFeatureChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chart-card" style="margin-top: 1.2rem;">
+                <div class="chart-card-header">
+                    <h3>Trend & Seasonality Decomposition</h3>
+                    <span class="chart-badge">Methodology</span>
+                </div>
+                <div class="chart-container" style="text-align: center; height: auto;">
+                    <img id="trendsDecompImg" src="/api/plots/total_complaints_forecast/plot5_decomposition.png" alt="Trend & Seasonality Decomposition" style="max-width: 100%; border-radius: 8px; display: inline-block;" />
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="/static/app.js"></script>
+</body>
+
+</html>
+

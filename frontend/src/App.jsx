@@ -10,11 +10,7 @@ import Overview from "./pages/Overview";
 import Complaints from "./pages/Complaints";
 import ZhcAnalysis from "./pages/ZhcAnalysis";
 import UsageAnalysis from "./pages/UsageAnalysis";
-import ExecutiveSummary from "./pages/forecasting/ExecutiveSummary";
-import CostOutlook from "./pages/forecasting/CostOutlook";
-import ModelRiskWatch from "./pages/forecasting/ModelRiskWatch";
-import PartsInventory from "./pages/forecasting/PartsInventory";
-import TrendsHistory from "./pages/forecasting/TrendsHistory";
+import ForecastingExact from "./pages/forecasting/ForecastingExact";
 import ChatWidget from "./components/chatbot/ChatWidget";
 
 function DashboardLayout() {
@@ -34,11 +30,8 @@ function DashboardLayout() {
           <Route path="complaints" element={<Complaints />} />
           <Route path="zhc-analysis" element={<ZhcAnalysis />} />
           <Route path="usage-analysis" element={<UsageAnalysis />} />
-          <Route path="forecasting/summary" element={<ExecutiveSummary />} />
-          <Route path="forecasting/costs" element={<CostOutlook />} />
-          <Route path="forecasting/models" element={<ModelRiskWatch />} />
-          <Route path="forecasting/parts" element={<PartsInventory />} />
-          <Route path="forecasting/trends" element={<TrendsHistory />} />
+          <Route path="forecasting/dashboard" element={<ForecastingExact />} />
+          <Route path="forecasting/*" element={<Navigate to="/app/forecasting/dashboard" replace />} />
         </Routes>
       </div>
       <ChatWidget />

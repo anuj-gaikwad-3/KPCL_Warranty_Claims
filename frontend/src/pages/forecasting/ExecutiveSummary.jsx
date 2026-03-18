@@ -90,6 +90,17 @@ export default function ExecutiveSummary() {
   const costColors = costSummary.map((_, i) => PALETTE[i % PALETTE.length]);
 
   const momChange = overview?.mom_change;
+  const periodLabel = (() => {
+    const months = overview?.forecast_months;
+    if (!months) return "";
+    if (Array.isArray(months) && months.length) {
+      const start = monthLabel(months[0]);
+      const end = monthLabel(months[months.length - 1]);
+      return start === end ? start : `${start} \u2013 ${end}`;
+    }
+    // Backward/alternate support if API ever sends a string already
+    return String(months);
+  })();
 
   return (
     <>
@@ -128,7 +139,7 @@ export default function ExecutiveSummary() {
             </span>
             {overview?.forecast_months && (
               <span style={{ fontSize: 12, color: "rgba(255,255,255,0.65)", fontWeight: 500 }}>
-                · Forecast period: {overview.forecast_months}
+                · Forecast period: {periodLabel}
               </span>
             )}
           </div>

@@ -1,7 +1,7 @@
 Model,Test MAE,Test RMSE
-Holt-Winters,10.147,10.596
-Prophet,10.999,11.147
-Ensemble (Top-3),11.175,11.474
-SARIMA,12.379,12.803
-LightGBM,12.435,13.368
-Theta,12.600,13.021
+Prophet,6.615,10.291
+Ensemble (Top-3),9.645,11.170
+Holt-Winters,12.108,12.780
+SARIMA,12.606,13.676
+Theta,12.726,13.795
+LightGBM,13.512,14.354

@@ -1,803 +1,795 @@
 Model_masked,Category,Part_Family,count,share
-AAA1,Cylinder & Overheating,Delivery / Discharge Valve,1,1.0
-AAA1,Electrical & Instruments,Other Parts,2,0.5
-AAA1,Electrical & Instruments,Pressure Gauge,1,0.25
-AAA1,Electrical & Instruments,Pressure Switch / Cut-out,1,0.25
-AAA1,Hour Meter & Accessories,Hour Meter,1,1.0
-AAA1,Loading & Unloading,Not Specified,1,1.0
-AAA1,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.1
-AAA1,Oil Consumption & Carryover,Other Parts,4,0.2
-AAA1,Oil Consumption & Carryover,Piston / Liner / Ring Set,13,0.65
-AAA1,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.05
-AAA1,Oil Pump,Major Mechanical Parts,1,0.3333333333333333
-AAA1,Oil Pump,Not Specified,1,0.3333333333333333
-AAA1,Oil Pump,Oil Pump / Element,1,0.3333333333333333
-AAA1,Others,Fasteners / Hardware,2,0.4
-AAA1,Others,Not Specified,1,0.2
-AAA1,Others,Oil Pump / Element,1,0.2
-AAA1,Others,Other Parts,1,0.2
-AAA1,Shaft Seal,Shaft Seal / O-ring,8,1.0
-AAA1,Sound & Vibration,Delivery / Discharge Valve,2,0.4
-AAA1,Sound & Vibration,Major Mechanical Parts,1,0.2
-AAA1,Sound & Vibration,Other Parts,1,0.2
-AAA1,Sound & Vibration,Piston / Liner / Ring Set,1,0.2
-AAA1,Valves & Solenoids,Delivery / Discharge Valve,1,0.5
-AAA1,Valves & Solenoids,Solenoid Valve / Coil,1,0.5
-AAA102,Major Mechanical,Major Mechanical Parts,1,1.0
-AAA102,Oil Pump,Other Parts,1,1.0
-AAA102,Others,Other Parts,1,1.0
-AAA12,Coupling & Drive,Other Parts,1,1.0
-AAA12,Cylinder & Overheating,Delivery / Discharge Valve,2,0.3333333333333333
-AAA12,Cylinder & Overheating,Piston / Liner / Ring Set,4,0.6666666666666666
-AAA12,Leaks (General),Not Specified,2,1.0
-AAA12,Oil Consumption & Carryover,Other Parts,1,0.25
-AAA12,Oil Consumption & Carryover,Piston / Liner / Ring Set,2,0.5
-AAA12,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.25
-AAA12,Oil Pump,Fasteners / Hardware,1,0.2
-AAA12,Oil Pump,Oil Pump / Element,4,0.8
-AAA12,Others,Fasteners / Hardware,1,0.5
-AAA12,Others,Piston / Liner / Ring Set,1,0.5
-AAA12,Shaft Seal,Shaft Seal / O-ring,2,1.0
-AAA12,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
-AAA12,Sound & Vibration,Shaft Seal / O-ring,1,0.5
-AAA12,Valves & Solenoids,Not Specified,1,0.5
-AAA12,Valves & Solenoids,Other Parts,1,0.5
-AAA2,Cylinder & Overheating,Delivery / Discharge Valve,11,0.3793103448275862
-AAA2,Cylinder & Overheating,Not Specified,1,0.034482758620689655
-AAA2,Cylinder & Overheating,Other Parts,1,0.034482758620689655
-AAA2,Cylinder & Overheating,Piston / Liner / Ring Set,16,0.5517241379310345
-AAA2,Electrical & Instruments,Not Specified,4,0.10526315789473684
-AAA2,Electrical & Instruments,Other Parts,6,0.15789473684210525
-AAA2,Electrical & Instruments,Pressure Gauge,15,0.39473684210526316
-AAA2,Electrical & Instruments,Pressure Switch / Cut-out,13,0.34210526315789475
-AAA2,Hour Meter & Accessories,Hour Meter,7,1.0
-AAA2,KRMS & Sensors,KRMS / Controller,1,0.3333333333333333
-AAA2,KRMS & Sensors,Temperature Sensor,2,0.6666666666666666
-AAA2,Leaks (General),Not Specified,1,0.16666666666666666
-AAA2,Leaks (General),Other Parts,3,0.5
-AAA2,Leaks (General),Pressure Gauge,1,0.16666666666666666
-AAA2,Leaks (General),Shaft Seal / O-ring,1,0.16666666666666666
-AAA2,Loading & Unloading,Fasteners / Hardware,1,0.2
-AAA2,Loading & Unloading,Not Specified,1,0.2
-AAA2,Loading & Unloading,Solenoid Valve / Coil,3,0.6
-AAA2,Major Mechanical,Major Mechanical Parts,2,1.0
-AAA2,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.02040816326530612
-AAA2,Oil Consumption & Carryover,Not Specified,2,0.04081632653061224
-AAA2,Oil Consumption & Carryover,ORV (Oil Return Valve),5,0.10204081632653061
-AAA2,Oil Consumption & Carryover,Other Parts,2,0.04081632653061224
-AAA2,Oil Consumption & Carryover,Piston / Liner / Ring Set,37,0.7551020408163265
-AAA2,Oil Consumption & Carryover,Shaft Seal / O-ring,2,0.04081632653061224
-AAA2,Oil Pump,Not Specified,1,0.022222222222222223
-AAA2,Oil Pump,Oil Pump / Element,40,0.8888888888888888
-AAA2,Oil Pump,Other Parts,4,0.08888888888888889
-AAA2,Others,Fasteners / Hardware,2,0.09523809523809523
-AAA2,Others,Major Mechanical Parts,1,0.047619047619047616
-AAA2,Others,Not Specified,2,0.09523809523809523
-AAA2,Others,Oil Pump / Element,4,0.19047619047619047
-AAA2,Others,Other Parts,9,0.42857142857142855
-AAA2,Others,Piston / Liner / Ring Set,2,0.09523809523809523
-AAA2,Others,Pressure Switch / Cut-out,1,0.047619047619047616
-AAA2,Shaft Seal,Not Specified,1,0.03125
-AAA2,Shaft Seal,Other Parts,4,0.125
-AAA2,Shaft Seal,Piston / Liner / Ring Set,1,0.03125
-AAA2,Shaft Seal,Shaft Seal / O-ring,26,0.8125
-AAA2,Sound & Vibration,Delivery / Discharge Valve,2,0.06666666666666667
-AAA2,Sound & Vibration,Gaskets,1,0.03333333333333333
-AAA2,Sound & Vibration,Major Mechanical Parts,3,0.1
-AAA2,Sound & Vibration,Not Specified,3,0.1
-AAA2,Sound & Vibration,Other Parts,2,0.06666666666666667
-AAA2,Sound & Vibration,Piston / Liner / Ring Set,19,0.6333333333333333
-AAA2,Valves & Solenoids,Delivery / Discharge Valve,5,0.3125
-AAA2,Valves & Solenoids,K5 Valve,2,0.125
-AAA2,Valves & Solenoids,Not Specified,1,0.0625
-AAA2,Valves & Solenoids,Other Parts,2,0.125
-AAA2,Valves & Solenoids,Solenoid Valve / Coil,5,0.3125
-AAA2,Valves & Solenoids,Stop Valve,1,0.0625
-AAA21,Cylinder & Overheating,Other Parts,1,0.5
-AAA21,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.5
-AAA21,Electrical & Instruments,Not Specified,1,0.3333333333333333
-AAA21,Electrical & Instruments,Pressure Gauge,2,0.6666666666666666
-AAA21,Hour Meter & Accessories,Hour Meter,1,1.0
-AAA21,KRMS & Sensors,Other Parts,1,1.0
-AAA21,Major Mechanical,Not Specified,1,1.0
-AAA21,Oil Consumption & Carryover,Piston / Liner / Ring Set,2,1.0
-AAA21,Oil Pump,Not Specified,2,0.4
-AAA21,Oil Pump,Oil Pump / Element,2,0.4
-AAA21,Oil Pump,Other Parts,1,0.2
-AAA21,Others,Not Specified,2,1.0
-AAA21,Shaft Seal,Other Parts,1,1.0
-AAA21,Sound & Vibration,Major Mechanical Parts,1,0.3333333333333333
-AAA21,Sound & Vibration,Not Specified,1,0.3333333333333333
-AAA21,Sound & Vibration,Piston / Liner / Ring Set,1,0.3333333333333333
-AAA21,Valves & Solenoids,Delivery / Discharge Valve,1,0.3333333333333333
-AAA21,Valves & Solenoids,Other Parts,2,0.6666666666666666
-AAA3,Coupling & Drive,Other Parts,3,1.0
-AAA3,Cylinder & Overheating,Buffer Spring,1,0.015625
-AAA3,Cylinder & Overheating,Delivery / Discharge Valve,20,0.3125
-AAA3,Cylinder & Overheating,Not Specified,2,0.03125
-AAA3,Cylinder & Overheating,Oil Pump / Element,1,0.015625
-AAA3,Cylinder & Overheating,Other Parts,3,0.046875
-AAA3,Cylinder & Overheating,Piston / Liner / Ring Set,37,0.578125
-AAA3,Electrical & Instruments,Fasteners / Hardware,1,0.021739130434782608
-AAA3,Electrical & Instruments,Not Specified,2,0.043478260869565216
-AAA3,Electrical & Instruments,Other Parts,8,0.17391304347826086
-AAA3,Electrical & Instruments,Pressure Gauge,22,0.4782608695652174
-AAA3,Electrical & Instruments,Pressure Switch / Cut-out,13,0.2826086956521739
-AAA3,Hour Meter & Accessories,Hour Meter,1,1.0
-AAA3,KRMS & Sensors,KRMS / Controller,5,0.45454545454545453
-AAA3,KRMS & Sensors,Other Parts,3,0.2727272727272727
-AAA3,KRMS & Sensors,Temperature Sensor,3,0.2727272727272727
-AAA3,Leaks (General),Other Parts,8,0.8888888888888888
-AAA3,Leaks (General),Solenoid Valve / Coil,1,0.1111111111111111
-AAA3,Loading & Unloading,Oil Pump / Element,1,0.09090909090909091
-AAA3,Loading & Unloading,Other Parts,2,0.18181818181818182
-AAA3,Loading & Unloading,Piston / Liner / Ring Set,4,0.36363636363636365
-AAA3,Loading & Unloading,Solenoid Valve / Coil,4,0.36363636363636365
-AAA3,Major Mechanical,Major Mechanical Parts,1,0.5
-AAA3,Major Mechanical,Shaft Seal / O-ring,1,0.5
-AAA3,Oil Consumption & Carryover,Buffer Spring,1,0.008620689655172414
-AAA3,Oil Consumption & Carryover,Not Specified,5,0.04310344827586207
-AAA3,Oil Consumption & Carryover,ORV (Oil Return Valve),11,0.09482758620689655
-AAA3,Oil Consumption & Carryover,Other Parts,5,0.04310344827586207
-AAA3,Oil Consumption & Carryover,Piston / Liner / Ring Set,92,0.7931034482758621
-AAA3,Oil Consumption & Carryover,Shaft Seal / O-ring,2,0.017241379310344827
-AAA3,Oil Pump,Gaskets,1,0.013157894736842105
-AAA3,Oil Pump,Major Mechanical Parts,2,0.02631578947368421
-AAA3,Oil Pump,Not Specified,3,0.039473684210526314
-AAA3,Oil Pump,Oil Pump / Element,61,0.8026315789473685
-AAA3,Oil Pump,Other Parts,7,0.09210526315789473
-AAA3,Oil Pump,Shaft Seal / O-ring,2,0.02631578947368421
-AAA3,Others,Buffer Spring,1,0.03333333333333333
-AAA3,Others,Fasteners / Hardware,4,0.13333333333333333
-AAA3,Others,Not Specified,4,0.13333333333333333
-AAA3,Others,ORV (Oil Return Valve),1,0.03333333333333333
-AAA3,Others,Oil Pump / Element,3,0.1
-AAA3,Others,Other Parts,12,0.4
-AAA3,Others,Pressure Switch / Cut-out,2,0.06666666666666667
-AAA3,Others,Shaft Seal / O-ring,1,0.03333333333333333
-AAA3,Others,Solenoid Valve / Coil,2,0.06666666666666667
-AAA3,Shaft Seal,Major Mechanical Parts,1,0.018518518518518517
-AAA3,Shaft Seal,Not Specified,5,0.09259259259259259
-AAA3,Shaft Seal,Other Parts,4,0.07407407407407407
-AAA3,Shaft Seal,Shaft Seal / O-ring,44,0.8148148148148148
-AAA3,Sound & Vibration,Buffer Spring,1,0.013513513513513514
-AAA3,Sound & Vibration,Delivery / Discharge Valve,4,0.05405405405405406
-AAA3,Sound & Vibration,K5 Valve,1,0.013513513513513514
-AAA3,Sound & Vibration,Major Mechanical Parts,4,0.05405405405405406
-AAA3,Sound & Vibration,Not Specified,4,0.05405405405405406
-AAA3,Sound & Vibration,Oil Pump / Element,1,0.013513513513513514
-AAA3,Sound & Vibration,Other Parts,1,0.013513513513513514
-AAA3,Sound & Vibration,Piston / Liner / Ring Set,56,0.7567567567567568
-AAA3,Sound & Vibration,Shaft Seal / O-ring,2,0.02702702702702703
-AAA3,Valves & Solenoids,Delivery / Discharge Valve,10,0.2
-AAA3,Valves & Solenoids,Fasteners / Hardware,1,0.02
-AAA3,Valves & Solenoids,K5 Valve,7,0.14
-AAA3,Valves & Solenoids,Not Specified,2,0.04
-AAA3,Valves & Solenoids,Other Parts,4,0.08
-AAA3,Valves & Solenoids,Piston / Liner / Ring Set,4,0.08
-AAA3,Valves & Solenoids,Pressure Switch / Cut-out,1,0.02
-AAA3,Valves & Solenoids,Shaft Seal / O-ring,1,0.02
-AAA3,Valves & Solenoids,Solenoid Valve / Coil,18,0.36
-AAA3,Valves & Solenoids,Stop Valve,2,0.04
-AAA31,Coupling & Drive,Coupling / Disk Pack,1,0.5
-AAA31,Coupling & Drive,Not Specified,1,0.5
-AAA31,Cylinder & Overheating,Delivery / Discharge Valve,1,0.25
-AAA31,Cylinder & Overheating,Not Specified,1,0.25
-AAA31,Cylinder & Overheating,Piston / Liner / Ring Set,2,0.5
-AAA31,Electrical & Instruments,Pressure Gauge,3,0.75
-AAA31,Electrical & Instruments,Solenoid Valve / Coil,1,0.25
-AAA31,KRMS & Sensors,KRMS / Controller,2,0.3333333333333333
-AAA31,KRMS & Sensors,Other Parts,2,0.3333333333333333
-AAA31,KRMS & Sensors,Temperature Sensor,2,0.3333333333333333
-AAA31,Major Mechanical,Not Specified,1,1.0
-AAA31,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,0.5
-AAA31,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.5
-AAA31,Oil Pump,Oil Pump / Element,4,0.8
-AAA31,Oil Pump,Shaft Seal / O-ring,1,0.2
-AAA31,Others,Fasteners / Hardware,1,0.1
-AAA31,Others,Not Specified,4,0.4
-AAA31,Others,Oil Pump / Element,2,0.2
-AAA31,Others,Other Parts,2,0.2
-AAA31,Others,Pressure Gauge,1,0.1
-AAA31,Shaft Seal,Shaft Seal / O-ring,3,1.0
-AAA31,Sound & Vibration,Piston / Liner / Ring Set,1,1.0
-AAA31,Valves & Solenoids,Delivery / Discharge Valve,1,0.2
-AAA31,Valves & Solenoids,Piston / Liner / Ring Set,1,0.2
-AAA31,Valves & Solenoids,Solenoid Valve / Coil,2,0.4
-AAA31,Valves & Solenoids,Stop Valve,1,0.2
-AAA4,Coupling & Drive,Coupling / Disk Pack,1,1.0
-AAA4,Cylinder & Overheating,Buffer Spring,1,0.012658227848101266
-AAA4,Cylinder & Overheating,Delivery / Discharge Valve,27,0.34177215189873417
-AAA4,Cylinder & Overheating,Not Specified,5,0.06329113924050633
-AAA4,Cylinder & Overheating,Other Parts,6,0.0759493670886076
-AAA4,Cylinder & Overheating,Piston / Liner / Ring Set,38,0.4810126582278481
-AAA4,Cylinder & Overheating,Shaft Seal / O-ring,2,0.02531645569620253
-AAA4,Electrical & Instruments,Other Parts,4,0.11764705882352941
-AAA4,Electrical & Instruments,Pressure Gauge,21,0.6176470588235294
-AAA4,Electrical & Instruments,Pressure Switch / Cut-out,9,0.2647058823529412
-AAA4,Hour Meter & Accessories,Hour Meter,6,1.0
-AAA4,KRMS & Sensors,KRMS / Controller,5,0.35714285714285715
-AAA4,KRMS & Sensors,Other Parts,2,0.14285714285714285
-AAA4,KRMS & Sensors,Solenoid Valve / Coil,2,0.14285714285714285
-AAA4,KRMS & Sensors,Temperature Sensor,5,0.35714285714285715
-AAA4,Leaks (General),Not Specified,6,0.46153846153846156
-AAA4,Leaks (General),ORV (Oil Return Valve),1,0.07692307692307693
-AAA4,Leaks (General),Other Parts,6,0.46153846153846156
-AAA4,Loading & Unloading,Solenoid Valve / Coil,1,1.0
-AAA4,Major Mechanical,Major Mechanical Parts,1,0.2
-AAA4,Major Mechanical,Not Specified,4,0.8
-AAA4,Oil Consumption & Carryover,Delivery / Discharge Valve,2,0.013333333333333334
-AAA4,Oil Consumption & Carryover,Not Specified,1,0.006666666666666667
-AAA4,Oil Consumption & Carryover,ORV (Oil Return Valve),9,0.06
-AAA4,Oil Consumption & Carryover,Oil Pump / Element,2,0.013333333333333334
-AAA4,Oil Consumption & Carryover,Other Parts,7,0.04666666666666667
-AAA4,Oil Consumption & Carryover,Piston / Liner / Ring Set,119,0.7933333333333333
-AAA4,Oil Consumption & Carryover,Shaft Seal / O-ring,10,0.06666666666666667
-AAA4,Oil Pump,Major Mechanical Parts,1,0.01098901098901099
-AAA4,Oil Pump,Not Specified,4,0.04395604395604396
-AAA4,Oil Pump,Oil Pump / Element,78,0.8571428571428571
-AAA4,Oil Pump,Other Parts,6,0.06593406593406594
-AAA4,Oil Pump,Piston / Liner / Ring Set,1,0.01098901098901099
-AAA4,Oil Pump,Shaft Seal / O-ring,1,0.01098901098901099
-AAA4,Others,Fasteners / Hardware,6,0.18181818181818182
-AAA4,Others,Major Mechanical Parts,1,0.030303030303030304
-AAA4,Others,Not Specified,7,0.21212121212121213
-AAA4,Others,Oil Pump / Element,6,0.18181818181818182
-AAA4,Others,Other Parts,9,0.2727272727272727
-AAA4,Others,Pressure Gauge,3,0.09090909090909091
-AAA4,Others,Pressure Switch / Cut-out,1,0.030303030303030304
-AAA4,Shaft Seal,Not Specified,4,0.06779661016949153
-AAA4,Shaft Seal,Oil Pump / Element,1,0.01694915254237288
-AAA4,Shaft Seal,Other Parts,1,0.01694915254237288
-AAA4,Shaft Seal,Piston / Liner / Ring Set,1,0.01694915254237288
-AAA4,Shaft Seal,Shaft Seal / O-ring,52,0.8813559322033898
-AAA4,Sound & Vibration,Buffer Spring,2,0.020618556701030927
-AAA4,Sound & Vibration,Coupling / Disk Pack,1,0.010309278350515464
-AAA4,Sound & Vibration,Delivery / Discharge Valve,12,0.12371134020618557
-AAA4,Sound & Vibration,Not Specified,5,0.05154639175257732
-AAA4,Sound & Vibration,Oil Pump / Element,1,0.010309278350515464
-AAA4,Sound & Vibration,Piston / Liner / Ring Set,74,0.7628865979381443
-AAA4,Sound & Vibration,Shaft Seal / O-ring,2,0.020618556701030927
-AAA4,Valves & Solenoids,Delivery / Discharge Valve,7,0.14583333333333334
-AAA4,Valves & Solenoids,Fasteners / Hardware,1,0.020833333333333332
-AAA4,Valves & Solenoids,Gaskets,1,0.020833333333333332
-AAA4,Valves & Solenoids,K5 Valve,12,0.25
-AAA4,Valves & Solenoids,Not Specified,2,0.041666666666666664
-AAA4,Valves & Solenoids,Other Parts,8,0.16666666666666666
-AAA4,Valves & Solenoids,Piston / Liner / Ring Set,2,0.041666666666666664
-AAA4,Valves & Solenoids,Solenoid Valve / Coil,13,0.2708333333333333
-AAA4,Valves & Solenoids,Stop Valve,2,0.041666666666666664
-AAA42,Cylinder & Overheating,Delivery / Discharge Valve,2,0.25
-AAA42,Cylinder & Overheating,Other Parts,1,0.125
-AAA42,Cylinder & Overheating,Piston / Liner / Ring Set,5,0.625
-AAA42,Electrical & Instruments,Other Parts,1,0.125
-AAA42,Electrical & Instruments,Pressure Gauge,6,0.75
-AAA42,Electrical & Instruments,Pressure Switch / Cut-out,1,0.125
-AAA42,KRMS & Sensors,KRMS / Controller,1,0.2
-AAA42,KRMS & Sensors,Other Parts,1,0.2
-AAA42,KRMS & Sensors,Temperature Sensor,3,0.6
-AAA42,Leaks (General),Other Parts,2,1.0
-AAA42,Major Mechanical,Major Mechanical Parts,1,1.0
-AAA42,Oil Consumption & Carryover,Other Parts,3,0.1875
-AAA42,Oil Consumption & Carryover,Piston / Liner / Ring Set,12,0.75
-AAA42,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.0625
-AAA42,Oil Pump,Oil Pump / Element,7,0.875
-AAA42,Oil Pump,Piston / Liner / Ring Set,1,0.125
-AAA42,Others,Fasteners / Hardware,1,0.06666666666666667
-AAA42,Others,Not Specified,7,0.4666666666666667
-AAA42,Others,Other Parts,4,0.26666666666666666
-AAA42,Others,Piston / Liner / Ring Set,2,0.13333333333333333
-AAA42,Others,Pressure Gauge,1,0.06666666666666667
-AAA42,Shaft Seal,Not Specified,1,0.07692307692307693
-AAA42,Shaft Seal,Shaft Seal / O-ring,12,0.9230769230769231
-AAA42,Sound & Vibration,Buffer Spring,2,0.07142857142857142
-AAA42,Sound & Vibration,Fasteners / Hardware,1,0.03571428571428571
-AAA42,Sound & Vibration,Not Specified,5,0.17857142857142858
-AAA42,Sound & Vibration,Other Parts,1,0.03571428571428571
-AAA42,Sound & Vibration,Piston / Liner / Ring Set,19,0.6785714285714286
-AAA42,Valves & Solenoids,Delivery / Discharge Valve,8,0.5714285714285714
-AAA42,Valves & Solenoids,K5 Valve,1,0.07142857142857142
-AAA42,Valves & Solenoids,Other Parts,3,0.21428571428571427
-AAA42,Valves & Solenoids,Piston / Liner / Ring Set,1,0.07142857142857142
-AAA42,Valves & Solenoids,Solenoid Valve / Coil,1,0.07142857142857142
-AAA51,Cylinder & Overheating,Delivery / Discharge Valve,9,0.5294117647058824
-AAA51,Cylinder & Overheating,Fasteners / Hardware,1,0.058823529411764705
-AAA51,Cylinder & Overheating,Other Parts,3,0.17647058823529413
-AAA51,Cylinder & Overheating,Piston / Liner / Ring Set,4,0.23529411764705882
-AAA51,Electrical & Instruments,Pressure Gauge,3,1.0
-AAA51,KRMS & Sensors,KRMS / Controller,1,0.2
-AAA51,KRMS & Sensors,Other Parts,1,0.2
-AAA51,KRMS & Sensors,Temperature Sensor,3,0.6
-AAA51,Leaks (General),Delivery / Discharge Valve,1,0.14285714285714285
-AAA51,Leaks (General),Not Specified,5,0.7142857142857143
-AAA51,Leaks (General),Other Parts,1,0.14285714285714285
-AAA51,Major Mechanical,Major Mechanical Parts,3,1.0
-AAA51,Oil Consumption & Carryover,Not Specified,1,0.14285714285714285
-AAA51,Oil Consumption & Carryover,ORV (Oil Return Valve),1,0.14285714285714285
-AAA51,Oil Consumption & Carryover,Piston / Liner / Ring Set,5,0.7142857142857143
-AAA51,Oil Pump,Major Mechanical Parts,2,0.25
-AAA51,Oil Pump,Oil Pump / Element,6,0.75
-AAA51,Others,Buffer Spring,1,0.2
-AAA51,Others,Other Parts,3,0.6
-AAA51,Others,Temperature Sensor,1,0.2
-AAA51,Shaft Seal,Shaft Seal / O-ring,4,1.0
-AAA51,Sound & Vibration,Delivery / Discharge Valve,2,0.14285714285714285
-AAA51,Sound & Vibration,Piston / Liner / Ring Set,12,0.8571428571428571
-AAA51,Valves & Solenoids,Delivery / Discharge Valve,6,0.4
-AAA51,Valves & Solenoids,Not Specified,1,0.06666666666666667
-AAA51,Valves & Solenoids,Other Parts,4,0.26666666666666666
-AAA51,Valves & Solenoids,Solenoid Valve / Coil,4,0.26666666666666666
-AAA6,Cylinder & Overheating,Delivery / Discharge Valve,14,0.208955223880597
-AAA6,Cylinder & Overheating,Not Specified,3,0.04477611940298507
-AAA6,Cylinder & Overheating,Other Parts,6,0.08955223880597014
-AAA6,Cylinder & Overheating,Piston / Liner / Ring Set,44,0.6567164179104478
-AAA6,Electrical & Instruments,Other Parts,2,0.07692307692307693
-AAA6,Electrical & Instruments,Pressure Gauge,13,0.5
-AAA6,Electrical & Instruments,Pressure Switch / Cut-out,9,0.34615384615384615
-AAA6,Electrical & Instruments,Solenoid Valve / Coil,1,0.038461538461538464
-AAA6,Electrical & Instruments,Temperature Sensor,1,0.038461538461538464
-AAA6,Hour Meter & Accessories,Hour Meter,4,1.0
-AAA6,KRMS & Sensors,KRMS / Controller,2,0.3333333333333333
-AAA6,KRMS & Sensors,Other Parts,3,0.5
-AAA6,KRMS & Sensors,Temperature Sensor,1,0.16666666666666666
-AAA6,Leaks (General),Fasteners / Hardware,1,0.1
-AAA6,Leaks (General),Not Specified,2,0.2
-AAA6,Leaks (General),Other Parts,7,0.7
-AAA6,Loading & Unloading,Other Parts,2,0.4
-AAA6,Loading & Unloading,Solenoid Valve / Coil,3,0.6
-AAA6,Major Mechanical,Major Mechanical Parts,2,0.6666666666666666
-AAA6,Major Mechanical,Not Specified,1,0.3333333333333333
-AAA6,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.010416666666666666
-AAA6,Oil Consumption & Carryover,Not Specified,4,0.041666666666666664
-AAA6,Oil Consumption & Carryover,ORV (Oil Return Valve),11,0.11458333333333333
-AAA6,Oil Consumption & Carryover,Oil Pump / Element,1,0.010416666666666666
-AAA6,Oil Consumption & Carryover,Piston / Liner / Ring Set,71,0.7395833333333334
-AAA6,Oil Consumption & Carryover,Shaft Seal / O-ring,8,0.08333333333333333
-AAA6,Oil Pump,Gaskets,2,0.037037037037037035
-AAA6,Oil Pump,Not Specified,4,0.07407407407407407
-AAA6,Oil Pump,Oil Pump / Element,44,0.8148148148148148
-AAA6,Oil Pump,Other Parts,2,0.037037037037037035
-AAA6,Oil Pump,Piston / Liner / Ring Set,2,0.037037037037037035
-AAA6,Others,Delivery / Discharge Valve,1,0.045454545454545456
-AAA6,Others,Fasteners / Hardware,3,0.13636363636363635
-AAA6,Others,Not Specified,9,0.4090909090909091
-AAA6,Others,Oil Pump / Element,2,0.09090909090909091
-AAA6,Others,Other Parts,5,0.22727272727272727
-AAA6,Others,Pressure Gauge,1,0.045454545454545456
-AAA6,Others,Solenoid Valve / Coil,1,0.045454545454545456
-AAA6,Shaft Seal,Major Mechanical Parts,1,0.03125
-AAA6,Shaft Seal,Not Specified,3,0.09375
-AAA6,Shaft Seal,Piston / Liner / Ring Set,1,0.03125
-AAA6,Shaft Seal,Shaft Seal / O-ring,27,0.84375
-AAA6,Sound & Vibration,Buffer Spring,4,0.043478260869565216
-AAA6,Sound & Vibration,Delivery / Discharge Valve,3,0.03260869565217391
-AAA6,Sound & Vibration,Fasteners / Hardware,1,0.010869565217391304
-AAA6,Sound & Vibration,Gaskets,1,0.010869565217391304
-AAA6,Sound & Vibration,Major Mechanical Parts,2,0.021739130434782608
-AAA6,Sound & Vibration,Not Specified,9,0.09782608695652174
-AAA6,Sound & Vibration,Oil Pump / Element,1,0.010869565217391304
-AAA6,Sound & Vibration,Other Parts,4,0.043478260869565216
-AAA6,Sound & Vibration,Piston / Liner / Ring Set,65,0.7065217391304348
-AAA6,Sound & Vibration,Shaft Seal / O-ring,2,0.021739130434782608
-AAA6,Valves & Solenoids,Delivery / Discharge Valve,8,0.20512820512820512
-AAA6,Valves & Solenoids,K5 Valve,3,0.07692307692307693
-AAA6,Valves & Solenoids,Not Specified,2,0.05128205128205128
-AAA6,Valves & Solenoids,Other Parts,8,0.20512820512820512
-AAA6,Valves & Solenoids,Piston / Liner / Ring Set,3,0.07692307692307693
-AAA6,Valves & Solenoids,Solenoid Valve / Coil,13,0.3333333333333333
-AAA6,Valves & Solenoids,Stop Valve,2,0.05128205128205128
-AAA63,Cylinder & Overheating,Delivery / Discharge Valve,3,0.42857142857142855
-AAA63,Cylinder & Overheating,Not Specified,1,0.14285714285714285
-AAA63,Cylinder & Overheating,Other Parts,1,0.14285714285714285
-AAA63,Cylinder & Overheating,Piston / Liner / Ring Set,2,0.2857142857142857
-AAA63,Electrical & Instruments,Pressure Gauge,2,1.0
-AAA63,Loading & Unloading,Solenoid Valve / Coil,2,1.0
-AAA63,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.13333333333333333
-AAA63,Oil Consumption & Carryover,Piston / Liner / Ring Set,13,0.8666666666666667
-AAA63,Oil Pump,Oil Pump / Element,4,1.0
-AAA63,Others,Fasteners / Hardware,3,0.5
-AAA63,Others,Not Specified,2,0.3333333333333333
-AAA63,Others,Other Parts,1,0.16666666666666666
-AAA63,Shaft Seal,Fasteners / Hardware,1,0.14285714285714285
-AAA63,Shaft Seal,Shaft Seal / O-ring,6,0.8571428571428571
-AAA63,Sound & Vibration,Piston / Liner / Ring Set,14,1.0
-AAA63,Valves & Solenoids,Delivery / Discharge Valve,1,0.14285714285714285
-AAA63,Valves & Solenoids,K5 Valve,1,0.14285714285714285
-AAA63,Valves & Solenoids,Not Specified,3,0.42857142857142855
-AAA63,Valves & Solenoids,Other Parts,1,0.14285714285714285
-AAA63,Valves & Solenoids,Piston / Liner / Ring Set,1,0.14285714285714285
-AAA72,Cylinder & Overheating,Buffer Spring,2,0.05714285714285714
-AAA72,Cylinder & Overheating,Delivery / Discharge Valve,10,0.2857142857142857
-AAA72,Cylinder & Overheating,Not Specified,2,0.05714285714285714
-AAA72,Cylinder & Overheating,Other Parts,1,0.02857142857142857
-AAA72,Cylinder & Overheating,Piston / Liner / Ring Set,19,0.5428571428571428
-AAA72,Cylinder & Overheating,Temperature Sensor,1,0.02857142857142857
-AAA72,Electrical & Instruments,Not Specified,1,0.07692307692307693
-AAA72,Electrical & Instruments,Other Parts,3,0.23076923076923078
-AAA72,Electrical & Instruments,Pressure Gauge,8,0.6153846153846154
-AAA72,Electrical & Instruments,Pressure Switch / Cut-out,1,0.07692307692307693
-AAA72,KRMS & Sensors,KRMS / Controller,9,0.375
-AAA72,KRMS & Sensors,Other Parts,4,0.16666666666666666
-AAA72,KRMS & Sensors,Temperature Sensor,11,0.4583333333333333
-AAA72,Leaks (General),Fasteners / Hardware,2,0.3333333333333333
-AAA72,Leaks (General),Not Specified,2,0.3333333333333333
-AAA72,Leaks (General),Other Parts,2,0.3333333333333333
-AAA72,Loading & Unloading,Solenoid Valve / Coil,2,1.0
-AAA72,Major Mechanical,Major Mechanical Parts,2,0.2857142857142857
-AAA72,Major Mechanical,Not Specified,1,0.14285714285714285
-AAA72,Major Mechanical,Oil Pump / Element,2,0.2857142857142857
-AAA72,Major Mechanical,Other Parts,2,0.2857142857142857
-AAA72,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.017241379310344827
-AAA72,Oil Consumption & Carryover,Not Specified,1,0.017241379310344827
-AAA72,Oil Consumption & Carryover,Other Parts,8,0.13793103448275862
-AAA72,Oil Consumption & Carryover,Piston / Liner / Ring Set,47,0.8103448275862069
-AAA72,Oil Consumption & Carryover,Pressure Gauge,1,0.017241379310344827
-AAA72,Oil Pump,Oil Pump / Element,26,0.8666666666666667
-AAA72,Oil Pump,Other Parts,4,0.13333333333333333
-AAA72,Others,Delivery / Discharge Valve,1,0.05263157894736842
-AAA72,Others,Fasteners / Hardware,4,0.21052631578947367
-AAA72,Others,Major Mechanical Parts,1,0.05263157894736842
-AAA72,Others,Not Specified,5,0.2631578947368421
-AAA72,Others,Oil Pump / Element,1,0.05263157894736842
-AAA72,Others,Other Parts,6,0.3157894736842105
-AAA72,Others,Piston / Liner / Ring Set,1,0.05263157894736842
-AAA72,Shaft Seal,Major Mechanical Parts,1,0.041666666666666664
-AAA72,Shaft Seal,Not Specified,1,0.041666666666666664
-AAA72,Shaft Seal,Other Parts,1,0.041666666666666664
-AAA72,Shaft Seal,Shaft Seal / O-ring,21,0.875
-AAA72,Sound & Vibration,Buffer Spring,1,0.014285714285714285
-AAA72,Sound & Vibration,Delivery / Discharge Valve,6,0.08571428571428572
-AAA72,Sound & Vibration,Major Mechanical Parts,2,0.02857142857142857
-AAA72,Sound & Vibration,Not Specified,2,0.02857142857142857
-AAA72,Sound & Vibration,Other Parts,4,0.05714285714285714
-AAA72,Sound & Vibration,Piston / Liner / Ring Set,53,0.7571428571428571
-AAA72,Sound & Vibration,Shaft Seal / O-ring,2,0.02857142857142857
-AAA72,Valves & Solenoids,Delivery / Discharge Valve,16,0.48484848484848486
-AAA72,Valves & Solenoids,K5 Valve,1,0.030303030303030304
-AAA72,Valves & Solenoids,Other Parts,3,0.09090909090909091
-AAA72,Valves & Solenoids,Piston / Liner / Ring Set,5,0.15151515151515152
-AAA72,Valves & Solenoids,Solenoid Valve / Coil,5,0.15151515151515152
-AAA72,Valves & Solenoids,Stop Valve,3,0.09090909090909091
-AAA8,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
-AAA84,Cylinder & Overheating,Delivery / Discharge Valve,3,0.5
-AAA84,Cylinder & Overheating,Piston / Liner / Ring Set,3,0.5
-AAA84,Leaks (General),Other Parts,1,1.0
-AAA84,Major Mechanical,Major Mechanical Parts,1,1.0
-AAA84,Oil Consumption & Carryover,ORV (Oil Return Valve),1,0.3333333333333333
-AAA84,Oil Consumption & Carryover,Piston / Liner / Ring Set,2,0.6666666666666666
-AAA84,Oil Pump,Oil Pump / Element,1,1.0
-AAA84,Others,Oil Pump / Element,2,1.0
-AAA84,Sound & Vibration,Delivery / Discharge Valve,1,0.2
-AAA84,Sound & Vibration,Piston / Liner / Ring Set,4,0.8
-AAA84,Valves & Solenoids,Delivery / Discharge Valve,2,1.0
-AAA9,Coupling & Drive,Coupling / Disk Pack,6,0.6
-AAA9,Coupling & Drive,Fasteners / Hardware,2,0.2
-AAA9,Coupling & Drive,Other Parts,2,0.2
-AAA9,Cylinder & Overheating,Delivery / Discharge Valve,3,0.25
-AAA9,Cylinder & Overheating,Not Specified,1,0.08333333333333333
-AAA9,Cylinder & Overheating,Other Parts,1,0.08333333333333333
-AAA9,Cylinder & Overheating,Piston / Liner / Ring Set,7,0.5833333333333334
-AAA9,Electrical & Instruments,Pressure Gauge,2,1.0
-AAA9,KRMS & Sensors,KRMS / Controller,3,0.5
-AAA9,KRMS & Sensors,Other Parts,2,0.3333333333333333
-AAA9,KRMS & Sensors,Temperature Sensor,1,0.16666666666666666
-AAA9,Leaks (General),Other Parts,1,1.0
-AAA9,Loading & Unloading,Not Specified,1,0.3333333333333333
-AAA9,Loading & Unloading,Other Parts,1,0.3333333333333333
-AAA9,Loading & Unloading,Piston / Liner / Ring Set,1,0.3333333333333333
-AAA9,Major Mechanical,Major Mechanical Parts,1,1.0
-AAA9,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.16666666666666666
-AAA9,Oil Consumption & Carryover,Other Parts,1,0.08333333333333333
-AAA9,Oil Consumption & Carryover,Piston / Liner / Ring Set,9,0.75
-AAA9,Oil Pump,Oil Pump / Element,5,0.7142857142857143
-AAA9,Oil Pump,Other Parts,2,0.2857142857142857
-AAA9,Others,Fasteners / Hardware,1,0.3333333333333333
-AAA9,Others,Not Specified,1,0.3333333333333333
-AAA9,Others,Piston / Liner / Ring Set,1,0.3333333333333333
-AAA9,Shaft Seal,Not Specified,1,0.2
-AAA9,Shaft Seal,Other Parts,1,0.2
-AAA9,Shaft Seal,Shaft Seal / O-ring,3,0.6
-AAA9,Sound & Vibration,Fasteners / Hardware,2,0.15384615384615385
-AAA9,Sound & Vibration,Not Specified,2,0.15384615384615385
-AAA9,Sound & Vibration,Other Parts,1,0.07692307692307693
-AAA9,Sound & Vibration,Piston / Liner / Ring Set,8,0.6153846153846154
-AAA9,Valves & Solenoids,Delivery / Discharge Valve,5,0.5555555555555556
-AAA9,Valves & Solenoids,Not Specified,1,0.1111111111111111
-AAA9,Valves & Solenoids,Solenoid Valve / Coil,1,0.1111111111111111
-AAA9,Valves & Solenoids,Stop Valve,2,0.2222222222222222
-AAA93,Cylinder & Overheating,Delivery / Discharge Valve,8,0.38095238095238093
-AAA93,Cylinder & Overheating,Other Parts,2,0.09523809523809523
-AAA93,Cylinder & Overheating,Piston / Liner / Ring Set,10,0.47619047619047616
-AAA93,Cylinder & Overheating,Shaft Seal / O-ring,1,0.047619047619047616
-AAA93,Electrical & Instruments,Not Specified,1,0.3333333333333333
-AAA93,Electrical & Instruments,Other Parts,2,0.6666666666666666
-AAA93,KRMS & Sensors,KRMS / Controller,1,0.3333333333333333
-AAA93,KRMS & Sensors,Other Parts,1,0.3333333333333333
-AAA93,KRMS & Sensors,Temperature Sensor,1,0.3333333333333333
-AAA93,Major Mechanical,Major Mechanical Parts,1,1.0
-AAA93,Oil Consumption & Carryover,Oil Pump / Element,1,0.14285714285714285
-AAA93,Oil Consumption & Carryover,Piston / Liner / Ring Set,5,0.7142857142857143
-AAA93,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.14285714285714285
-AAA93,Oil Pump,Oil Pump / Element,6,1.0
-AAA93,Others,Delivery / Discharge Valve,2,0.2222222222222222
-AAA93,Others,Not Specified,3,0.3333333333333333
-AAA93,Others,Oil Pump / Element,1,0.1111111111111111
-AAA93,Others,Other Parts,3,0.3333333333333333
-AAA93,Shaft Seal,Oil Pump / Element,1,0.16666666666666666
-AAA93,Shaft Seal,Other Parts,1,0.16666666666666666
-AAA93,Shaft Seal,Shaft Seal / O-ring,4,0.6666666666666666
-AAA93,Sound & Vibration,Delivery / Discharge Valve,1,0.125
-AAA93,Sound & Vibration,Oil Pump / Element,1,0.125
-AAA93,Sound & Vibration,Piston / Liner / Ring Set,6,0.75
-AAA93,Valves & Solenoids,Delivery / Discharge Valve,4,0.5
-AAA93,Valves & Solenoids,Not Specified,2,0.25
-AAA93,Valves & Solenoids,Other Parts,1,0.125
-AAA93,Valves & Solenoids,Solenoid Valve / Coil,1,0.125
-AAC2,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.5
-AAC2,Cylinder & Overheating,Shaft Seal / O-ring,1,0.5
-AAC2,Electrical & Instruments,Fasteners / Hardware,1,0.2
-AAC2,Electrical & Instruments,Other Parts,1,0.2
-AAC2,Electrical & Instruments,Pressure Gauge,2,0.4
-AAC2,Electrical & Instruments,Pressure Switch / Cut-out,1,0.2
-AAC2,Hour Meter & Accessories,Hour Meter,1,1.0
-AAC2,Leaks (General),Other Parts,3,1.0
-AAC2,Loading & Unloading,Oil Pump / Element,1,1.0
-AAC2,Major Mechanical,Major Mechanical Parts,1,0.5
-AAC2,Major Mechanical,Piston / Liner / Ring Set,1,0.5
-AAC2,Oil Consumption & Carryover,Piston / Liner / Ring Set,7,1.0
-AAC2,Oil Pump,Oil Pump / Element,4,1.0
-AAC2,Others,Oil Pump / Element,2,0.6666666666666666
-AAC2,Others,Other Parts,1,0.3333333333333333
-AAC2,Shaft Seal,Oil Pump / Element,1,0.1
-AAC2,Shaft Seal,Other Parts,1,0.1
-AAC2,Shaft Seal,Shaft Seal / O-ring,8,0.8
-AAC2,Sound & Vibration,Piston / Liner / Ring Set,1,1.0
-AAC2,Valves & Solenoids,Fasteners / Hardware,1,0.3333333333333333
-AAC2,Valves & Solenoids,Solenoid Valve / Coil,1,0.3333333333333333
-AAC2,Valves & Solenoids,Stop Valve,1,0.3333333333333333
-AAD4,Oil Pump,Oil Pump / Element,1,1.0
-AAD4,Shaft Seal,Shaft Seal / O-ring,2,1.0
-AAD6,Shaft Seal,Shaft Seal / O-ring,2,1.0
-AAE4,Shaft Seal,Shaft Seal / O-ring,1,1.0
-AAE4,Sound & Vibration,Piston / Liner / Ring Set,1,1.0
-AAE4,Valves & Solenoids,Stop Valve,1,1.0
-AB102,Oil Pump,Oil Pump / Element,1,1.0
-AB102,Others,Not Specified,1,1.0
-AB12,Sound & Vibration,Oil Pump / Element,1,0.5
-AB12,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
-AB2,Cylinder & Overheating,Piston / Liner / Ring Set,2,1.0
-AB2,Electrical & Instruments,Other Parts,1,0.14285714285714285
-AB2,Electrical & Instruments,Pressure Gauge,5,0.7142857142857143
-AB2,Electrical & Instruments,Pressure Switch / Cut-out,1,0.14285714285714285
-AB2,Oil Consumption & Carryover,ORV (Oil Return Valve),1,0.25
-AB2,Oil Consumption & Carryover,Other Parts,1,0.25
-AB2,Oil Consumption & Carryover,Piston / Liner / Ring Set,2,0.5
-AB2,Oil Pump,Oil Pump / Element,3,1.0
-AB2,Others,Other Parts,1,1.0
-AB2,Shaft Seal,Shaft Seal / O-ring,6,1.0
-AB2,Sound & Vibration,Piston / Liner / Ring Set,2,0.6666666666666666
-AB2,Sound & Vibration,Stop Valve,1,0.3333333333333333
-AB2,Valves & Solenoids,Other Parts,3,1.0
-AB21,Major Mechanical,Not Specified,1,1.0
-AB21,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
-AB21,Others,Not Specified,1,1.0
-AB21,Sound & Vibration,Buffer Spring,1,0.5
-AB21,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
-AB21,Valves & Solenoids,Fasteners / Hardware,1,0.2
-AB21,Valves & Solenoids,K5 Valve,2,0.4
-AB21,Valves & Solenoids,Other Parts,2,0.4
-AB3,Cylinder & Overheating,Buffer Spring,1,0.3333333333333333
-AB3,Cylinder & Overheating,Delivery / Discharge Valve,1,0.3333333333333333
-AB3,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.3333333333333333
-AB3,Electrical & Instruments,Not Specified,1,0.1
-AB3,Electrical & Instruments,Pressure Gauge,5,0.5
-AB3,Electrical & Instruments,Pressure Switch / Cut-out,3,0.3
-AB3,Electrical & Instruments,Solenoid Valve / Coil,1,0.1
-AB3,Hour Meter & Accessories,Hour Meter,2,1.0
-AB3,Leaks (General),Other Parts,2,1.0
-AB3,Loading & Unloading,Not Specified,2,0.2857142857142857
-AB3,Loading & Unloading,Oil Pump / Element,1,0.14285714285714285
-AB3,Loading & Unloading,Other Parts,2,0.2857142857142857
-AB3,Loading & Unloading,Solenoid Valve / Coil,2,0.2857142857142857
-AB3,Oil Consumption & Carryover,Not Specified,1,0.1111111111111111
-AB3,Oil Consumption & Carryover,Piston / Liner / Ring Set,8,0.8888888888888888
-AB3,Oil Pump,Not Specified,1,0.03125
-AB3,Oil Pump,Oil Pump / Element,31,0.96875
-AB3,Others,Not Specified,1,0.16666666666666666
-AB3,Others,Oil Pump / Element,2,0.3333333333333333
-AB3,Others,Other Parts,3,0.5
-AB3,Shaft Seal,Not Specified,2,0.15384615384615385
-AB3,Shaft Seal,Oil Pump / Element,1,0.07692307692307693
-AB3,Shaft Seal,Other Parts,2,0.15384615384615385
-AB3,Shaft Seal,Shaft Seal / O-ring,8,0.6153846153846154
-AB3,Sound & Vibration,Delivery / Discharge Valve,2,0.15384615384615385
-AB3,Sound & Vibration,Major Mechanical Parts,1,0.07692307692307693
-AB3,Sound & Vibration,Other Parts,1,0.07692307692307693
-AB3,Sound & Vibration,Piston / Liner / Ring Set,9,0.6923076923076923
-AB3,Valves & Solenoids,Delivery / Discharge Valve,1,0.0625
-AB3,Valves & Solenoids,K5 Valve,2,0.125
-AB3,Valves & Solenoids,Other Parts,2,0.125
-AB3,Valves & Solenoids,Shaft Seal / O-ring,1,0.0625
-AB3,Valves & Solenoids,Solenoid Valve / Coil,10,0.625
-AB31,Electrical & Instruments,Pressure Switch / Cut-out,1,1.0
-AB31,Leaks (General),Not Specified,1,0.5
-AB31,Leaks (General),Other Parts,1,0.5
-AB31,Oil Pump,Oil Pump / Element,4,1.0
-AB31,Others,Not Specified,1,1.0
-AB31,Sound & Vibration,Major Mechanical Parts,1,0.5
-AB31,Sound & Vibration,Oil Pump / Element,1,0.5
-AB31,Valves & Solenoids,Solenoid Valve / Coil,1,1.0
-AB4,Cylinder & Overheating,Delivery / Discharge Valve,1,0.5
-AB4,Cylinder & Overheating,Other Parts,1,0.5
-AB4,Electrical & Instruments,Pressure Gauge,9,0.45
-AB4,Electrical & Instruments,Pressure Switch / Cut-out,3,0.15
-AB4,Electrical & Instruments,Solenoid Valve / Coil,8,0.4
-AB4,Leaks (General),Other Parts,2,0.5
-AB4,Leaks (General),Pressure Gauge,1,0.25
-AB4,Leaks (General),Shaft Seal / O-ring,1,0.25
-AB4,Loading & Unloading,Not Specified,1,1.0
-AB4,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.037037037037037035
-AB4,Oil Consumption & Carryover,ORV (Oil Return Valve),6,0.2222222222222222
-AB4,Oil Consumption & Carryover,Oil Pump / Element,1,0.037037037037037035
-AB4,Oil Consumption & Carryover,Other Parts,1,0.037037037037037035
-AB4,Oil Consumption & Carryover,Piston / Liner / Ring Set,18,0.6666666666666666
-AB4,Oil Pump,Oil Pump / Element,29,0.90625
-AB4,Oil Pump,Other Parts,3,0.09375
-AB4,Others,Not Specified,2,0.6666666666666666
-AB4,Others,Pressure Gauge,1,0.3333333333333333
-AB4,Shaft Seal,Shaft Seal / O-ring,8,0.8888888888888888
-AB4,Shaft Seal,Solenoid Valve / Coil,1,0.1111111111111111
-AB4,Sound & Vibration,Buffer Spring,1,0.030303030303030304
-AB4,Sound & Vibration,Delivery / Discharge Valve,2,0.06060606060606061
-AB4,Sound & Vibration,Major Mechanical Parts,1,0.030303030303030304
-AB4,Sound & Vibration,Not Specified,1,0.030303030303030304
-AB4,Sound & Vibration,Oil Pump / Element,1,0.030303030303030304
-AB4,Sound & Vibration,Piston / Liner / Ring Set,26,0.7878787878787878
-AB4,Sound & Vibration,Pressure Gauge,1,0.030303030303030304
-AB4,Valves & Solenoids,K5 Valve,2,0.04878048780487805
-AB4,Valves & Solenoids,Other Parts,2,0.04878048780487805
-AB4,Valves & Solenoids,Solenoid Valve / Coil,37,0.9024390243902439
-AB42,Electrical & Instruments,Other Parts,1,0.3333333333333333
-AB42,Electrical & Instruments,Pressure Gauge,1,0.3333333333333333
-AB42,Electrical & Instruments,Pressure Switch / Cut-out,1,0.3333333333333333
-AB42,Leaks (General),Not Specified,2,0.5
-AB42,Leaks (General),Other Parts,2,0.5
-AB42,Oil Pump,Not Specified,2,0.2
-AB42,Oil Pump,Oil Pump / Element,7,0.7
-AB42,Oil Pump,Piston / Liner / Ring Set,1,0.1
-AB42,Others,Delivery / Discharge Valve,1,0.5
-AB42,Others,Not Specified,1,0.5
-AB42,Shaft Seal,Shaft Seal / O-ring,3,1.0
-AB42,Sound & Vibration,Major Mechanical Parts,4,0.4444444444444444
-AB42,Sound & Vibration,Other Parts,1,0.1111111111111111
-AB42,Sound & Vibration,Piston / Liner / Ring Set,4,0.4444444444444444
-AB42,Valves & Solenoids,Delivery / Discharge Valve,1,0.3333333333333333
-AB42,Valves & Solenoids,Pressure Gauge,1,0.3333333333333333
-AB42,Valves & Solenoids,Solenoid Valve / Coil,1,0.3333333333333333
-AB51,Cylinder & Overheating,Oil Pump / Element,1,0.5
-AB51,Cylinder & Overheating,Other Parts,1,0.5
-AB51,Electrical & Instruments,Pressure Switch / Cut-out,1,1.0
-AB51,Leaks (General),Other Parts,1,1.0
-AB51,Oil Consumption & Carryover,Other Parts,1,1.0
-AB51,Oil Pump,Oil Pump / Element,6,0.8571428571428571
-AB51,Oil Pump,Piston / Liner / Ring Set,1,0.14285714285714285
-AB51,Shaft Seal,Shaft Seal / O-ring,3,1.0
-AB51,Sound & Vibration,Delivery / Discharge Valve,1,0.125
-AB51,Sound & Vibration,Major Mechanical Parts,2,0.25
-AB51,Sound & Vibration,Not Specified,1,0.125
-AB51,Sound & Vibration,Oil Pump / Element,1,0.125
-AB51,Sound & Vibration,Piston / Liner / Ring Set,2,0.25
-AB51,Sound & Vibration,Stop Valve,1,0.125
-AB6,Cylinder & Overheating,Delivery / Discharge Valve,1,0.5
-AB6,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.5
-AB6,Electrical & Instruments,Not Specified,1,0.07692307692307693
-AB6,Electrical & Instruments,Pressure Gauge,8,0.6153846153846154
-AB6,Electrical & Instruments,Solenoid Valve / Coil,4,0.3076923076923077
-AB6,KRMS & Sensors,Other Parts,1,1.0
-AB6,Leaks (General),Not Specified,1,0.25
-AB6,Leaks (General),Other Parts,3,0.75
-AB6,Loading & Unloading,Oil Pump / Element,1,1.0
-AB6,Major Mechanical,Major Mechanical Parts,1,1.0
-AB6,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.18181818181818182
-AB6,Oil Consumption & Carryover,Other Parts,1,0.09090909090909091
-AB6,Oil Consumption & Carryover,Piston / Liner / Ring Set,8,0.7272727272727273
-AB6,Oil Pump,Not Specified,2,0.09090909090909091
-AB6,Oil Pump,Oil Pump / Element,19,0.8636363636363636
-AB6,Oil Pump,Piston / Liner / Ring Set,1,0.045454545454545456
-AB6,Others,Fasteners / Hardware,1,0.16666666666666666
-AB6,Others,Not Specified,3,0.5
-AB6,Others,Oil Pump / Element,1,0.16666666666666666
-AB6,Others,Piston / Liner / Ring Set,1,0.16666666666666666
-AB6,Shaft Seal,Other Parts,1,0.16666666666666666
-AB6,Shaft Seal,Shaft Seal / O-ring,5,0.8333333333333334
-AB6,Sound & Vibration,Buffer Spring,1,0.02631578947368421
-AB6,Sound & Vibration,Delivery / Discharge Valve,2,0.05263157894736842
-AB6,Sound & Vibration,Not Specified,4,0.10526315789473684
-AB6,Sound & Vibration,Oil Pump / Element,2,0.05263157894736842
-AB6,Sound & Vibration,Other Parts,2,0.05263157894736842
-AB6,Sound & Vibration,Piston / Liner / Ring Set,26,0.6842105263157895
-AB6,Sound & Vibration,Shaft Seal / O-ring,1,0.02631578947368421
-AB6,Valves & Solenoids,Fasteners / Hardware,1,0.03125
-AB6,Valves & Solenoids,Other Parts,2,0.0625
-AB6,Valves & Solenoids,Shaft Seal / O-ring,1,0.03125
-AB6,Valves & Solenoids,Solenoid Valve / Coil,26,0.8125
-AB6,Valves & Solenoids,Stop Valve,2,0.0625
-AB63,Cylinder & Overheating,Piston / Liner / Ring Set,1,1.0
-AB63,Leaks (General),Not Specified,1,1.0
-AB63,Loading & Unloading,Not Specified,1,1.0
-AB63,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
-AB63,Oil Pump,Oil Pump / Element,6,1.0
-AB63,Others,Not Specified,1,1.0
-AB63,Shaft Seal,Other Parts,1,0.3333333333333333
-AB63,Shaft Seal,Shaft Seal / O-ring,2,0.6666666666666666
-AB63,Sound & Vibration,Major Mechanical Parts,1,0.3333333333333333
-AB63,Sound & Vibration,Piston / Liner / Ring Set,2,0.6666666666666666
-AB63,Valves & Solenoids,Solenoid Valve / Coil,1,1.0
-AB72,Electrical & Instruments,Pressure Gauge,3,0.75
-AB72,Electrical & Instruments,Pressure Switch / Cut-out,1,0.25
-AB72,Leaks (General),Other Parts,1,0.5
-AB72,Leaks (General),Pressure Gauge,1,0.5
-AB72,Loading & Unloading,Piston / Liner / Ring Set,1,0.5
-AB72,Loading & Unloading,Solenoid Valve / Coil,1,0.5
-AB72,Major Mechanical,Major Mechanical Parts,3,0.375
-AB72,Major Mechanical,Other Parts,5,0.625
-AB72,Oil Consumption & Carryover,Not Specified,1,1.0
-AB72,Oil Pump,Major Mechanical Parts,1,0.05263157894736842
-AB72,Oil Pump,ORV (Oil Return Valve),1,0.05263157894736842
-AB72,Oil Pump,Oil Pump / Element,15,0.7894736842105263
-AB72,Oil Pump,Other Parts,1,0.05263157894736842
-AB72,Oil Pump,Shaft Seal / O-ring,1,0.05263157894736842
-AB72,Others,Not Specified,2,0.6666666666666666
-AB72,Others,Oil Pump / Element,1,0.3333333333333333
-AB72,Shaft Seal,Shaft Seal / O-ring,3,1.0
-AB72,Sound & Vibration,Buffer Spring,1,0.16666666666666666
-AB72,Sound & Vibration,Piston / Liner / Ring Set,5,0.8333333333333334
-AB72,Valves & Solenoids,Other Parts,2,0.5
-AB72,Valves & Solenoids,Solenoid Valve / Coil,2,0.5
-AB84,Oil Pump,Oil Pump / Element,2,1.0
-AB84,Others,Major Mechanical Parts,1,0.3333333333333333
-AB84,Others,Not Specified,1,0.3333333333333333
-AB84,Others,Other Parts,1,0.3333333333333333
-AB84,Sound & Vibration,Major Mechanical Parts,1,0.3333333333333333
-AB84,Sound & Vibration,Oil Pump / Element,1,0.3333333333333333
-AB84,Sound & Vibration,Solenoid Valve / Coil,1,0.3333333333333333
-AB84,Valves & Solenoids,Not Specified,2,0.3333333333333333
-AB84,Valves & Solenoids,Solenoid Valve / Coil,4,0.6666666666666666
-AB9,Cylinder & Overheating,Piston / Liner / Ring Set,1,1.0
-AB9,Electrical & Instruments,Pressure Gauge,1,1.0
-AB9,Leaks (General),Other Parts,1,1.0
-AB9,Loading & Unloading,Not Specified,1,1.0
-AB9,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
-AB9,Oil Pump,Oil Pump / Element,3,1.0
-AB9,Others,Not Specified,1,1.0
-AB9,Shaft Seal,Shaft Seal / O-ring,1,1.0
-AB9,Sound & Vibration,Not Specified,2,0.4
-AB9,Sound & Vibration,Piston / Liner / Ring Set,3,0.6
-AB93,Cylinder & Overheating,Major Mechanical Parts,2,1.0
-AB93,Electrical & Instruments,Pressure Switch / Cut-out,1,1.0
-AB93,Major Mechanical,Major Mechanical Parts,1,0.3333333333333333
-AB93,Major Mechanical,Other Parts,1,0.3333333333333333
-AB93,Major Mechanical,Piston / Liner / Ring Set,1,0.3333333333333333
-AB93,Oil Pump,Major Mechanical Parts,1,0.16666666666666666
-AB93,Oil Pump,Oil Pump / Element,4,0.6666666666666666
-AB93,Oil Pump,Other Parts,1,0.16666666666666666
-AB93,Others,Not Specified,1,1.0
-AB93,Sound & Vibration,Major Mechanical Parts,1,0.5
-AB93,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
-AB93,Valves & Solenoids,Stop Valve,1,1.0
-AF2,Electrical & Instruments,Pressure Gauge,3,1.0
-AF2,Leaks (General),Other Parts,1,1.0
-AF2,Major Mechanical,Fasteners / Hardware,1,1.0
-AF2,Oil Consumption & Carryover,Piston / Liner / Ring Set,5,1.0
-AF2,Oil Pump,Not Specified,1,0.1111111111111111
-AF2,Oil Pump,Oil Pump / Element,6,0.6666666666666666
-AF2,Oil Pump,Shaft Seal / O-ring,2,0.2222222222222222
-AF2,Others,Other Parts,1,0.5
-AF2,Others,Pressure Gauge,1,0.5
-AF2,Shaft Seal,Shaft Seal / O-ring,5,1.0
-AF2,Sound & Vibration,Not Specified,1,0.5
-AF2,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
-AF2,Valves & Solenoids,Delivery / Discharge Valve,1,0.25
-AF2,Valves & Solenoids,Not Specified,1,0.25
-AF2,Valves & Solenoids,Other Parts,1,0.25
-AF2,Valves & Solenoids,Stop Valve,1,0.25
+KC102,Oil Pump,Oil Pump / Element,1,1.0
+KC102,Others,Not Specified,1,1.0
+KC12,Sound & Vibration,Oil Pump / Element,1,0.5
+KC12,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
+KC2,Cylinder & Overheating,Piston / Liner / Ring Set,2,1.0
+KC2,Electrical & Instruments,Other Parts,1,0.14285714285714285
+KC2,Electrical & Instruments,Pressure Gauge,5,0.7142857142857143
+KC2,Electrical & Instruments,Pressure Switch / Cut-out,1,0.14285714285714285
+KC2,Oil Consumption & Carryover,ORV (Oil Return Valve),1,0.25
+KC2,Oil Consumption & Carryover,Other Parts,1,0.25
+KC2,Oil Consumption & Carryover,Piston / Liner / Ring Set,2,0.5
+KC2,Oil Pump,Oil Pump / Element,4,1.0
+KC2,Others,Other Parts,1,1.0
+KC2,Shaft Seal,Shaft Seal / O-ring,6,1.0
+KC2,Sound & Vibration,Piston / Liner / Ring Set,2,0.6666666666666666
+KC2,Sound & Vibration,Stop Valve,1,0.3333333333333333
+KC2,Valves & Solenoids,Other Parts,3,1.0
+KC21,Major Mechanical,Not Specified,1,1.0
+KC21,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
+KC21,Others,Not Specified,1,1.0
+KC21,Sound & Vibration,Buffer Spring,1,0.5
+KC21,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
+KC21,Valves & Solenoids,Fasteners / Hardware,1,0.2
+KC21,Valves & Solenoids,K5 Valve,2,0.4
+KC21,Valves & Solenoids,Other Parts,2,0.4
+KC3,Cylinder & Overheating,Buffer Spring,1,0.3333333333333333
+KC3,Cylinder & Overheating,Delivery / Discharge Valve,1,0.3333333333333333
+KC3,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.3333333333333333
+KC3,Electrical & Instruments,Not Specified,1,0.1
+KC3,Electrical & Instruments,Pressure Gauge,5,0.5
+KC3,Electrical & Instruments,Pressure Switch / Cut-out,3,0.3
+KC3,Electrical & Instruments,Solenoid Valve / Coil,1,0.1
+KC3,Hour Meter & Accessories,Hour Meter,2,1.0
+KC3,Leaks (General),Other Parts,2,1.0
+KC3,Loading & Unloading,Not Specified,2,0.2857142857142857
+KC3,Loading & Unloading,Oil Pump / Element,1,0.14285714285714285
+KC3,Loading & Unloading,Other Parts,2,0.2857142857142857
+KC3,Loading & Unloading,Solenoid Valve / Coil,2,0.2857142857142857
+KC3,Oil Consumption & Carryover,Not Specified,1,0.1111111111111111
+KC3,Oil Consumption & Carryover,Piston / Liner / Ring Set,8,0.8888888888888888
+KC3,Oil Pump,Not Specified,1,0.03125
+KC3,Oil Pump,Oil Pump / Element,31,0.96875
+KC3,Others,Not Specified,1,0.16666666666666666
+KC3,Others,Oil Pump / Element,2,0.3333333333333333
+KC3,Others,Other Parts,3,0.5
+KC3,Shaft Seal,Not Specified,2,0.15384615384615385
+KC3,Shaft Seal,Oil Pump / Element,1,0.07692307692307693
+KC3,Shaft Seal,Other Parts,2,0.15384615384615385
+KC3,Shaft Seal,Shaft Seal / O-ring,8,0.6153846153846154
+KC3,Sound & Vibration,Delivery / Discharge Valve,2,0.15384615384615385
+KC3,Sound & Vibration,Major Mechanical Parts,1,0.07692307692307693
+KC3,Sound & Vibration,Other Parts,1,0.07692307692307693
+KC3,Sound & Vibration,Piston / Liner / Ring Set,9,0.6923076923076923
+KC3,Valves & Solenoids,Delivery / Discharge Valve,1,0.0625
+KC3,Valves & Solenoids,K5 Valve,2,0.125
+KC3,Valves & Solenoids,Other Parts,2,0.125
+KC3,Valves & Solenoids,Shaft Seal / O-ring,1,0.0625
+KC3,Valves & Solenoids,Solenoid Valve / Coil,10,0.625
+KC31,Electrical & Instruments,Pressure Switch / Cut-out,1,1.0
+KC31,Leaks (General),Not Specified,1,0.5
+KC31,Leaks (General),Other Parts,1,0.5
+KC31,Oil Pump,Oil Pump / Element,4,1.0
+KC31,Others,Not Specified,1,1.0
+KC31,Sound & Vibration,Major Mechanical Parts,1,0.5
+KC31,Sound & Vibration,Oil Pump / Element,1,0.5
+KC31,Valves & Solenoids,Solenoid Valve / Coil,1,1.0
+KC4,Cylinder & Overheating,Delivery / Discharge Valve,1,0.5
+KC4,Cylinder & Overheating,Other Parts,1,0.5
+KC4,Electrical & Instruments,Pressure Gauge,10,0.47619047619047616
+KC4,Electrical & Instruments,Pressure Switch / Cut-out,3,0.14285714285714285
+KC4,Electrical & Instruments,Solenoid Valve / Coil,8,0.38095238095238093
+KC4,Leaks (General),Other Parts,2,0.5
+KC4,Leaks (General),Pressure Gauge,1,0.25
+KC4,Leaks (General),Shaft Seal / O-ring,1,0.25
+KC4,Loading & Unloading,Not Specified,1,1.0
+KC4,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.037037037037037035
+KC4,Oil Consumption & Carryover,ORV (Oil Return Valve),6,0.2222222222222222
+KC4,Oil Consumption & Carryover,Oil Pump / Element,1,0.037037037037037035
+KC4,Oil Consumption & Carryover,Other Parts,1,0.037037037037037035
+KC4,Oil Consumption & Carryover,Piston / Liner / Ring Set,18,0.6666666666666666
+KC4,Oil Pump,Oil Pump / Element,29,0.90625
+KC4,Oil Pump,Other Parts,3,0.09375
+KC4,Others,Not Specified,2,0.6666666666666666
+KC4,Others,Pressure Gauge,1,0.3333333333333333
+KC4,Shaft Seal,Shaft Seal / O-ring,8,0.8888888888888888
+KC4,Shaft Seal,Solenoid Valve / Coil,1,0.1111111111111111
+KC4,Sound & Vibration,Buffer Spring,1,0.030303030303030304
+KC4,Sound & Vibration,Delivery / Discharge Valve,2,0.06060606060606061
+KC4,Sound & Vibration,Major Mechanical Parts,1,0.030303030303030304
+KC4,Sound & Vibration,Not Specified,1,0.030303030303030304
+KC4,Sound & Vibration,Oil Pump / Element,1,0.030303030303030304
+KC4,Sound & Vibration,Piston / Liner / Ring Set,26,0.7878787878787878
+KC4,Sound & Vibration,Pressure Gauge,1,0.030303030303030304
+KC4,Valves & Solenoids,K5 Valve,2,0.04878048780487805
+KC4,Valves & Solenoids,Other Parts,2,0.04878048780487805
+KC4,Valves & Solenoids,Solenoid Valve / Coil,37,0.9024390243902439
+KC42,Electrical & Instruments,Other Parts,1,0.3333333333333333
+KC42,Electrical & Instruments,Pressure Gauge,1,0.3333333333333333
+KC42,Electrical & Instruments,Pressure Switch / Cut-out,1,0.3333333333333333
+KC42,Leaks (General),Not Specified,2,0.5
+KC42,Leaks (General),Other Parts,2,0.5
+KC42,Oil Pump,Not Specified,2,0.2
+KC42,Oil Pump,Oil Pump / Element,7,0.7
+KC42,Oil Pump,Piston / Liner / Ring Set,1,0.1
+KC42,Others,Delivery / Discharge Valve,1,0.5
+KC42,Others,Not Specified,1,0.5
+KC42,Shaft Seal,Shaft Seal / O-ring,3,1.0
+KC42,Sound & Vibration,Major Mechanical Parts,4,0.4444444444444444
+KC42,Sound & Vibration,Other Parts,1,0.1111111111111111
+KC42,Sound & Vibration,Piston / Liner / Ring Set,4,0.4444444444444444
+KC42,Valves & Solenoids,Delivery / Discharge Valve,1,0.3333333333333333
+KC42,Valves & Solenoids,Pressure Gauge,1,0.3333333333333333
+KC42,Valves & Solenoids,Solenoid Valve / Coil,1,0.3333333333333333
+KC51,Cylinder & Overheating,Oil Pump / Element,1,0.5
+KC51,Cylinder & Overheating,Other Parts,1,0.5
+KC51,Electrical & Instruments,Pressure Switch / Cut-out,1,1.0
+KC51,Leaks (General),Other Parts,1,1.0
+KC51,Oil Consumption & Carryover,Other Parts,1,1.0
+KC51,Oil Pump,Oil Pump / Element,6,0.8571428571428571
+KC51,Oil Pump,Piston / Liner / Ring Set,1,0.14285714285714285
+KC51,Shaft Seal,Shaft Seal / O-ring,3,1.0
+KC51,Sound & Vibration,Delivery / Discharge Valve,1,0.125
+KC51,Sound & Vibration,Major Mechanical Parts,2,0.25
+KC51,Sound & Vibration,Not Specified,1,0.125
+KC51,Sound & Vibration,Oil Pump / Element,1,0.125
+KC51,Sound & Vibration,Piston / Liner / Ring Set,2,0.25
+KC51,Sound & Vibration,Stop Valve,1,0.125
+KC6,Cylinder & Overheating,Delivery / Discharge Valve,1,0.5
+KC6,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.5
+KC6,Electrical & Instruments,Not Specified,1,0.07692307692307693
+KC6,Electrical & Instruments,Pressure Gauge,8,0.6153846153846154
+KC6,Electrical & Instruments,Solenoid Valve / Coil,4,0.3076923076923077
+KC6,KRMS & Sensors,Other Parts,1,1.0
+KC6,Leaks (General),Not Specified,1,0.25
+KC6,Leaks (General),Other Parts,3,0.75
+KC6,Loading & Unloading,Oil Pump / Element,1,1.0
+KC6,Major Mechanical,Major Mechanical Parts,1,1.0
+KC6,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.18181818181818182
+KC6,Oil Consumption & Carryover,Other Parts,1,0.09090909090909091
+KC6,Oil Consumption & Carryover,Piston / Liner / Ring Set,8,0.7272727272727273
+KC6,Oil Pump,Not Specified,2,0.09090909090909091
+KC6,Oil Pump,Oil Pump / Element,19,0.8636363636363636
+KC6,Oil Pump,Piston / Liner / Ring Set,1,0.045454545454545456
+KC6,Others,Fasteners / Hardware,1,0.16666666666666666
+KC6,Others,Not Specified,3,0.5
+KC6,Others,Oil Pump / Element,1,0.16666666666666666
+KC6,Others,Piston / Liner / Ring Set,1,0.16666666666666666
+KC6,Shaft Seal,Other Parts,1,0.16666666666666666
+KC6,Shaft Seal,Shaft Seal / O-ring,5,0.8333333333333334
+KC6,Sound & Vibration,Buffer Spring,1,0.02631578947368421
+KC6,Sound & Vibration,Delivery / Discharge Valve,2,0.05263157894736842
+KC6,Sound & Vibration,Not Specified,4,0.10526315789473684
+KC6,Sound & Vibration,Oil Pump / Element,2,0.05263157894736842
+KC6,Sound & Vibration,Other Parts,2,0.05263157894736842
+KC6,Sound & Vibration,Piston / Liner / Ring Set,26,0.6842105263157895
+KC6,Sound & Vibration,Shaft Seal / O-ring,1,0.02631578947368421
+KC6,Valves & Solenoids,Fasteners / Hardware,1,0.03125
+KC6,Valves & Solenoids,Other Parts,2,0.0625
+KC6,Valves & Solenoids,Shaft Seal / O-ring,1,0.03125
+KC6,Valves & Solenoids,Solenoid Valve / Coil,26,0.8125
+KC6,Valves & Solenoids,Stop Valve,2,0.0625
+KC63,Cylinder & Overheating,Piston / Liner / Ring Set,1,1.0
+KC63,Leaks (General),Not Specified,1,1.0
+KC63,Loading & Unloading,Not Specified,1,1.0
+KC63,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
+KC63,Oil Pump,Oil Pump / Element,6,1.0
+KC63,Others,Not Specified,1,1.0
+KC63,Shaft Seal,Other Parts,1,0.3333333333333333
+KC63,Shaft Seal,Shaft Seal / O-ring,2,0.6666666666666666
+KC63,Sound & Vibration,Major Mechanical Parts,1,0.3333333333333333
+KC63,Sound & Vibration,Piston / Liner / Ring Set,2,0.6666666666666666
+KC63,Valves & Solenoids,Solenoid Valve / Coil,1,1.0
+KC72,Electrical & Instruments,Pressure Gauge,3,0.75
+KC72,Electrical & Instruments,Pressure Switch / Cut-out,1,0.25
+KC72,Leaks (General),Other Parts,1,0.5
+KC72,Leaks (General),Pressure Gauge,1,0.5
+KC72,Loading & Unloading,Piston / Liner / Ring Set,1,0.5
+KC72,Loading & Unloading,Solenoid Valve / Coil,1,0.5
+KC72,Major Mechanical,Major Mechanical Parts,3,0.375
+KC72,Major Mechanical,Other Parts,5,0.625
+KC72,Oil Consumption & Carryover,Not Specified,1,1.0
+KC72,Oil Pump,Major Mechanical Parts,1,0.05
+KC72,Oil Pump,Not Specified,1,0.05
+KC72,Oil Pump,ORV (Oil Return Valve),1,0.05
+KC72,Oil Pump,Oil Pump / Element,15,0.75
+KC72,Oil Pump,Other Parts,1,0.05
+KC72,Oil Pump,Shaft Seal / O-ring,1,0.05
+KC72,Others,Not Specified,1,0.5
+KC72,Others,Oil Pump / Element,1,0.5
+KC72,Shaft Seal,Shaft Seal / O-ring,3,1.0
+KC72,Sound & Vibration,Buffer Spring,1,0.16666666666666666
+KC72,Sound & Vibration,Piston / Liner / Ring Set,5,0.8333333333333334
+KC72,Valves & Solenoids,Other Parts,2,0.5
+KC72,Valves & Solenoids,Solenoid Valve / Coil,2,0.5
+KC84,Oil Pump,Oil Pump / Element,2,1.0
+KC84,Others,Major Mechanical Parts,1,0.3333333333333333
+KC84,Others,Not Specified,1,0.3333333333333333
+KC84,Others,Other Parts,1,0.3333333333333333
+KC84,Sound & Vibration,Major Mechanical Parts,1,0.3333333333333333
+KC84,Sound & Vibration,Oil Pump / Element,1,0.3333333333333333
+KC84,Sound & Vibration,Solenoid Valve / Coil,1,0.3333333333333333
+KC84,Valves & Solenoids,Not Specified,2,0.3333333333333333
+KC84,Valves & Solenoids,Solenoid Valve / Coil,4,0.6666666666666666
+KC9,Cylinder & Overheating,Piston / Liner / Ring Set,1,1.0
+KC9,Electrical & Instruments,Pressure Gauge,1,1.0
+KC9,Leaks (General),Other Parts,1,1.0
+KC9,Loading & Unloading,Not Specified,1,1.0
+KC9,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
+KC9,Oil Pump,Oil Pump / Element,3,1.0
+KC9,Others,Not Specified,1,1.0
+KC9,Shaft Seal,Shaft Seal / O-ring,1,1.0
+KC9,Sound & Vibration,Not Specified,2,0.4
+KC9,Sound & Vibration,Piston / Liner / Ring Set,3,0.6
+KC93,Cylinder & Overheating,Major Mechanical Parts,2,1.0
+KC93,Electrical & Instruments,Pressure Switch / Cut-out,1,1.0
+KC93,Major Mechanical,Major Mechanical Parts,1,0.3333333333333333
+KC93,Major Mechanical,Other Parts,1,0.3333333333333333
+KC93,Major Mechanical,Piston / Liner / Ring Set,1,0.3333333333333333
+KC93,Oil Pump,Major Mechanical Parts,1,0.16666666666666666
+KC93,Oil Pump,Oil Pump / Element,4,0.6666666666666666
+KC93,Oil Pump,Other Parts,1,0.16666666666666666
+KC93,Others,Not Specified,1,1.0
+KC93,Sound & Vibration,Major Mechanical Parts,1,0.5
+KC93,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
+KC93,Valves & Solenoids,Stop Valve,1,1.0
+KCX1,Cylinder & Overheating,Delivery / Discharge Valve,1,1.0
+KCX1,Electrical & Instruments,Other Parts,2,0.5
+KCX1,Electrical & Instruments,Pressure Gauge,1,0.25
+KCX1,Electrical & Instruments,Pressure Switch / Cut-out,1,0.25
+KCX1,Hour Meter & Accessories,Hour Meter,1,1.0
+KCX1,Loading & Unloading,Not Specified,1,1.0
+KCX1,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.1
+KCX1,Oil Consumption & Carryover,Other Parts,4,0.2
+KCX1,Oil Consumption & Carryover,Piston / Liner / Ring Set,13,0.65
+KCX1,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.05
+KCX1,Oil Pump,Major Mechanical Parts,1,0.25
+KCX1,Oil Pump,Not Specified,1,0.25
+KCX1,Oil Pump,Oil Pump / Element,2,0.5
+KCX1,Others,Fasteners / Hardware,2,0.5
+KCX1,Others,Not Specified,1,0.25
+KCX1,Others,Other Parts,1,0.25
+KCX1,Shaft Seal,Shaft Seal / O-ring,8,1.0
+KCX1,Sound & Vibration,Delivery / Discharge Valve,2,0.4
+KCX1,Sound & Vibration,Major Mechanical Parts,1,0.2
+KCX1,Sound & Vibration,Other Parts,1,0.2
+KCX1,Sound & Vibration,Piston / Liner / Ring Set,1,0.2
+KCX1,Valves & Solenoids,Delivery / Discharge Valve,1,0.5
+KCX1,Valves & Solenoids,Solenoid Valve / Coil,1,0.5
+KCX102,Major Mechanical,Major Mechanical Parts,1,1.0
+KCX102,Oil Pump,Other Parts,1,1.0
+KCX102,Others,Other Parts,1,1.0
+KCX12,Coupling & Drive,Other Parts,1,1.0
+KCX12,Cylinder & Overheating,Delivery / Discharge Valve,2,0.3333333333333333
+KCX12,Cylinder & Overheating,Piston / Liner / Ring Set,4,0.6666666666666666
+KCX12,Leaks (General),Not Specified,2,1.0
+KCX12,Oil Consumption & Carryover,Other Parts,1,0.25
+KCX12,Oil Consumption & Carryover,Piston / Liner / Ring Set,2,0.5
+KCX12,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.25
+KCX12,Oil Pump,Fasteners / Hardware,1,0.2
+KCX12,Oil Pump,Oil Pump / Element,4,0.8
+KCX12,Others,Fasteners / Hardware,1,0.5
+KCX12,Others,Piston / Liner / Ring Set,1,0.5
+KCX12,Shaft Seal,Shaft Seal / O-ring,2,1.0
+KCX12,Sound & Vibration,Piston / Liner / Ring Set,2,1.0
+KCX12,Valves & Solenoids,Not Specified,1,0.5
+KCX12,Valves & Solenoids,Other Parts,1,0.5
+KCX2,Cylinder & Overheating,Delivery / Discharge Valve,11,0.3793103448275862
+KCX2,Cylinder & Overheating,Not Specified,1,0.034482758620689655
+KCX2,Cylinder & Overheating,Other Parts,1,0.034482758620689655
+KCX2,Cylinder & Overheating,Piston / Liner / Ring Set,16,0.5517241379310345
+KCX2,Electrical & Instruments,Not Specified,4,0.10526315789473684
+KCX2,Electrical & Instruments,Other Parts,5,0.13157894736842105
+KCX2,Electrical & Instruments,Pressure Gauge,15,0.39473684210526316
+KCX2,Electrical & Instruments,Pressure Switch / Cut-out,14,0.3684210526315789
+KCX2,Hour Meter & Accessories,Hour Meter,7,1.0
+KCX2,KRMS & Sensors,KRMS / Controller,1,0.3333333333333333
+KCX2,KRMS & Sensors,Temperature Sensor,2,0.6666666666666666
+KCX2,Leaks (General),Not Specified,1,0.16666666666666666
+KCX2,Leaks (General),Other Parts,3,0.5
+KCX2,Leaks (General),Pressure Gauge,1,0.16666666666666666
+KCX2,Leaks (General),Shaft Seal / O-ring,1,0.16666666666666666
+KCX2,Loading & Unloading,Fasteners / Hardware,1,0.2
+KCX2,Loading & Unloading,Not Specified,1,0.2
+KCX2,Loading & Unloading,Solenoid Valve / Coil,3,0.6
+KCX2,Major Mechanical,Major Mechanical Parts,2,1.0
+KCX2,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.02
+KCX2,Oil Consumption & Carryover,Not Specified,2,0.04
+KCX2,Oil Consumption & Carryover,ORV (Oil Return Valve),5,0.1
+KCX2,Oil Consumption & Carryover,Other Parts,2,0.04
+KCX2,Oil Consumption & Carryover,Piston / Liner / Ring Set,39,0.78
+KCX2,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.02
+KCX2,Oil Pump,Not Specified,1,0.022222222222222223
+KCX2,Oil Pump,Oil Pump / Element,40,0.8888888888888888
+KCX2,Oil Pump,Other Parts,4,0.08888888888888889
+KCX2,Others,Fasteners / Hardware,2,0.1
+KCX2,Others,Major Mechanical Parts,1,0.05
+KCX2,Others,Not Specified,2,0.1
+KCX2,Others,Oil Pump / Element,4,0.2
+KCX2,Others,Other Parts,10,0.5
+KCX2,Others,Piston / Liner / Ring Set,1,0.05
+KCX2,Shaft Seal,Not Specified,1,0.03125
+KCX2,Shaft Seal,Other Parts,5,0.15625
+KCX2,Shaft Seal,Piston / Liner / Ring Set,1,0.03125
+KCX2,Shaft Seal,Shaft Seal / O-ring,25,0.78125
+KCX2,Sound & Vibration,Delivery / Discharge Valve,3,0.0967741935483871
+KCX2,Sound & Vibration,Gaskets,1,0.03225806451612903
+KCX2,Sound & Vibration,Major Mechanical Parts,3,0.0967741935483871
+KCX2,Sound & Vibration,Not Specified,3,0.0967741935483871
+KCX2,Sound & Vibration,Other Parts,2,0.06451612903225806
+KCX2,Sound & Vibration,Piston / Liner / Ring Set,19,0.6129032258064516
+KCX2,Valves & Solenoids,Delivery / Discharge Valve,5,0.3125
+KCX2,Valves & Solenoids,K5 Valve,2,0.125
+KCX2,Valves & Solenoids,Not Specified,1,0.0625
+KCX2,Valves & Solenoids,Other Parts,2,0.125
+KCX2,Valves & Solenoids,Solenoid Valve / Coil,5,0.3125
+KCX2,Valves & Solenoids,Stop Valve,1,0.0625
+KCX21,Cylinder & Overheating,Other Parts,1,0.5
+KCX21,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.5
+KCX21,Electrical & Instruments,Not Specified,1,0.3333333333333333
+KCX21,Electrical & Instruments,Pressure Gauge,2,0.6666666666666666
+KCX21,Hour Meter & Accessories,Hour Meter,1,1.0
+KCX21,KRMS & Sensors,Other Parts,1,1.0
+KCX21,Major Mechanical,Not Specified,1,1.0
+KCX21,Oil Consumption & Carryover,Piston / Liner / Ring Set,2,1.0
+KCX21,Oil Pump,Not Specified,2,0.4
+KCX21,Oil Pump,Oil Pump / Element,2,0.4
+KCX21,Oil Pump,Other Parts,1,0.2
+KCX21,Others,Not Specified,2,1.0
+KCX21,Shaft Seal,Other Parts,1,1.0
+KCX21,Sound & Vibration,Major Mechanical Parts,1,0.3333333333333333
+KCX21,Sound & Vibration,Not Specified,1,0.3333333333333333
+KCX21,Sound & Vibration,Piston / Liner / Ring Set,1,0.3333333333333333
+KCX21,Valves & Solenoids,Delivery / Discharge Valve,1,0.3333333333333333
+KCX21,Valves & Solenoids,Other Parts,2,0.6666666666666666
+KCX3,Coupling & Drive,Other Parts,3,1.0
+KCX3,Cylinder & Overheating,Buffer Spring,1,0.015625
+KCX3,Cylinder & Overheating,Delivery / Discharge Valve,20,0.3125
+KCX3,Cylinder & Overheating,Not Specified,2,0.03125
+KCX3,Cylinder & Overheating,Oil Pump / Element,1,0.015625
+KCX3,Cylinder & Overheating,Other Parts,3,0.046875
+KCX3,Cylinder & Overheating,Piston / Liner / Ring Set,37,0.578125
+KCX3,Electrical & Instruments,Fasteners / Hardware,1,0.02127659574468085
+KCX3,Electrical & Instruments,Not Specified,2,0.0425531914893617
+KCX3,Electrical & Instruments,Other Parts,9,0.19148936170212766
+KCX3,Electrical & Instruments,Pressure Gauge,22,0.46808510638297873
+KCX3,Electrical & Instruments,Pressure Switch / Cut-out,13,0.2765957446808511
+KCX3,Hour Meter & Accessories,Hour Meter,1,1.0
+KCX3,KRMS & Sensors,KRMS / Controller,5,0.45454545454545453
+KCX3,KRMS & Sensors,Other Parts,3,0.2727272727272727
+KCX3,KRMS & Sensors,Temperature Sensor,3,0.2727272727272727
+KCX3,Leaks (General),Other Parts,8,0.8888888888888888
+KCX3,Leaks (General),Solenoid Valve / Coil,1,0.1111111111111111
+KCX3,Loading & Unloading,Oil Pump / Element,1,0.1
+KCX3,Loading & Unloading,Other Parts,1,0.1
+KCX3,Loading & Unloading,Piston / Liner / Ring Set,4,0.4
+KCX3,Loading & Unloading,Solenoid Valve / Coil,4,0.4
+KCX3,Major Mechanical,Major Mechanical Parts,1,0.5
+KCX3,Major Mechanical,Shaft Seal / O-ring,1,0.5
+KCX3,Oil Consumption & Carryover,Buffer Spring,1,0.008547008547008548
+KCX3,Oil Consumption & Carryover,Not Specified,5,0.042735042735042736
+KCX3,Oil Consumption & Carryover,ORV (Oil Return Valve),12,0.10256410256410256
+KCX3,Oil Consumption & Carryover,Other Parts,5,0.042735042735042736
+KCX3,Oil Consumption & Carryover,Piston / Liner / Ring Set,93,0.7948717948717948
+KCX3,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.008547008547008548
+KCX3,Oil Pump,Gaskets,1,0.013333333333333334
+KCX3,Oil Pump,Major Mechanical Parts,2,0.02666666666666667
+KCX3,Oil Pump,Not Specified,3,0.04
+KCX3,Oil Pump,Oil Pump / Element,59,0.7866666666666666
+KCX3,Oil Pump,Other Parts,7,0.09333333333333334
+KCX3,Oil Pump,Shaft Seal / O-ring,3,0.04
+KCX3,Others,Buffer Spring,1,0.03225806451612903
+KCX3,Others,Fasteners / Hardware,4,0.12903225806451613
+KCX3,Others,Not Specified,4,0.12903225806451613
+KCX3,Others,Oil Pump / Element,6,0.1935483870967742
+KCX3,Others,Other Parts,12,0.3870967741935484
+KCX3,Others,Pressure Switch / Cut-out,2,0.06451612903225806
+KCX3,Others,Solenoid Valve / Coil,2,0.06451612903225806
+KCX3,Shaft Seal,Major Mechanical Parts,1,0.018518518518518517
+KCX3,Shaft Seal,Not Specified,5,0.09259259259259259
+KCX3,Shaft Seal,Other Parts,3,0.05555555555555555
+KCX3,Shaft Seal,Shaft Seal / O-ring,45,0.8333333333333334
+KCX3,Sound & Vibration,Buffer Spring,1,0.013513513513513514
+KCX3,Sound & Vibration,Delivery / Discharge Valve,4,0.05405405405405406
+KCX3,Sound & Vibration,K5 Valve,1,0.013513513513513514
+KCX3,Sound & Vibration,Major Mechanical Parts,4,0.05405405405405406
+KCX3,Sound & Vibration,Not Specified,4,0.05405405405405406
+KCX3,Sound & Vibration,Oil Pump / Element,1,0.013513513513513514
+KCX3,Sound & Vibration,Other Parts,1,0.013513513513513514
+KCX3,Sound & Vibration,Piston / Liner / Ring Set,56,0.7567567567567568
+KCX3,Sound & Vibration,Shaft Seal / O-ring,2,0.02702702702702703
+KCX3,Valves & Solenoids,Delivery / Discharge Valve,10,0.2
+KCX3,Valves & Solenoids,Fasteners / Hardware,1,0.02
+KCX3,Valves & Solenoids,K5 Valve,7,0.14
+KCX3,Valves & Solenoids,Not Specified,2,0.04
+KCX3,Valves & Solenoids,Other Parts,4,0.08
+KCX3,Valves & Solenoids,Piston / Liner / Ring Set,4,0.08
+KCX3,Valves & Solenoids,Pressure Switch / Cut-out,1,0.02
+KCX3,Valves & Solenoids,Shaft Seal / O-ring,1,0.02
+KCX3,Valves & Solenoids,Solenoid Valve / Coil,18,0.36
+KCX3,Valves & Solenoids,Stop Valve,2,0.04
+KCX31,Coupling & Drive,Coupling / Disk Pack,1,0.5
+KCX31,Coupling & Drive,Not Specified,1,0.5
+KCX31,Cylinder & Overheating,Delivery / Discharge Valve,1,0.25
+KCX31,Cylinder & Overheating,Not Specified,1,0.25
+KCX31,Cylinder & Overheating,Piston / Liner / Ring Set,2,0.5
+KCX31,Electrical & Instruments,Pressure Gauge,3,0.75
+KCX31,Electrical & Instruments,Solenoid Valve / Coil,1,0.25
+KCX31,KRMS & Sensors,KRMS / Controller,2,0.3333333333333333
+KCX31,KRMS & Sensors,Other Parts,2,0.3333333333333333
+KCX31,KRMS & Sensors,Temperature Sensor,2,0.3333333333333333
+KCX31,Major Mechanical,Not Specified,1,1.0
+KCX31,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,0.5
+KCX31,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.5
+KCX31,Oil Pump,Oil Pump / Element,4,0.8
+KCX31,Oil Pump,Shaft Seal / O-ring,1,0.2
+KCX31,Others,Fasteners / Hardware,1,0.1
+KCX31,Others,Not Specified,4,0.4
+KCX31,Others,Oil Pump / Element,2,0.2
+KCX31,Others,Other Parts,2,0.2
+KCX31,Others,Pressure Gauge,1,0.1
+KCX31,Shaft Seal,Shaft Seal / O-ring,3,1.0
+KCX31,Sound & Vibration,Piston / Liner / Ring Set,1,1.0
+KCX31,Valves & Solenoids,Delivery / Discharge Valve,1,0.2
+KCX31,Valves & Solenoids,Piston / Liner / Ring Set,1,0.2
+KCX31,Valves & Solenoids,Solenoid Valve / Coil,2,0.4
+KCX31,Valves & Solenoids,Stop Valve,1,0.2
+KCX4,Coupling & Drive,Coupling / Disk Pack,1,1.0
+KCX4,Cylinder & Overheating,Buffer Spring,1,0.0125
+KCX4,Cylinder & Overheating,Delivery / Discharge Valve,28,0.35
+KCX4,Cylinder & Overheating,Not Specified,5,0.0625
+KCX4,Cylinder & Overheating,Other Parts,5,0.0625
+KCX4,Cylinder & Overheating,Piston / Liner / Ring Set,39,0.4875
+KCX4,Cylinder & Overheating,Shaft Seal / O-ring,2,0.025
+KCX4,Electrical & Instruments,Other Parts,3,0.08571428571428572
+KCX4,Electrical & Instruments,Pressure Gauge,21,0.6
+KCX4,Electrical & Instruments,Pressure Switch / Cut-out,11,0.3142857142857143
+KCX4,Hour Meter & Accessories,Hour Meter,6,1.0
+KCX4,KRMS & Sensors,KRMS / Controller,5,0.35714285714285715
+KCX4,KRMS & Sensors,Other Parts,2,0.14285714285714285
+KCX4,KRMS & Sensors,Solenoid Valve / Coil,2,0.14285714285714285
+KCX4,KRMS & Sensors,Temperature Sensor,5,0.35714285714285715
+KCX4,Leaks (General),Not Specified,6,0.46153846153846156
+KCX4,Leaks (General),ORV (Oil Return Valve),1,0.07692307692307693
+KCX4,Leaks (General),Other Parts,6,0.46153846153846156
+KCX4,Loading & Unloading,Solenoid Valve / Coil,1,1.0
+KCX4,Major Mechanical,Major Mechanical Parts,1,0.2
+KCX4,Major Mechanical,Not Specified,4,0.8
+KCX4,Oil Consumption & Carryover,Delivery / Discharge Valve,2,0.013333333333333334
+KCX4,Oil Consumption & Carryover,Not Specified,1,0.006666666666666667
+KCX4,Oil Consumption & Carryover,ORV (Oil Return Valve),9,0.06
+KCX4,Oil Consumption & Carryover,Oil Pump / Element,2,0.013333333333333334
+KCX4,Oil Consumption & Carryover,Other Parts,7,0.04666666666666667
+KCX4,Oil Consumption & Carryover,Piston / Liner / Ring Set,125,0.8333333333333334
+KCX4,Oil Consumption & Carryover,Shaft Seal / O-ring,4,0.02666666666666667
+KCX4,Oil Pump,Major Mechanical Parts,1,0.010869565217391304
+KCX4,Oil Pump,Not Specified,4,0.043478260869565216
+KCX4,Oil Pump,Oil Pump / Element,79,0.8586956521739131
+KCX4,Oil Pump,Other Parts,6,0.06521739130434782
+KCX4,Oil Pump,Piston / Liner / Ring Set,1,0.010869565217391304
+KCX4,Oil Pump,Shaft Seal / O-ring,1,0.010869565217391304
+KCX4,Others,Fasteners / Hardware,6,0.1935483870967742
+KCX4,Others,Major Mechanical Parts,1,0.03225806451612903
+KCX4,Others,Not Specified,7,0.22580645161290322
+KCX4,Others,Oil Pump / Element,5,0.16129032258064516
+KCX4,Others,Other Parts,9,0.2903225806451613
+KCX4,Others,Pressure Gauge,3,0.0967741935483871
+KCX4,Shaft Seal,Not Specified,4,0.06779661016949153
+KCX4,Shaft Seal,Oil Pump / Element,1,0.01694915254237288
+KCX4,Shaft Seal,Other Parts,1,0.01694915254237288
+KCX4,Shaft Seal,Piston / Liner / Ring Set,1,0.01694915254237288
+KCX4,Shaft Seal,Shaft Seal / O-ring,52,0.8813559322033898
+KCX4,Sound & Vibration,Buffer Spring,2,0.020202020202020204
+KCX4,Sound & Vibration,Coupling / Disk Pack,1,0.010101010101010102
+KCX4,Sound & Vibration,Delivery / Discharge Valve,12,0.12121212121212122
+KCX4,Sound & Vibration,Not Specified,5,0.050505050505050504
+KCX4,Sound & Vibration,Oil Pump / Element,1,0.010101010101010102
+KCX4,Sound & Vibration,Piston / Liner / Ring Set,76,0.7676767676767676
+KCX4,Sound & Vibration,Shaft Seal / O-ring,2,0.020202020202020204
+KCX4,Valves & Solenoids,Delivery / Discharge Valve,7,0.14583333333333334
+KCX4,Valves & Solenoids,Fasteners / Hardware,1,0.020833333333333332
+KCX4,Valves & Solenoids,Gaskets,1,0.020833333333333332
+KCX4,Valves & Solenoids,K5 Valve,12,0.25
+KCX4,Valves & Solenoids,Not Specified,2,0.041666666666666664
+KCX4,Valves & Solenoids,Other Parts,8,0.16666666666666666
+KCX4,Valves & Solenoids,Piston / Liner / Ring Set,2,0.041666666666666664
+KCX4,Valves & Solenoids,Solenoid Valve / Coil,13,0.2708333333333333
+KCX4,Valves & Solenoids,Stop Valve,2,0.041666666666666664
+KCX42,Cylinder & Overheating,Delivery / Discharge Valve,2,0.25
+KCX42,Cylinder & Overheating,Other Parts,1,0.125
+KCX42,Cylinder & Overheating,Piston / Liner / Ring Set,5,0.625
+KCX42,Electrical & Instruments,Other Parts,1,0.125
+KCX42,Electrical & Instruments,Pressure Gauge,6,0.75
+KCX42,Electrical & Instruments,Pressure Switch / Cut-out,1,0.125
+KCX42,KRMS & Sensors,KRMS / Controller,1,0.2
+KCX42,KRMS & Sensors,Other Parts,1,0.2
+KCX42,KRMS & Sensors,Temperature Sensor,3,0.6
+KCX42,Leaks (General),Other Parts,2,1.0
+KCX42,Major Mechanical,Major Mechanical Parts,1,1.0
+KCX42,Oil Consumption & Carryover,Other Parts,3,0.1875
+KCX42,Oil Consumption & Carryover,Piston / Liner / Ring Set,13,0.8125
+KCX42,Oil Pump,Oil Pump / Element,7,0.7777777777777778
+KCX42,Oil Pump,Piston / Liner / Ring Set,2,0.2222222222222222
+KCX42,Others,Fasteners / Hardware,1,0.07142857142857142
+KCX42,Others,Not Specified,7,0.5
+KCX42,Others,Other Parts,4,0.2857142857142857
+KCX42,Others,Piston / Liner / Ring Set,1,0.07142857142857142
+KCX42,Others,Pressure Gauge,1,0.07142857142857142
+KCX42,Shaft Seal,Not Specified,1,0.07692307692307693
+KCX42,Shaft Seal,Shaft Seal / O-ring,12,0.9230769230769231
+KCX42,Sound & Vibration,Buffer Spring,2,0.07142857142857142
+KCX42,Sound & Vibration,Fasteners / Hardware,1,0.03571428571428571
+KCX42,Sound & Vibration,Not Specified,5,0.17857142857142858
+KCX42,Sound & Vibration,Other Parts,1,0.03571428571428571
+KCX42,Sound & Vibration,Piston / Liner / Ring Set,19,0.6785714285714286
+KCX42,Valves & Solenoids,Delivery / Discharge Valve,8,0.5714285714285714
+KCX42,Valves & Solenoids,K5 Valve,1,0.07142857142857142
+KCX42,Valves & Solenoids,Other Parts,3,0.21428571428571427
+KCX42,Valves & Solenoids,Piston / Liner / Ring Set,1,0.07142857142857142
+KCX42,Valves & Solenoids,Solenoid Valve / Coil,1,0.07142857142857142
+KCX51,Cylinder & Overheating,Delivery / Discharge Valve,9,0.5294117647058824
+KCX51,Cylinder & Overheating,Fasteners / Hardware,1,0.058823529411764705
+KCX51,Cylinder & Overheating,Other Parts,3,0.17647058823529413
+KCX51,Cylinder & Overheating,Piston / Liner / Ring Set,4,0.23529411764705882
+KCX51,Electrical & Instruments,Pressure Gauge,3,1.0
+KCX51,KRMS & Sensors,KRMS / Controller,1,0.2
+KCX51,KRMS & Sensors,Other Parts,1,0.2
+KCX51,KRMS & Sensors,Temperature Sensor,3,0.6
+KCX51,Leaks (General),Delivery / Discharge Valve,1,0.14285714285714285
+KCX51,Leaks (General),Not Specified,5,0.7142857142857143
+KCX51,Leaks (General),Other Parts,1,0.14285714285714285
+KCX51,Major Mechanical,Major Mechanical Parts,3,1.0
+KCX51,Oil Consumption & Carryover,Not Specified,1,0.14285714285714285
+KCX51,Oil Consumption & Carryover,ORV (Oil Return Valve),1,0.14285714285714285
+KCX51,Oil Consumption & Carryover,Piston / Liner / Ring Set,5,0.7142857142857143
+KCX51,Oil Pump,Major Mechanical Parts,2,0.25
+KCX51,Oil Pump,Oil Pump / Element,6,0.75
+KCX51,Others,Buffer Spring,1,0.16666666666666666
+KCX51,Others,Other Parts,4,0.6666666666666666
+KCX51,Others,Temperature Sensor,1,0.16666666666666666
+KCX51,Shaft Seal,Shaft Seal / O-ring,4,1.0
+KCX51,Sound & Vibration,Delivery / Discharge Valve,2,0.14285714285714285
+KCX51,Sound & Vibration,Piston / Liner / Ring Set,12,0.8571428571428571
+KCX51,Valves & Solenoids,Delivery / Discharge Valve,6,0.4
+KCX51,Valves & Solenoids,Not Specified,1,0.06666666666666667
+KCX51,Valves & Solenoids,Other Parts,4,0.26666666666666666
+KCX51,Valves & Solenoids,Solenoid Valve / Coil,4,0.26666666666666666
+KCX6,Cylinder & Overheating,Delivery / Discharge Valve,15,0.22058823529411764
+KCX6,Cylinder & Overheating,Not Specified,3,0.04411764705882353
+KCX6,Cylinder & Overheating,Other Parts,6,0.08823529411764706
+KCX6,Cylinder & Overheating,Piston / Liner / Ring Set,44,0.6470588235294118
+KCX6,Electrical & Instruments,Other Parts,2,0.07692307692307693
+KCX6,Electrical & Instruments,Pressure Gauge,13,0.5
+KCX6,Electrical & Instruments,Pressure Switch / Cut-out,9,0.34615384615384615
+KCX6,Electrical & Instruments,Solenoid Valve / Coil,1,0.038461538461538464
+KCX6,Electrical & Instruments,Temperature Sensor,1,0.038461538461538464
+KCX6,Hour Meter & Accessories,Hour Meter,4,1.0
+KCX6,KRMS & Sensors,KRMS / Controller,2,0.3333333333333333
+KCX6,KRMS & Sensors,Other Parts,3,0.5
+KCX6,KRMS & Sensors,Temperature Sensor,1,0.16666666666666666
+KCX6,Leaks (General),Fasteners / Hardware,1,0.1
+KCX6,Leaks (General),Not Specified,2,0.2
+KCX6,Leaks (General),Other Parts,7,0.7
+KCX6,Loading & Unloading,Other Parts,2,0.4
+KCX6,Loading & Unloading,Solenoid Valve / Coil,3,0.6
+KCX6,Major Mechanical,Major Mechanical Parts,2,0.6666666666666666
+KCX6,Major Mechanical,Not Specified,1,0.3333333333333333
+KCX6,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.010416666666666666
+KCX6,Oil Consumption & Carryover,Not Specified,4,0.041666666666666664
+KCX6,Oil Consumption & Carryover,ORV (Oil Return Valve),11,0.11458333333333333
+KCX6,Oil Consumption & Carryover,Oil Pump / Element,1,0.010416666666666666
+KCX6,Oil Consumption & Carryover,Piston / Liner / Ring Set,78,0.8125
+KCX6,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.010416666666666666
+KCX6,Oil Pump,Gaskets,2,0.037037037037037035
+KCX6,Oil Pump,Not Specified,4,0.07407407407407407
+KCX6,Oil Pump,Oil Pump / Element,44,0.8148148148148148
+KCX6,Oil Pump,Other Parts,2,0.037037037037037035
+KCX6,Oil Pump,Piston / Liner / Ring Set,2,0.037037037037037035
+KCX6,Others,Delivery / Discharge Valve,1,0.045454545454545456
+KCX6,Others,Fasteners / Hardware,3,0.13636363636363635
+KCX6,Others,Not Specified,9,0.4090909090909091
+KCX6,Others,Oil Pump / Element,2,0.09090909090909091
+KCX6,Others,Other Parts,5,0.22727272727272727
+KCX6,Others,Pressure Gauge,1,0.045454545454545456
+KCX6,Others,Solenoid Valve / Coil,1,0.045454545454545456
+KCX6,Shaft Seal,Major Mechanical Parts,1,0.03125
+KCX6,Shaft Seal,Not Specified,3,0.09375
+KCX6,Shaft Seal,Piston / Liner / Ring Set,1,0.03125
+KCX6,Shaft Seal,Shaft Seal / O-ring,27,0.84375
+KCX6,Sound & Vibration,Buffer Spring,4,0.043010752688172046
+KCX6,Sound & Vibration,Delivery / Discharge Valve,3,0.03225806451612903
+KCX6,Sound & Vibration,Fasteners / Hardware,1,0.010752688172043012
+KCX6,Sound & Vibration,Gaskets,1,0.010752688172043012
+KCX6,Sound & Vibration,Major Mechanical Parts,2,0.021505376344086023
+KCX6,Sound & Vibration,Not Specified,9,0.0967741935483871
+KCX6,Sound & Vibration,Oil Pump / Element,1,0.010752688172043012
+KCX6,Sound & Vibration,Other Parts,4,0.043010752688172046
+KCX6,Sound & Vibration,Piston / Liner / Ring Set,67,0.7204301075268817
+KCX6,Sound & Vibration,Shaft Seal / O-ring,1,0.010752688172043012
+KCX6,Valves & Solenoids,Delivery / Discharge Valve,8,0.20512820512820512
+KCX6,Valves & Solenoids,K5 Valve,3,0.07692307692307693
+KCX6,Valves & Solenoids,Not Specified,2,0.05128205128205128
+KCX6,Valves & Solenoids,Other Parts,8,0.20512820512820512
+KCX6,Valves & Solenoids,Piston / Liner / Ring Set,3,0.07692307692307693
+KCX6,Valves & Solenoids,Solenoid Valve / Coil,13,0.3333333333333333
+KCX6,Valves & Solenoids,Stop Valve,2,0.05128205128205128
+KCX63,Cylinder & Overheating,Delivery / Discharge Valve,3,0.42857142857142855
+KCX63,Cylinder & Overheating,Not Specified,1,0.14285714285714285
+KCX63,Cylinder & Overheating,Other Parts,1,0.14285714285714285
+KCX63,Cylinder & Overheating,Piston / Liner / Ring Set,2,0.2857142857142857
+KCX63,Electrical & Instruments,Pressure Gauge,2,1.0
+KCX63,Loading & Unloading,Solenoid Valve / Coil,2,1.0
+KCX63,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.125
+KCX63,Oil Consumption & Carryover,Piston / Liner / Ring Set,14,0.875
+KCX63,Oil Pump,Oil Pump / Element,4,1.0
+KCX63,Others,Fasteners / Hardware,3,0.5
+KCX63,Others,Not Specified,2,0.3333333333333333
+KCX63,Others,Other Parts,1,0.16666666666666666
+KCX63,Shaft Seal,Fasteners / Hardware,1,0.14285714285714285
+KCX63,Shaft Seal,Shaft Seal / O-ring,6,0.8571428571428571
+KCX63,Sound & Vibration,Piston / Liner / Ring Set,14,1.0
+KCX63,Valves & Solenoids,Delivery / Discharge Valve,1,0.14285714285714285
+KCX63,Valves & Solenoids,K5 Valve,1,0.14285714285714285
+KCX63,Valves & Solenoids,Not Specified,3,0.42857142857142855
+KCX63,Valves & Solenoids,Other Parts,1,0.14285714285714285
+KCX63,Valves & Solenoids,Piston / Liner / Ring Set,1,0.14285714285714285
+KCX72,Cylinder & Overheating,Buffer Spring,2,0.05555555555555555
+KCX72,Cylinder & Overheating,Delivery / Discharge Valve,11,0.3055555555555556
+KCX72,Cylinder & Overheating,Not Specified,2,0.05555555555555555
+KCX72,Cylinder & Overheating,Other Parts,1,0.027777777777777776
+KCX72,Cylinder & Overheating,Piston / Liner / Ring Set,19,0.5277777777777778
+KCX72,Cylinder & Overheating,Temperature Sensor,1,0.027777777777777776
+KCX72,Electrical & Instruments,Not Specified,1,0.07692307692307693
+KCX72,Electrical & Instruments,Other Parts,3,0.23076923076923078
+KCX72,Electrical & Instruments,Pressure Gauge,8,0.6153846153846154
+KCX72,Electrical & Instruments,Pressure Switch / Cut-out,1,0.07692307692307693
+KCX72,KRMS & Sensors,KRMS / Controller,9,0.375
+KCX72,KRMS & Sensors,Other Parts,4,0.16666666666666666
+KCX72,KRMS & Sensors,Temperature Sensor,11,0.4583333333333333
+KCX72,Leaks (General),Fasteners / Hardware,2,0.3333333333333333
+KCX72,Leaks (General),Not Specified,2,0.3333333333333333
+KCX72,Leaks (General),Other Parts,2,0.3333333333333333
+KCX72,Loading & Unloading,Solenoid Valve / Coil,2,1.0
+KCX72,Major Mechanical,Major Mechanical Parts,2,0.2857142857142857
+KCX72,Major Mechanical,Not Specified,1,0.14285714285714285
+KCX72,Major Mechanical,Oil Pump / Element,2,0.2857142857142857
+KCX72,Major Mechanical,Other Parts,2,0.2857142857142857
+KCX72,Oil Consumption & Carryover,Delivery / Discharge Valve,1,0.017241379310344827
+KCX72,Oil Consumption & Carryover,Not Specified,1,0.017241379310344827
+KCX72,Oil Consumption & Carryover,Other Parts,8,0.13793103448275862
+KCX72,Oil Consumption & Carryover,Piston / Liner / Ring Set,47,0.8103448275862069
+KCX72,Oil Consumption & Carryover,Pressure Gauge,1,0.017241379310344827
+KCX72,Oil Pump,Oil Pump / Element,24,0.8571428571428571
+KCX72,Oil Pump,Other Parts,4,0.14285714285714285
+KCX72,Others,Fasteners / Hardware,4,0.2
+KCX72,Others,Major Mechanical Parts,1,0.05
+KCX72,Others,Not Specified,5,0.25
+KCX72,Others,Oil Pump / Element,3,0.15
+KCX72,Others,Other Parts,6,0.3
+KCX72,Others,Piston / Liner / Ring Set,1,0.05
+KCX72,Shaft Seal,Major Mechanical Parts,1,0.041666666666666664
+KCX72,Shaft Seal,Not Specified,1,0.041666666666666664
+KCX72,Shaft Seal,Other Parts,1,0.041666666666666664
+KCX72,Shaft Seal,Shaft Seal / O-ring,21,0.875
+KCX72,Sound & Vibration,Buffer Spring,1,0.014285714285714285
+KCX72,Sound & Vibration,Delivery / Discharge Valve,6,0.08571428571428572
+KCX72,Sound & Vibration,Major Mechanical Parts,2,0.02857142857142857
+KCX72,Sound & Vibration,Not Specified,2,0.02857142857142857
+KCX72,Sound & Vibration,Other Parts,4,0.05714285714285714
+KCX72,Sound & Vibration,Piston / Liner / Ring Set,53,0.7571428571428571
+KCX72,Sound & Vibration,Shaft Seal / O-ring,2,0.02857142857142857
+KCX72,Valves & Solenoids,Delivery / Discharge Valve,16,0.48484848484848486
+KCX72,Valves & Solenoids,K5 Valve,1,0.030303030303030304
+KCX72,Valves & Solenoids,Other Parts,3,0.09090909090909091
+KCX72,Valves & Solenoids,Piston / Liner / Ring Set,5,0.15151515151515152
+KCX72,Valves & Solenoids,Solenoid Valve / Coil,5,0.15151515151515152
+KCX72,Valves & Solenoids,Stop Valve,3,0.09090909090909091
+KCX8,Oil Consumption & Carryover,Piston / Liner / Ring Set,1,1.0
+KCX84,Cylinder & Overheating,Delivery / Discharge Valve,3,0.5
+KCX84,Cylinder & Overheating,Piston / Liner / Ring Set,3,0.5
+KCX84,Leaks (General),Other Parts,1,1.0
+KCX84,Major Mechanical,Major Mechanical Parts,1,1.0
+KCX84,Oil Consumption & Carryover,ORV (Oil Return Valve),1,0.25
+KCX84,Oil Consumption & Carryover,Piston / Liner / Ring Set,3,0.75
+KCX84,Oil Pump,Oil Pump / Element,1,1.0
+KCX84,Others,Oil Pump / Element,2,1.0
+KCX84,Sound & Vibration,Delivery / Discharge Valve,1,0.2
+KCX84,Sound & Vibration,Piston / Liner / Ring Set,4,0.8
+KCX84,Valves & Solenoids,Delivery / Discharge Valve,2,1.0
+KCX9,Coupling & Drive,Coupling / Disk Pack,6,0.6
+KCX9,Coupling & Drive,Fasteners / Hardware,2,0.2
+KCX9,Coupling & Drive,Other Parts,2,0.2
+KCX9,Cylinder & Overheating,Delivery / Discharge Valve,3,0.25
+KCX9,Cylinder & Overheating,Not Specified,1,0.08333333333333333
+KCX9,Cylinder & Overheating,Other Parts,1,0.08333333333333333
+KCX9,Cylinder & Overheating,Piston / Liner / Ring Set,7,0.5833333333333334
+KCX9,Electrical & Instruments,Pressure Gauge,2,1.0
+KCX9,KRMS & Sensors,KRMS / Controller,3,0.5
+KCX9,KRMS & Sensors,Other Parts,2,0.3333333333333333
+KCX9,KRMS & Sensors,Temperature Sensor,1,0.16666666666666666
+KCX9,Leaks (General),Other Parts,1,1.0
+KCX9,Loading & Unloading,Other Parts,1,0.5
+KCX9,Loading & Unloading,Piston / Liner / Ring Set,1,0.5
+KCX9,Major Mechanical,Major Mechanical Parts,1,1.0
+KCX9,Oil Consumption & Carryover,ORV (Oil Return Valve),2,0.16666666666666666
+KCX9,Oil Consumption & Carryover,Other Parts,1,0.08333333333333333
+KCX9,Oil Consumption & Carryover,Piston / Liner / Ring Set,9,0.75
+KCX9,Oil Pump,Oil Pump / Element,5,0.7142857142857143
+KCX9,Oil Pump,Other Parts,2,0.2857142857142857
+KCX9,Others,Fasteners / Hardware,1,0.25
+KCX9,Others,Not Specified,2,0.5
+KCX9,Others,Piston / Liner / Ring Set,1,0.25
+KCX9,Shaft Seal,Not Specified,1,0.2
+KCX9,Shaft Seal,Other Parts,1,0.2
+KCX9,Shaft Seal,Shaft Seal / O-ring,3,0.6
+KCX9,Sound & Vibration,Fasteners / Hardware,2,0.15384615384615385
+KCX9,Sound & Vibration,Not Specified,2,0.15384615384615385
+KCX9,Sound & Vibration,Other Parts,1,0.07692307692307693
+KCX9,Sound & Vibration,Piston / Liner / Ring Set,8,0.6153846153846154
+KCX9,Valves & Solenoids,Delivery / Discharge Valve,5,0.5555555555555556
+KCX9,Valves & Solenoids,Not Specified,1,0.1111111111111111
+KCX9,Valves & Solenoids,Solenoid Valve / Coil,1,0.1111111111111111
+KCX9,Valves & Solenoids,Stop Valve,2,0.2222222222222222
+KCX93,Cylinder & Overheating,Delivery / Discharge Valve,9,0.42857142857142855
+KCX93,Cylinder & Overheating,Other Parts,1,0.047619047619047616
+KCX93,Cylinder & Overheating,Piston / Liner / Ring Set,10,0.47619047619047616
+KCX93,Cylinder & Overheating,Shaft Seal / O-ring,1,0.047619047619047616
+KCX93,Electrical & Instruments,Not Specified,1,0.3333333333333333
+KCX93,Electrical & Instruments,Other Parts,2,0.6666666666666666
+KCX93,KRMS & Sensors,KRMS / Controller,1,0.3333333333333333
+KCX93,KRMS & Sensors,Other Parts,1,0.3333333333333333
+KCX93,KRMS & Sensors,Temperature Sensor,1,0.3333333333333333
+KCX93,Major Mechanical,Major Mechanical Parts,1,1.0
+KCX93,Oil Consumption & Carryover,Oil Pump / Element,1,0.14285714285714285
+KCX93,Oil Consumption & Carryover,Piston / Liner / Ring Set,5,0.7142857142857143
+KCX93,Oil Consumption & Carryover,Shaft Seal / O-ring,1,0.14285714285714285
+KCX93,Oil Pump,Oil Pump / Element,6,1.0
+KCX93,Others,Delivery / Discharge Valve,2,0.2222222222222222
+KCX93,Others,Not Specified,3,0.3333333333333333
+KCX93,Others,Oil Pump / Element,1,0.1111111111111111
+KCX93,Others,Other Parts,3,0.3333333333333333
+KCX93,Shaft Seal,Oil Pump / Element,1,0.16666666666666666
+KCX93,Shaft Seal,Other Parts,1,0.16666666666666666
+KCX93,Shaft Seal,Shaft Seal / O-ring,4,0.6666666666666666
+KCX93,Sound & Vibration,Delivery / Discharge Valve,1,0.125
+KCX93,Sound & Vibration,Oil Pump / Element,1,0.125
+KCX93,Sound & Vibration,Piston / Liner / Ring Set,6,0.75
+KCX93,Valves & Solenoids,Delivery / Discharge Valve,4,0.5
+KCX93,Valves & Solenoids,Not Specified,2,0.25
+KCX93,Valves & Solenoids,Other Parts,1,0.125
+KCX93,Valves & Solenoids,Solenoid Valve / Coil,1,0.125
+KRC4,Shaft Seal,Shaft Seal / O-ring,1,1.0
+KRC4,Sound & Vibration,Piston / Liner / Ring Set,1,1.0
+KRC4,Valves & Solenoids,Stop Valve,1,1.0
+KZX4,Oil Pump,Oil Pump / Element,1,1.0
+KZX4,Shaft Seal,Shaft Seal / O-ring,2,1.0
+KZX6,Shaft Seal,Shaft Seal / O-ring,2,1.0
+PC2,Electrical & Instruments,Pressure Gauge,3,1.0
+PC2,Leaks (General),Other Parts,1,1.0
+PC2,Major Mechanical,Fasteners / Hardware,1,1.0
+PC2,Oil Consumption & Carryover,Piston / Liner / Ring Set,5,1.0
+PC2,Oil Pump,Not Specified,1,0.1111111111111111
+PC2,Oil Pump,Oil Pump / Element,6,0.6666666666666666
+PC2,Oil Pump,Shaft Seal / O-ring,2,0.2222222222222222
+PC2,Others,Other Parts,1,0.5
+PC2,Others,Pressure Gauge,1,0.5
+PC2,Shaft Seal,Shaft Seal / O-ring,5,1.0
+PC2,Sound & Vibration,Not Specified,1,0.5
+PC2,Sound & Vibration,Piston / Liner / Ring Set,1,0.5
+PC2,Valves & Solenoids,Delivery / Discharge Valve,1,0.25
+PC2,Valves & Solenoids,Not Specified,1,0.25
+PC2,Valves & Solenoids,Other Parts,1,0.25
+PC2,Valves & Solenoids,Stop Valve,1,0.25
+PCX2,Cylinder & Overheating,Piston / Liner / Ring Set,1,0.5
+PCX2,Cylinder & Overheating,Shaft Seal / O-ring,1,0.5
+PCX2,Electrical & Instruments,Fasteners / Hardware,1,0.2
+PCX2,Electrical & Instruments,Other Parts,1,0.2
+PCX2,Electrical & Instruments,Pressure Gauge,2,0.4
+PCX2,Electrical & Instruments,Pressure Switch / Cut-out,1,0.2
+PCX2,Hour Meter & Accessories,Hour Meter,1,1.0
+PCX2,Leaks (General),Other Parts,3,1.0
+PCX2,Loading & Unloading,Oil Pump / Element,1,1.0
+PCX2,Major Mechanical,Major Mechanical Parts,1,0.5
+PCX2,Major Mechanical,Piston / Liner / Ring Set,1,0.5
+PCX2,Oil Consumption & Carryover,Piston / Liner / Ring Set,7,1.0
+PCX2,Oil Pump,Oil Pump / Element,4,1.0
+PCX2,Others,Oil Pump / Element,2,0.6666666666666666
+PCX2,Others,Other Parts,1,0.3333333333333333
+PCX2,Shaft Seal,Oil Pump / Element,1,0.1
+PCX2,Shaft Seal,Other Parts,1,0.1
+PCX2,Shaft Seal,Shaft Seal / O-ring,8,0.8
+PCX2,Sound & Vibration,Piston / Liner / Ring Set,1,1.0
+PCX2,Valves & Solenoids,Fasteners / Hardware,1,0.3333333333333333
+PCX2,Valves & Solenoids,Solenoid Valve / Coil,1,0.3333333333333333
+PCX2,Valves & Solenoids,Stop Valve,1,0.3333333333333333

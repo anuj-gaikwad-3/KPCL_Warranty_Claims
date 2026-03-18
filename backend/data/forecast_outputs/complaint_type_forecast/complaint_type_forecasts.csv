@@ -1,20 +1,64 @@
-Date,Model,Complaint_Type,Forecast_p10,Forecast_p50,Forecast_p90,Predicted_Part,Est_Unit_Cost,Est_Cost_p10,Est_Cost_p50,Est_Cost_p90
-2026-02,AAA3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-02,AAA4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,45000,45000,45000,90000
-2026-03,AAA3,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-03,AAA3,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
-2026-03,AAA3,Oil Pump,0,1,1,Oil Pump / Element,25000,0,25000,25000
-2026-03,AAA3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-03,AAA4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-03,AAA4,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
-2026-03,AAA4,Shaft Seal,0,1,1,Shaft Seal / O-ring,12000,0,12000,12000
-2026-03,AAA4,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
-2026-03,AAA6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
-2026-03,AAA6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-03,AAA72,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
-2026-04,AAA3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-04,AAA3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-04,AAA4,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
-2026-04,AAA4,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
-2026-04,AAA6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,0,45000,90000
-2026-04,AAA6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,0,45000,45000
+Date,Model,Complaint_Type,Forecast_p10,Forecast_p50,Forecast_p90,Predicted_Part,Parts_Detail,Est_Avg_Cost,Est_Cost_p10,Est_Cost_p50,Est_Cost_p90
+2026-02,KCX3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (79%), ORV (Oil Return Valve) (10%)",36620,0,36620,36620
+2026-02,KCX4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (83%), ORV (Oil Return Valve) (6%)",38800,38800,38800,77600
+2026-02,KCX4,Sound & Vibration,1,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (77%), Delivery / Discharge Valve (12%), Not Specified (5%)",37323,37323,37323,37323
+2026-02,KCX6,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), ORV (Oil Return Valve) (11%)",37656,0,37656,37656
+2026-02,KCX6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (72%), Not Specified (10%)",38065,0,38065,38065
+2026-02,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), Other Parts (14%)",37578,0,37578,37578
+2026-02,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (9%), Other Parts (6%)",41436,0,41436,41436
+2026-03,KC4,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (79%), Delivery / Discharge Valve (6%)",43061,0,43061,86121
+2026-03,KCX3,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (58%), Delivery / Discharge Valve (31%)",31508,0,31508,31508
+2026-03,KCX3,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (79%), ORV (Oil Return Valve) (10%)",36620,0,36620,73239
+2026-03,KCX3,Oil Pump,0,1,1,Oil Pump / Element,"Oil Pump / Element (79%), Other Parts (9%)",25763,0,25763,25763
+2026-03,KCX3,Others,0,1,1,Other Parts,"Other Parts (39%), Oil Pump / Element (19%), Fasteners / Hardware (13%)",8442,0,8442,8442
+2026-03,KCX3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (5%), Major Mechanical Parts (5%)",46020,0,46020,46020
+2026-03,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (49%), Delivery / Discharge Valve (35%), Not Specified (6%)",28131,0,28131,28131
+2026-03,KCX4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (83%), ORV (Oil Return Valve) (6%)",38800,38800,38800,77600
+2026-03,KCX4,Shaft Seal,0,1,1,Shaft Seal / O-ring,"Shaft Seal / O-ring (88%), Not Specified (7%)",12186,0,12186,12186
+2026-03,KCX4,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (77%), Delivery / Discharge Valve (12%), Not Specified (5%)",37323,0,37323,74646
+2026-03,KCX6,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (65%), Delivery / Discharge Valve (22%), Other Parts (9%)",33088,0,33088,33088
+2026-03,KCX6,Oil Consumption & Carryover,0,2,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), ORV (Oil Return Valve) (11%)",37656,0,75312,75312
+2026-03,KCX6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (72%), Not Specified (10%)",38065,0,38065,38065
+2026-03,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), Other Parts (14%)",37578,0,37578,37578
+2026-03,KCX72,Oil Pump,0,1,1,Oil Pump / Element,"Oil Pump / Element (86%), Other Parts (14%)",22143,0,22143,22143
+2026-03,KCX72,Others,0,1,1,Other Parts,"Other Parts (30%), Not Specified (25%), Fasteners / Hardware (20%)",18160,0,18160,18160
+2026-03,KCX72,Shaft Seal,0,1,1,Shaft Seal / O-ring,Shaft Seal / O-ring (88%),18625,0,18625,18625
+2026-03,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (9%), Other Parts (6%)",41436,0,41436,41436
+2026-03,KCX72,Valves & Solenoids,0,1,1,Delivery / Discharge Valve,"Delivery / Discharge Valve (48%), Piston / Liner / Ring Set (15%), Solenoid Valve / Coil (15%)",17152,0,17152,17152
+2026-04,KCX3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (79%), ORV (Oil Return Valve) (10%)",36620,0,36620,36620
+2026-04,KCX3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (5%), Major Mechanical Parts (5%)",46020,0,46020,46020
+2026-04,KCX4,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (83%), ORV (Oil Return Valve) (6%)",38800,0,38800,38800
+2026-04,KCX4,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (77%), Delivery / Discharge Valve (12%), Not Specified (5%)",37323,0,37323,37323
+2026-04,KCX6,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (65%), Delivery / Discharge Valve (22%), Other Parts (9%)",33088,0,33088,33088
+2026-04,KCX6,Oil Consumption & Carryover,0,2,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), ORV (Oil Return Valve) (11%)",37656,0,75312,75312
+2026-04,KCX6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (72%), Not Specified (10%)",38065,0,38065,38065
+2026-04,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (9%), Other Parts (6%)",41436,0,41436,41436
+2026-05,KCX3,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (58%), Delivery / Discharge Valve (31%)",31508,0,31508,31508
+2026-05,KCX3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (79%), ORV (Oil Return Valve) (10%)",36620,0,36620,36620
+2026-05,KCX3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (5%), Major Mechanical Parts (5%)",46020,0,46020,46020
+2026-05,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (49%), Delivery / Discharge Valve (35%), Not Specified (6%)",28131,0,28131,28131
+2026-05,KCX4,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (83%), ORV (Oil Return Valve) (6%)",38800,0,38800,77600
+2026-05,KCX4,Shaft Seal,0,1,1,Shaft Seal / O-ring,"Shaft Seal / O-ring (88%), Not Specified (7%)",12186,0,12186,12186
+2026-05,KCX4,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (77%), Delivery / Discharge Valve (12%), Not Specified (5%)",37323,0,37323,37323
+2026-05,KCX6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), ORV (Oil Return Valve) (11%)",37656,0,37656,75312
+2026-05,KCX6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (72%), Not Specified (10%)",38065,0,38065,38065
+2026-05,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (9%), Other Parts (6%)",41436,0,41436,41436
+2026-06,KCX3,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (79%), ORV (Oil Return Valve) (10%)",36620,0,36620,73239
+2026-06,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (49%), Delivery / Discharge Valve (35%), Not Specified (6%)",28131,0,28131,28131
+2026-06,KCX4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (83%), ORV (Oil Return Valve) (6%)",38800,38800,38800,77600
+2026-06,KCX4,Shaft Seal,0,1,1,Shaft Seal / O-ring,"Shaft Seal / O-ring (88%), Not Specified (7%)",12186,0,12186,12186
+2026-06,KCX4,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (77%), Delivery / Discharge Valve (12%), Not Specified (5%)",37323,0,37323,37323
+2026-06,KCX6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), ORV (Oil Return Valve) (11%)",37656,0,37656,75312
+2026-06,KCX6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (72%), Not Specified (10%)",38065,0,38065,38065
+2026-06,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), Other Parts (14%)",37578,0,37578,37578
+2026-06,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (9%), Other Parts (6%)",41436,0,41436,41436
+2026-07,KCX3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (79%), ORV (Oil Return Valve) (10%)",36620,0,36620,36620
+2026-07,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (49%), Delivery / Discharge Valve (35%), Not Specified (6%)",28131,0,28131,28131
+2026-07,KCX4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (83%), ORV (Oil Return Valve) (6%)",38800,38800,38800,77600
+2026-07,KCX4,Shaft Seal,0,1,1,Shaft Seal / O-ring,"Shaft Seal / O-ring (88%), Not Specified (7%)",12186,0,12186,12186
+2026-07,KCX4,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (77%), Delivery / Discharge Valve (12%), Not Specified (5%)",37323,0,37323,37323
+2026-07,KCX6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), ORV (Oil Return Valve) (11%)",37656,0,37656,75312
+2026-07,KCX6,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (72%), Not Specified (10%)",38065,0,38065,38065
+2026-07,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (81%), Other Parts (14%)",37578,0,37578,37578
+2026-07,KCX72,Oil Pump,0,1,1,Oil Pump / Element,"Oil Pump / Element (86%), Other Parts (14%)",22143,0,22143,22143
+2026-07,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,"Piston / Liner / Ring Set (76%), Delivery / Discharge Valve (9%), Other Parts (6%)",41436,0,41436,41436

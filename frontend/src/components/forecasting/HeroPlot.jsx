@@ -1,10 +1,18 @@
 import React from "react";
+import { baseUrl } from "../../config/api";
+
+function absUrl(url) {
+  if (!url) return url;
+  return url.startsWith("/") ? `${baseUrl}${url}` : url;
+}
 
 export default function HeroPlot({ category, curatedPlots, openLightbox }) {
   if (!curatedPlots || !curatedPlots[category]) return null;
   const cat = curatedPlots[category];
   const hero = cat.plots.find((p) => p.role === "hero");
   if (!hero) return null;
+
+  const heroUrl = absUrl(hero.url);
 
   return (
     <div className="chart-card" style={{ marginBottom: "1.5rem" }}>
@@ -20,7 +28,7 @@ export default function HeroPlot({ category, curatedPlots, openLightbox }) {
           )}
         </div>
         <button
-          onClick={() => openLightbox(hero.url, hero.label)}
+          onClick={() => openLightbox(heroUrl, hero.label)}
           style={{
             display: "flex", alignItems: "center", gap: 5,
             fontSize: 11.5, fontWeight: 600, color: "#1a7a6d",
@@ -44,10 +52,10 @@ export default function HeroPlot({ category, curatedPlots, openLightbox }) {
       {/* Image */}
       <div
         style={{ cursor: "pointer", overflow: "hidden" }}
-        onClick={() => openLightbox(hero.url, hero.label)}
+        onClick={() => openLightbox(heroUrl, hero.label)}
       >
         <img
-          src={hero.url}
+          src={heroUrl}
           alt={hero.label}
           loading="lazy"
           style={{

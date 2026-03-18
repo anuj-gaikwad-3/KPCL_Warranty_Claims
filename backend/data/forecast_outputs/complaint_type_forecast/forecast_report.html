@@ -90,7 +90,7 @@
 
 <div class="page-header">
   <div class="page-title">Warranty Forecast <span>Report</span></div>
-  <div class="page-sub">Model-level complaint prediction · Dominant type per model per month</div>
+  <div class="page-sub">Model-level complaint prediction - Dominant type per model per month</div>
 </div>
 
 <!-- TABLE 1 -->
@@ -100,26 +100,26 @@
     <span class="badge badge-h">Holdout Period</span>
   </div>
   <div class="sec-desc">
-    Top complaint type per model · Predicted vs actual count · Sample actual complaint text
+    Top complaint type per model - Predicted vs actual count - Sample actual complaint text
   </div>
   <div class="search-bar">
-    <input type="text" id="search1" placeholder="Filter by model, type, complaint…" oninput="filterTable('tbl1','search1')">
+    <input type="text" id="search1" placeholder="Filter by model, type, complaint-" oninput="filterTable('tbl1','search1')">
   </div>
   <div class="tbl-wrap">
     <div class="tbl-meta">
       <span class="tbl-meta-lbl">Predicted vs Actual</span>
-      <span class="tbl-count" id="count1">18 rows</span>
+      <span class="tbl-count" id="count1">16 rows</span>
     </div>
     <div class="tbl-scroll">
       <table id="tbl1">
         <thead>
           <tr>
-            <th onclick="sortTable('tbl1',0)">Date ↕</th>
-            <th onclick="sortTable('tbl1',1)">Model ↕</th>
+            <th onclick="sortTable('tbl1',0)">Date -</th>
+            <th onclick="sortTable('tbl1',1)">Model -</th>
             <th>Top Complaint Type</th>
-            <th class="right" onclick="sortTable('tbl1',3)">Predicted ↕</th>
-            <th class="right">Range (p10–p90)</th>
-            <th class="right" onclick="sortTable('tbl1',5)">Actual ↕</th>
+            <th class="right" onclick="sortTable('tbl1',3)">Predicted -</th>
+            <th class="right">Range (p10-p90)</th>
+            <th class="right" onclick="sortTable('tbl1',5)">Actual -</th>
             <th class="center">Error %</th>
             <th>Sample Actual Complaint</th>
           </tr>
@@ -127,183 +127,163 @@
         <tbody>
         <tr>
           <td class="mono muted">2025-11</td>
-          <td class="mono bold lav">AAA2</td>
-          <td><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Electrical & Instruments</span></td>
-          <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
-          <td class="mono bold right">0</td>
-          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2025-11</td>
-          <td class="mono bold lav">AAA3</td>
-          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
-          <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
-          <td class="mono bold right">0</td>
-          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="—">—</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2025-11</td>
-          <td class="mono bold lav">AAA4</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
-          <td class="mono bold right">2</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">2 – 2</span></td>
-          <td class="mono bold right">0</td>
-          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2025-11</td>
-          <td class="mono bold lav">AAA6</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
-          <td class="mono bold right">2</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">2 – 2</span></td>
-          <td class="mono bold right">0</td>
-          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2025-11</td>
-          <td class="mono bold lav">AAA72</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
-          <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
-          <td class="mono bold right">0</td>
-          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="Abnormal Noise">Abnormal Noise</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2025-11</td>
-          <td class="mono bold lav">AB4</td>
+          <td class="mono bold lav">KC4</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
           <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
           <td class="mono bold right">0</td>
           <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
+        </tr>
+        <tr>
+          <td class="mono muted">2025-11</td>
+          <td class="mono bold lav">KCX2</td>
+          <td><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Electrical & Instruments</span></td>
+          <td class="mono bold right">1</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono bold right">0</td>
+          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
+        </tr>
+        <tr>
+          <td class="mono muted">2025-11</td>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="mono bold right">1</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono bold right">0</td>
+          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
+          <td class="complaint-text" title="-">-</td>
+        </tr>
+        <tr>
+          <td class="mono muted">2025-11</td>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="mono bold right">2</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">1 - 2</span></td>
+          <td class="mono bold right">0</td>
+          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
+        </tr>
+        <tr>
+          <td class="mono muted">2025-11</td>
+          <td class="mono bold lav">KCX6</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="mono bold right">2</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">1 - 2</span></td>
+          <td class="mono bold right">0</td>
+          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
+        </tr>
+        <tr>
+          <td class="mono muted">2025-11</td>
+          <td class="mono bold lav">KCX72</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="mono bold right">1</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono bold right">0</td>
+          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
+          <td class="complaint-text" title="abnormal noise">abnormal noise</td>
         </tr>
         <tr>
           <td class="mono muted">2025-12</td>
-          <td class="mono bold lav">AAA3</td>
-          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="mono bold lav">KCX2</td>
+          <td><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Electrical & Instruments</span></td>
           <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono bold right">0</td>
+          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
+          <td class="complaint-text" title="-">-</td>
+        </tr>
+        <tr>
+          <td class="mono muted">2025-12</td>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="mono bold right">1</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
           <td class="mono bold right">5</td>
           <td class="center"><span style="background:#f38ba822;color:#f38ba8;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">!80%</span></td>
-          <td class="complaint-text" title="LP switch malfunctioning">LP switch malfunctioning</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr>
         <tr>
           <td class="mono muted">2025-12</td>
-          <td class="mono bold lav">AAA4</td>
+          <td class="mono bold lav">KCX4</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="mono bold right">2</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">2 – 2</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">1 - 3</span></td>
           <td class="mono bold right">6</td>
           <td class="center"><span style="background:#f38ba822;color:#f38ba8;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">!66%</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr>
         <tr>
           <td class="mono muted">2025-12</td>
-          <td class="mono bold lav">AAA6</td>
+          <td class="mono bold lav">KCX6</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="mono bold right">2</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">2 – 2</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
           <td class="mono bold right">0</td>
           <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr>
         <tr>
           <td class="mono muted">2025-12</td>
-          <td class="mono bold lav">AAA63</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
-          <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
-          <td class="mono bold right">1</td>
-          <td class="center"><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">✓ <10%</span></td>
-          <td class="complaint-text" title="Abnormal Noise">Abnormal Noise</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2025-12</td>
-          <td class="mono bold lav">AAA72</td>
+          <td class="mono bold lav">KCX72</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
           <td class="mono bold right">1</td>
-          <td class="center"><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">✓ <10%</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2025-12</td>
-          <td class="mono bold lav">AAA93</td>
-          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
-          <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
-          <td class="mono bold right">1</td>
-          <td class="center"><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">✓ <10%</span></td>
-          <td class="complaint-text" title="Cylinder overheating">Cylinder overheating</td>
+          <td class="center"><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">- <10%</span></td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr>
         <tr>
           <td class="mono muted">2026-01</td>
-          <td class="mono bold lav">AAA2</td>
+          <td class="mono bold lav">KCX2</td>
           <td><span style="background:#a6e3a122;color:#a6e3a1;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Electrical & Instruments</span></td>
           <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
           <td class="mono bold right">0</td>
           <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr>
         <tr>
           <td class="mono muted">2026-01</td>
-          <td class="mono bold lav">AAA3</td>
-          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
           <td class="mono bold right">0</td>
           <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High oil consumption">High oil consumption</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr>
         <tr>
           <td class="mono muted">2026-01</td>
-          <td class="mono bold lav">AAA4</td>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="mono bold right">1</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">1 - 1</span></td>
+          <td class="mono bold right">0</td>
+          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
+        </tr>
+        <tr>
+          <td class="mono muted">2026-01</td>
+          <td class="mono bold lav">KCX6</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="mono bold right">2</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">2 – 2</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
           <td class="mono bold right">0</td>
           <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr>
         <tr>
           <td class="mono muted">2026-01</td>
-          <td class="mono bold lav">AAA6</td>
+          <td class="mono bold lav">KCX72</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
           <td class="mono bold right">0</td>
           <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2026-01</td>
-          <td class="mono bold lav">AAA72</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
-          <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
-          <td class="mono bold right">0</td>
-          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="High Oil Consumption">High Oil Consumption</td>
-        </tr>
-        <tr>
-          <td class="mono muted">2026-01</td>
-          <td class="mono bold lav">AB72</td>
-          <td><span style="background:#fab38722;color:#fab387;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Pump</span></td>
-          <td class="mono bold right">1</td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 1</span></td>
-          <td class="mono bold right">0</td>
-          <td class="center"><span style="background:#6c7a9622;color:#6c7a96;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600">N/A</span></td>
-          <td class="complaint-text" title="KC Pump drive gear shaft broken">KC Pump drive gear shaft broken</td>
+          <td class="complaint-text" title="high oil consumption">high oil consumption</td>
         </tr></tbody>
       </table>
       <div class="no-results" id="no1" style="display:none">No matching records</div>
@@ -318,100 +298,37 @@
     <span class="badge badge-f">Future</span>
   </div>
   <div class="sec-desc">
-    Dominant complaint type to watch per model · sorted by predicted volume per month
+    Dominant complaint type to watch per model - sorted by predicted volume per month
   </div>
   <div class="search-bar">
-    <input type="text" id="search2" placeholder="Filter by model or type…" oninput="filterTable('tbl2','search2')">
+    <input type="text" id="search2" placeholder="Filter by model or type-" oninput="filterTable('tbl2','search2')">
   </div>
   <div class="tbl-wrap">
     <div class="tbl-meta">
       <span class="tbl-meta-lbl">Future Predictions</span>
-      <span class="tbl-count" id="count2">9 rows</span>
+      <span class="tbl-count" id="count2">25 rows</span>
     </div>
     <div class="tbl-scroll">
       <table id="tbl2">
         <thead>
           <tr>
-            <th onclick="sortTable('tbl2',0)">Model ↕</th>
+            <th onclick="sortTable('tbl2',0)">Model -</th>
             <th>Top Complaint Type</th>
-            <th class="right" onclick="sortTable('tbl2',2)">Predicted ↕</th>
-            <th class="right">Range (p10–p90)</th>
+            <th class="right" onclick="sortTable('tbl2',2)">Predicted -</th>
+            <th class="right">Range (p10-p90)</th>
             <th class="right">Month</th>
           </tr>
         </thead>
         <tbody>
         <tr class="month-header">
-          <td colspan="5">▸ &nbsp;2026-02
-            <span style="color:#6c7a96;font-size:10px;margin-left:12px">
-              2 models
-            </span>
-          </td>
-        </tr>
-        <tr>
-          <td class="mono bold lav">AAA3</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
-          <td class="right">
-            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
-              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
-                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
-              </div>
-              <span class="mono bold">1</span>
-            </div>
-          </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 1</span></td>
-          <td class="mono muted" style="font-size:10px">2026-02</td>
-        </tr>
-        <tr>
-          <td class="mono bold lav">AAA4</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
-          <td class="right">
-            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
-              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
-                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
-              </div>
-              <span class="mono bold">1</span>
-            </div>
-          </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">1 – 2</span></td>
-          <td class="mono muted" style="font-size:10px">2026-02</td>
-        </tr>
-        <tr class="month-header">
-          <td colspan="5">▸ &nbsp;2026-03
+          <td colspan="5">- &nbsp;2026-02
             <span style="color:#6c7a96;font-size:10px;margin-left:12px">
               4 models
             </span>
           </td>
         </tr>
         <tr>
-          <td class="mono bold lav">AAA3</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
-          <td class="right">
-            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
-              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
-                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
-              </div>
-              <span class="mono bold">1</span>
-            </div>
-          </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 1</span></td>
-          <td class="mono muted" style="font-size:10px">2026-03</td>
-        </tr>
-        <tr>
-          <td class="mono bold lav">AAA4</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
-          <td class="right">
-            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
-              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
-                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
-              </div>
-              <span class="mono bold">1</span>
-            </div>
-          </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 2</span></td>
-          <td class="mono muted" style="font-size:10px">2026-03</td>
-        </tr>
-        <tr>
-          <td class="mono bold lav">AAA6</td>
+          <td class="mono bold lav">KCX3</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="right">
             <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
@@ -421,12 +338,12 @@
               <span class="mono bold">1</span>
             </div>
           </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 2</span></td>
-          <td class="mono muted" style="font-size:10px">2026-03</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-02</td>
         </tr>
         <tr>
-          <td class="mono bold lav">AAA72</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="right">
             <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
               <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
@@ -435,46 +352,214 @@
               <span class="mono bold">1</span>
             </div>
           </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 2</span></td>
-          <td class="mono muted" style="font-size:10px">2026-03</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">1 - 2</span></td>
+          <td class="mono muted" style="font-size:10px">2026-02</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX6</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-02</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX72</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-02</td>
         </tr>
         <tr class="month-header">
-          <td colspan="5">▸ &nbsp;2026-04
+          <td colspan="5">- &nbsp;2026-03
             <span style="color:#6c7a96;font-size:10px;margin-left:12px">
-              3 models
+              5 models
             </span>
           </td>
         </tr>
         <tr>
-          <td class="mono bold lav">AAA3</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
+          <td class="mono bold lav">KCX6</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="right">
             <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
               <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
                 <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
               </div>
+              <span class="mono bold">2</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
+          <td class="mono muted" style="font-size:10px">2026-03</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KC4</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:50%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
               <span class="mono bold">1</span>
             </div>
           </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 1</span></td>
-          <td class="mono muted" style="font-size:10px">2026-04</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
+          <td class="mono muted" style="font-size:10px">2026-03</td>
         </tr>
         <tr>
-          <td class="mono bold lav">AAA4</td>
-          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:50%;height:100%;background:#f38ba8;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-03</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:50%;height:100%;background:#f38ba8;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-03</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX72</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:50%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-03</td>
+        </tr>
+        <tr class="month-header">
+          <td colspan="5">- &nbsp;2026-04
+            <span style="color:#6c7a96;font-size:10px;margin-left:12px">
+              4 models
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX6</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="right">
             <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
               <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
                 <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
               </div>
-              <span class="mono bold">1</span>
+              <span class="mono bold">2</span>
             </div>
           </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 1</span></td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
           <td class="mono muted" style="font-size:10px">2026-04</td>
         </tr>
         <tr>
-          <td class="mono bold lav">AAA6</td>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:50%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-04</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:50%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-04</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX72</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:50%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-04</td>
+        </tr>
+        <tr class="month-header">
+          <td colspan="5">- &nbsp;2026-05
+            <span style="color:#6c7a96;font-size:10px;margin-left:12px">
+              4 models
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#f38ba8;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-05</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#f38ba8;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-05</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX6</td>
           <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
           <td class="right">
             <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
@@ -484,8 +569,148 @@
               <span class="mono bold">1</span>
             </div>
           </td>
-          <td class="right"><span style="color:#6c7a96;font-size:11px">0 – 2</span></td>
-          <td class="mono muted" style="font-size:10px">2026-04</td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
+          <td class="mono muted" style="font-size:10px">2026-05</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX72</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Sound & Vibration</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-05</td>
+        </tr>
+        <tr class="month-header">
+          <td colspan="5">- &nbsp;2026-06
+            <span style="color:#6c7a96;font-size:10px;margin-left:12px">
+              4 models
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
+          <td class="mono muted" style="font-size:10px">2026-06</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#f38ba8;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-06</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX6</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
+          <td class="mono muted" style="font-size:10px">2026-06</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX72</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-06</td>
+        </tr>
+        <tr class="month-header">
+          <td colspan="5">- &nbsp;2026-07
+            <span style="color:#6c7a96;font-size:10px;margin-left:12px">
+              4 models
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX3</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-07</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX4</td>
+          <td><span style="background:#f38ba822;color:#f38ba8;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Cylinder & Overheating</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#f38ba8;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-07</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX6</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 2</span></td>
+          <td class="mono muted" style="font-size:10px">2026-07</td>
+        </tr>
+        <tr>
+          <td class="mono bold lav">KCX72</td>
+          <td><span style="background:#b4befe22;color:#b4befe;padding:2px 8px;border-radius:3px;font-size:10px;font-weight:600;white-space:nowrap">Oil Consumption & Carryover</span></td>
+          <td class="right">
+            <div style="display:flex;align-items:center;gap:8px;justify-content:flex-end">
+              <div style="width:80px;height:5px;background:#1e2d45;border-radius:3px;overflow:hidden">
+                <div style="width:100%;height:100%;background:#b4befe;opacity:0.7;border-radius:3px"></div>
+              </div>
+              <span class="mono bold">1</span>
+            </div>
+          </td>
+          <td class="right"><span style="color:#6c7a96;font-size:11px">0 - 1</span></td>
+          <td class="mono muted" style="font-size:10px">2026-07</td>
         </tr></tbody>
       </table>
       <div class="no-results" id="no2" style="display:none">No matching records</div>

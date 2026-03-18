@@ -1,10 +1,26 @@
-Date,Model,Top_Complaint_Type,Predicted_p10,Predicted,Predicted_p90,Predicted_Part,Est_Unit_Cost,Est_Cost_p50
-2026-02,AAA3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,45000,45000
-2026-02,AAA4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,45000,45000
-2026-03,AAA3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,45000
-2026-03,AAA4,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,45000,45000
-2026-03,AAA6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,45000
-2026-03,AAA72,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,45000,45000
-2026-04,AAA3,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,45000
-2026-04,AAA4,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,45000,45000
-2026-04,AAA6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,45000,45000
+Date,Model,Top_Complaint_Type,Predicted_p10,Predicted,Predicted_p90,Predicted_Part,Est_Avg_Cost,Est_Cost_p50
+2026-02,KCX3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,36620,36620
+2026-02,KCX4,Oil Consumption & Carryover,1,1,2,Piston / Liner / Ring Set,38800,38800
+2026-02,KCX6,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,37656,37656
+2026-02,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,37578,37578
+2026-03,KCX6,Oil Consumption & Carryover,0,2,2,Piston / Liner / Ring Set,37656,75312
+2026-03,KC4,Sound & Vibration,0,1,2,Piston / Liner / Ring Set,43061,43061
+2026-03,KCX3,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,31508,31508
+2026-03,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,28131,28131
+2026-03,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,37578,37578
+2026-04,KCX6,Oil Consumption & Carryover,0,2,2,Piston / Liner / Ring Set,37656,75312
+2026-04,KCX3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,36620,36620
+2026-04,KCX4,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,38800,38800
+2026-04,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,41436,41436
+2026-05,KCX3,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,31508,31508
+2026-05,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,28131,28131
+2026-05,KCX6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,37656,37656
+2026-05,KCX72,Sound & Vibration,0,1,1,Piston / Liner / Ring Set,41436,41436
+2026-06,KCX3,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,36620,36620
+2026-06,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,28131,28131
+2026-06,KCX6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,37656,37656
+2026-06,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,37578,37578
+2026-07,KCX3,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,36620,36620
+2026-07,KCX4,Cylinder & Overheating,0,1,1,Piston / Liner / Ring Set,28131,28131
+2026-07,KCX6,Oil Consumption & Carryover,0,1,2,Piston / Liner / Ring Set,37656,37656
+2026-07,KCX72,Oil Consumption & Carryover,0,1,1,Piston / Liner / Ring Set,37578,37578

@@ -1,4 +1,8 @@
-const BASE_API =
-  "https://kpcl-warranty-claims-backend.onrender.com";
+const DEFAULT_BASE_API = "https://kpcl-warranty-claims-backend.onrender.com";
 
-export const baseUrl = BASE_API.replace(/\/$/, "");
+// Allow local/dev override without changing code:
+// - PowerShell: $env:VITE_API_BASE_URL="http://localhost:8001"
+// - then restart `npm run dev`
+const BASE_API = import.meta.env?.VITE_API_BASE_URL || DEFAULT_BASE_API;
+
+export const baseUrl = String(BASE_API).replace(/\/$/, "");

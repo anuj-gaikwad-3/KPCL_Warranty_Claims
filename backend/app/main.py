@@ -1,6 +1,8 @@
 import logging
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
 
 logging.basicConfig(
     level=logging.INFO,
@@ -24,13 +26,33 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-from app.dashboard.routes import router as dashboard_router
-from app.chatbot.routes import router as chatbot_router
 from app.forecasting.routes import router as forecast_router
 
-app.include_router(dashboard_router, prefix="/api/v1/dashboard", tags=["Dashboard"])
-app.include_router(chatbot_router, prefix="/api/v1/chatbot", tags=["Chatbot"])
+# Forecasting API should always be available.
 app.include_router(forecast_router, prefix="/api/v1/forecast", tags=["Forecasting"])
+# Legacy alias for the KPCLwarrantyClaims static frontend (expects /api/*).
+app.include_router(forecast_router, prefix="/api", tags=["ForecastingLegacy"])
+
+# Dashboard + Chatbot can have heavier/optional dependencies.
+try:
+    from app.dashboard.routes import router as dashboard_router
+
+    app.include_router(dashboard_router, prefix="/api/v1/dashboard", tags=["Dashboard"])
+except Exception as e:
+    logger.warning("Dashboard router not loaded: %s", e)
+
+try:
+    from app.chatbot.routes import router as chatbot_router
+
+    app.include_router(chatbot_router, prefix="/api/v1/chatbot", tags=["Chatbot"])
+except Exception as e:
+    logger.warning("Chatbot router not loaded: %s", e)
+
+# Serve the standalone forecasting frontend (static bundle) directly from backend.
+# This is intentionally scoped to forecasting only and does not affect dashboard/chatbot UI.
+FORECAST_UI_DIR = Path(__file__).parent / "forecasting_webapp" / "static"
+if FORECAST_UI_DIR.exists():
+    app.mount("/forecasting", StaticFiles(directory=str(FORECAST_UI_DIR), html=True), name="forecasting-ui")
 
 
 @app.get("/")
@@ -42,6 +64,7 @@ async def root():
             "dashboard": "/api/v1/dashboard",
             "chatbot": "/api/v1/chatbot",
             "forecasting": "/api/v1/forecast",
+            "forecasting_ui": "/forecasting",
         },
     }
 
