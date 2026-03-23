@@ -1,6 +1,6 @@
-# KPCL Warranty Intelligence Platform
+# Indi4 Warranty Intelligence Platform
 
-A unified, full-stack warranty claims analytics platform for KPCL — combining a multi-page React dashboard, AI-powered chatbot widget, and time-series forecasting into a single deployable application.
+A unified, full-stack warranty claims analytics platform for Indi4 — combining a multi-page React dashboard, AI-powered chatbot widget, and time-series forecasting into a single deployable application.
 
 ---
 
@@ -63,7 +63,7 @@ The platform ingests a cleaned warranty claims master dataset and exposes action
 ## Project Structure
 
 ```
-KPCL_warranty Claims/
+Indi4_warranty Claims/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py                    # FastAPI app, CORS, router mounts

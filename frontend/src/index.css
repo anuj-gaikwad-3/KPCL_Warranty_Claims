@@ -4,11 +4,11 @@
    DESIGN TOKENS
 ============================================ */
 :root {
-  --c-primary:       #1a7a6d;
-  --c-primary-dark:  #155f55;
-  --c-primary-xdark: #0d4a42;
-  --c-primary-light: #e8f5f3;
-  --c-primary-mid:   #2a9e8f;
+  --c-primary:       #234FA2;
+  --c-primary-dark:  #1c3f82;
+  --c-primary-xdark: #152f61;
+  --c-primary-light: #e6f1f8;
+  --c-primary-mid:   #0075BE;
 
   --c-accent:        #e07c3a;
   --c-accent-light:  #fef3eb;
@@ -73,7 +73,7 @@ body {
    SIDEBAR
 ============================================ */
 .sidebar-shell {
-  background: linear-gradient(180deg, #0d4a42 0%, #155f55 55%, #1a7a6d 100%);
+  background: linear-gradient(180deg, #152f61 0%, #1c3f82 55%, #234FA2 100%);
   color: #fff;
   box-shadow: 4px 0 24px rgba(0,0,0,0.18);
   border-right: 1px solid rgba(255,255,255,0.06);
@@ -230,7 +230,7 @@ body {
    INFO BANNER
 ============================================ */
 .info-banner {
-  background: linear-gradient(135deg, var(--c-primary-light) 0%, #d4eeea 100%);
+  background: linear-gradient(135deg, var(--c-primary-light) 0%, #d0e4f2 100%);
   border: 1px solid #b8ddd8;
   border-radius: var(--r-md);
   padding: 1rem 1.25rem;
@@ -312,7 +312,7 @@ body {
   align-self: flex-end;
   font-size: 13.5px;
   line-height: 1.5;
-  box-shadow: 0 2px 8px rgba(26,122,109,0.25);
+  box-shadow: 0 2px 8px rgba(35,79,162,0.25);
 }
 
 .chat-msg-bot {

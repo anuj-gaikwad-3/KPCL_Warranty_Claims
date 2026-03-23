@@ -13,9 +13,9 @@
     --clr-text-muted: #4b5563;
     --clr-text-dim: #9ca3af;
 
-    --clr-primary: #0f6a5e;
-    --clr-primary-mid: #1a7a6d;
-    --clr-primary-light: #e0f2ef;
+    --clr-primary: #1c3f82;
+    --clr-primary-mid: #234FA2;
+    --clr-primary-light: #e6f1f8;
     --clr-primary-dim: rgba(15, 106, 94, 0.10);
     --clr-secondary: #14a092;
     --clr-accent: #e07c3a;
@@ -116,7 +116,7 @@ body {
     width: var(--sidebar-w);
     height: 100vh;
     /* Rich directional gradient — top dark, bottom lighter */
-    background: linear-gradient(175deg, #094e45 0%, #0f6a5e 45%, #167a6e 100%);
+    background: linear-gradient(175deg, #152f61 0%, #1c3f82 45%, #234FA2 100%);
     padding: 1.5rem 0.8rem;
     display: flex;
     flex-direction: column;
@@ -297,7 +297,7 @@ body {
 
 /* ═══════════ HERO BANNER ═══════════ */
 .hero-banner {
-    background: linear-gradient(125deg, #083d36 0%, #0f6a5e 40%, #1a8a7a 80%, #1fa394 100%);
+    background: linear-gradient(125deg, #152f61 0%, #1c3f82 40%, #234FA2 80%, #0075BE 100%);
     border-radius: var(--radius-xl);
     padding: 2.2rem 2.5rem;
     display: flex;

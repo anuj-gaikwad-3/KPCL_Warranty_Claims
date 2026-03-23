@@ -54,7 +54,7 @@ def get_dataframes():
     return global_df, global_kb_df, global_cost_df
 
 
-def find_relevant_context(user_query: str):
+def find_relevant_context(user_query: str, include_costs: bool = True):
     try:
         df, df_kb, df_cost = get_dataframes()
 
@@ -95,8 +95,8 @@ def find_relevant_context(user_query: str):
         else:
             logger.warning("'Nature of complaint' column is missing from Warranty Excel!")
 
-        cost_table_str = "No cost data available."
-        if not df_cost.empty:
+        cost_table_str = "[Cost data omitted — not a cost query]"
+        if include_costs and not df_cost.empty:
             cols_to_show = [c for c in ['ITEM DESCRIPTION', 'UNIT PRICE', 'GROSS VALUE'] if c in df_cost.columns]
             cost_table_str = df_cost[cols_to_show].to_string(index=False)
 

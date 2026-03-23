@@ -1,5 +1,5 @@
 /**
- * KPCL Warranty Intelligence Dashboard
+ * Indi4 Warranty Intelligence Dashboard
  * All charts rendered client-side via Chart.js from JSON API data.
  */
 

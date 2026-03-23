@@ -62,7 +62,7 @@ def _media_type_for(filename: str) -> str:
 
 @router.get("/health")
 async def forecast_health():
-    return {"status": "online", "message": "KPCL Forecasting service is running"}
+    return {"status": "online", "message": "Indi4 Forecasting service is running"}
 
 
 @router.get("/overview")

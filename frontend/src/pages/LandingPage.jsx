@@ -13,7 +13,7 @@ const FEATURES = [
     label: "Analytics Dashboard",
     desc: "Interactive KPI cards, YoY trends, monthly & quarterly breakdowns — all filterable by Indian fiscal year in real time.",
     tags: ["YoY Trends", "Quarterly View", "Fiscal Year Filter"],
-    accent: "#1a7a6d",
+    accent: "#234FA2",
   },
   {
     icon: (
@@ -35,7 +35,7 @@ const FEATURES = [
     label: "ML Forecasting Engine",
     desc: "3-month ensemble forecasts for total complaints, model-wise risk scores, complaint-type breakdowns, and warranty cost outlooks.",
     tags: ["Ensemble Model", "Risk Watch", "Cost Outlook"],
-    accent: "#1b8a7a",
+    accent: "#1c3f82",
   },
   {
     icon: (
@@ -88,7 +88,7 @@ export default function LandingPage() {
         position: "fixed", top: 0, left: 0, right: 0, zIndex: 100,
         display: "flex", alignItems: "center", justifyContent: "space-between",
         padding: "0 2.5rem", height: "64px",
-        background: "rgba(21, 95, 85, 0.97)",
+        background: "rgba(28, 63, 130, 0.97)",
         backdropFilter: "blur(12px)",
         borderBottom: "1px solid rgba(255,255,255,0.1)",
         boxShadow: "0 2px 20px rgba(0,0,0,0.2)",
@@ -99,9 +99,9 @@ export default function LandingPage() {
             background: "rgba(255,255,255,0.2)",
             display: "flex", alignItems: "center", justifyContent: "center",
             fontWeight: 800, fontSize: 13, color: "#fff", letterSpacing: 0.5,
-          }}>KP</div>
+          }}>I4</div>
           <div>
-            <div style={{ fontWeight: 800, fontSize: 15, color: "#fff", lineHeight: 1.1 }}>KPCL Warranty</div>
+            <div style={{ fontWeight: 800, fontSize: 15, color: "#fff", lineHeight: 1.1 }}>Indi4 Warranty</div>
             <div style={{ fontSize: 9, color: "rgba(255,255,255,0.6)", letterSpacing: 2, textTransform: "uppercase", fontWeight: 700 }}>Intelligence</div>
           </div>
         </div>
@@ -120,7 +120,7 @@ export default function LandingPage() {
           <button
             onClick={() => navigate("/login")}
             style={{
-              background: "#fff", color: "#155f55",
+              background: "#fff", color: "#1c3f82",
               border: "none", borderRadius: 8,
               padding: "0.45rem 1.25rem", fontSize: 13, fontWeight: 700,
               cursor: "pointer", transition: "all 0.2s",
@@ -160,7 +160,7 @@ export default function LandingPage() {
         {/* Dark teal gradient overlay — keeps text readable */}
         <div style={{
           position: "absolute", inset: 0, zIndex: 1,
-          background: "linear-gradient(135deg, rgba(13,74,66,0.82) 0%, rgba(21,95,85,0.78) 40%, rgba(26,122,109,0.72) 70%, rgba(27,138,122,0.75) 100%)",
+          background: "linear-gradient(135deg, rgba(21,47,97,0.82) 0%, rgba(28,63,130,0.78) 40%, rgba(35,79,162,0.72) 70%, rgba(0,117,190,0.75) 100%)",
         }} />
 
         {/* Subtle pattern on top of overlay */}
@@ -184,7 +184,7 @@ export default function LandingPage() {
             letterSpacing: 1.2, textTransform: "uppercase",
             backdropFilter: "blur(8px)",
           }}>
-            <span style={{ width: 7, height: 7, borderRadius: "50%", background: "#5eead4", display: "inline-block", animation: "pulse 2s infinite" }} />
+            <span style={{ width: 7, height: 7, borderRadius: "50%", background: "#0075BE", display: "inline-block", animation: "pulse 2s infinite" }} />
             Warranty Intelligence Platform
           </div>
 
@@ -197,7 +197,7 @@ export default function LandingPage() {
           }}>
             Transform Warranty Data
             <br />
-            <span style={{ color: "#5eead4" }}>Into Actionable Intelligence</span>
+            <span style={{ color: "#0075BE" }}>Into Actionable Intelligence</span>
           </h1>
 
           <p style={{
@@ -206,7 +206,7 @@ export default function LandingPage() {
             lineHeight: 1.7, marginBottom: "2.5rem", fontWeight: 400,
           }}>
             A unified platform combining real-time analytics dashboards, AI-powered chatbot diagnostics,
-            and ML-based forecasting — built specifically for KPCL warranty claims management.
+            and ML-based forecasting — built specifically for Indi4 warranty claims management.
           </p>
 
           {/* CTAs */}
@@ -214,7 +214,7 @@ export default function LandingPage() {
             <button
               onClick={() => navigate("/login")}
               style={{
-                background: "#fff", color: "#155f55", border: "none",
+                background: "#fff", color: "#1c3f82", border: "none",
                 borderRadius: 12, padding: "0.85rem 2.25rem",
                 fontSize: 15, fontWeight: 800, cursor: "pointer",
                 boxShadow: "0 8px 30px rgba(0,0,0,0.2)",
@@ -262,7 +262,7 @@ export default function LandingPage() {
               <div style={{ width: 10, height: 10, borderRadius: "50%", background: "#febc2e" }} />
               <div style={{ width: 10, height: 10, borderRadius: "50%", background: "#27c93f" }} />
               <div style={{ flex: 1, background: "rgba(255,255,255,0.08)", borderRadius: 6, height: 20, marginLeft: 8, display: "flex", alignItems: "center", paddingLeft: 10 }}>
-                <span style={{ fontSize: 10, color: "rgba(255,255,255,0.45)" }}>localhost:5173/app — KPCL Warranty Intelligence</span>
+                <span style={{ fontSize: 10, color: "rgba(255,255,255,0.45)" }}>localhost:5173/app — Indi4 Warranty Intelligence</span>
               </div>
             </div>
             {/* Actual platform demo video */}
@@ -296,7 +296,7 @@ export default function LandingPage() {
         <div style={{ maxWidth: 900, margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: "1rem" }}>
           {STATS.map((s, i) => (
             <div key={i} style={{ textAlign: "center", padding: "1rem" }}>
-              <div style={{ fontSize: "clamp(2rem, 4vw, 3rem)", fontWeight: 900, color: "#155f55", lineHeight: 1 }}>{s.value}</div>
+              <div style={{ fontSize: "clamp(2rem, 4vw, 3rem)", fontWeight: 900, color: "#1c3f82", lineHeight: 1 }}>{s.value}</div>
               <div style={{ fontSize: 12, color: "#5f6b7a", marginTop: 6, textTransform: "uppercase", letterSpacing: 1.5, fontWeight: 600 }}>{s.label}</div>
             </div>
           ))}
@@ -309,17 +309,17 @@ export default function LandingPage() {
           {/* Section header */}
           <div style={{ textAlign: "center", marginBottom: "4rem" }}>
             <div style={{
-              display: "inline-block", background: "#e6f5f2", color: "#1a7a6d",
+              display: "inline-block", background: "#e6f1f8", color: "#234FA2",
               borderRadius: 100, padding: "0.3rem 1rem", fontSize: 11,
               fontWeight: 800, letterSpacing: 2, textTransform: "uppercase", marginBottom: "1rem",
             }}>Platform Capabilities</div>
             <h2 style={{ fontSize: "clamp(1.8rem, 4vw, 2.8rem)", fontWeight: 900, color: "#1a1a2e", letterSpacing: -0.5, marginBottom: "0.75rem" }}>
               Everything You Need,
               <br />
-              <span style={{ color: "#1a7a6d" }}>In One Place</span>
+              <span style={{ color: "#234FA2" }}>In One Place</span>
             </h2>
             <p style={{ fontSize: 16, color: "#5f6b7a", maxWidth: 520, margin: "0 auto", lineHeight: 1.65 }}>
-              From real-time KPI monitoring to AI-powered diagnostics — KPCL's warranty intelligence covers every angle.
+              From real-time KPI monitoring to AI-powered diagnostics — Indi4's warranty intelligence covers every angle.
             </p>
           </div>
 
@@ -334,7 +334,7 @@ export default function LandingPage() {
 
       {/* ── CTA BANNER ── */}
       <section style={{
-        background: "linear-gradient(135deg, #155f55 0%, #1a7a6d 100%)",
+        background: "linear-gradient(135deg, #1c3f82 0%, #234FA2 100%)",
         padding: "5rem 2rem",
         textAlign: "center",
         position: "relative", overflow: "hidden",
@@ -345,12 +345,12 @@ export default function LandingPage() {
             Ready to Explore the Platform?
           </h2>
           <p style={{ color: "rgba(255,255,255,0.72)", fontSize: 15, marginBottom: "2rem", maxWidth: 460, margin: "0 auto 2rem" }}>
-            Sign in with your KPCL credentials and get full access to the Warranty Intelligence Platform.
+            Sign in with your Indi4 credentials and get full access to the Warranty Intelligence Platform.
           </p>
           <button
             onClick={() => navigate("/login")}
             style={{
-              background: "#fff", color: "#155f55",
+              background: "#fff", color: "#1c3f82",
               border: "none", borderRadius: 12,
               padding: "0.9rem 2.5rem", fontSize: 15, fontWeight: 800,
               cursor: "pointer", boxShadow: "0 8px 30px rgba(0,0,0,0.2)",
@@ -365,9 +365,9 @@ export default function LandingPage() {
       </section>
 
       {/* ── FOOTER ── */}
-      <footer style={{ background: "#0d4a42", padding: "1.75rem 2rem", textAlign: "center" }}>
+      <footer style={{ background: "#152f61", padding: "1.75rem 2rem", textAlign: "center" }}>
         <p style={{ fontSize: 12, color: "rgba(255,255,255,0.4)", letterSpacing: 0.5 }}>
-          © 2024 KPCL — Warranty Intelligence Platform &nbsp;·&nbsp; Built with FastAPI + React + Gemini AI
+          © 2024 Indi4 — Warranty Intelligence Platform &nbsp;·&nbsp; Built with FastAPI + React + Gemini AI
         </p>
       </footer>
 

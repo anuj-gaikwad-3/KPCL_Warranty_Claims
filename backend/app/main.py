@@ -11,7 +11,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="KPCL Warranty Intelligence Platform")
+app = FastAPI(title="Indi4 Warranty Intelligence Platform")
 
 app.add_middleware(
     CORSMiddleware,
@@ -59,7 +59,7 @@ if FORECAST_UI_DIR.exists():
 async def root():
     return {
         "status": "online",
-        "message": "KPCL Warranty Intelligence Platform",
+        "message": "Indi4 Warranty Intelligence Platform",
         "services": {
             "dashboard": "/api/v1/dashboard",
             "chatbot": "/api/v1/chatbot",

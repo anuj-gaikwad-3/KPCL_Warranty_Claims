@@ -5,7 +5,8 @@ const AuthContext = createContext(null);
 const STORAGE_KEY = "kpcl_auth";
 
 const DEMO_CREDENTIALS = [
-  { username: "admin@c4i4.org", password: "admin123", name: "Admin User", role: "Warranty Analyst" },
+  { username: "admin@c4i4.org",   password: "admin123",   name: "Admin User",   role: "admin"  },
+  { username: "viewer@kpcl.com",  password: "viewer123",  name: "Viewer User",  role: "viewer" },
 ];
 
 function readAuth() {
@@ -38,8 +39,10 @@ export function AuthProvider({ children }) {
     setUser(null);
   }, []);
 
+  const isAdmin = user?.role === "admin";
+
   return (
-    <AuthContext.Provider value={{ user, login, logout, isAuthenticated: !!user }}>
+    <AuthContext.Provider value={{ user, login, logout, isAuthenticated: !!user, isAdmin }}>
       {children}
     </AuthContext.Provider>
   );

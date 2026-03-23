@@ -4,11 +4,21 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import Plot from "react-plotly.js";
 import { sendMessage as sendChatMessage } from "../../services/chatApi";
+import { useAuth } from "../../context/AuthContext";
 
 const time = () => new Date().toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", hour12: true });
 const clean = (t) => (t ? t.replace(/\\n/g, "\n") : "");
 
-const SUGGESTIONS = [
+const ADMIN_SUGGESTIONS = [
+  "Plot top 10 dealers by complaint count",
+  "Show complaints trend by year as a line chart",
+  "What is the cost of replacing a shaft seal?",
+  "Most frequently replaced spare part?",
+  "How many unique compressor models do we have?",
+  "Which dealer has the highest complaints?",
+];
+
+const VIEWER_SUGGESTIONS = [
   "Plot top 10 dealers by complaint count",
   "Show complaints trend by year as a line chart",
   "How many unique compressor models do we have?",
@@ -17,15 +27,25 @@ const SUGGESTIONS = [
   "Most frequently replaced spare part?",
 ];
 
-const INIT = {
-  role: "bot",
-  text: "Hello! I'm **KBot**, your KPCL Warranty Intelligence assistant.\n\nI can analyse warranty data, calculate metrics, generate charts and troubleshoot problems. Try one of the suggestions below, or ask your own question.",
-  options: SUGGESTIONS,
-  time: time(),
-};
+function getInitMessage(isAdmin) {
+  const base = "Hello! I'm **KBot**, your Indi4 Warranty Intelligence assistant.\n\nI can analyse warranty data, calculate metrics, generate charts and troubleshoot problems.";
+  const extra = isAdmin
+    ? " As an **Admin**, you also have access to cost and financial analysis."
+    : " 🔒 Cost and price analysis is restricted to Admin users.";
+  return base + extra + "\n\nTry one of the suggestions below, or ask your own question.";
+}
 
 export default function ChatWindow({ onClose }) {
-  const [messages, setMessages] = useState([INIT]);
+  const { user, isAdmin } = useAuth();
+
+  const initMsg = {
+    role: "bot",
+    text: getInitMessage(isAdmin),
+    options: isAdmin ? ADMIN_SUGGESTIONS : VIEWER_SUGGESTIONS,
+    time: time(),
+  };
+
+  const [messages, setMessages] = useState([initMsg]);
   const [input, setInput]       = useState("");
   const [loading, setLoading]   = useState(false);
   const endRef = useRef(null);
@@ -35,7 +55,7 @@ export default function ChatWindow({ onClose }) {
 
   const handleClear = () => {
     if (window.confirm("Clear chat history?")) {
-      setMessages([{ ...INIT, time: time() }]);
+      setMessages([{ ...initMsg, time: time() }]);
       setInput("");
     }
   };
@@ -47,7 +67,9 @@ export default function ChatWindow({ onClose }) {
     if (typeof text !== "string") setInput("");
     setLoading(true);
     try {
-      const data = await sendChatMessage(msg);
+      const userRole = isAdmin ? "admin" : "viewer";
+      const userId   = user?.username || "user";
+      const data = await sendChatMessage(msg, userId, userRole);
       setMessages(p => [...p, { role:"bot", text:data.answer, graph_json:data.graph_json, time:time() }]);
     } catch {
       setMessages(p => [...p, { role:"bot", text:"Connection failed. Please check the backend is running.", time:time() }]);
@@ -71,7 +93,7 @@ export default function ChatWindow({ onClose }) {
 
       {/* ── HEADER ── */}
       <div style={{
-        background: "linear-gradient(135deg, #0d4a42 0%, #155f55 50%, #1a7a6d 100%)",
+        background: "linear-gradient(135deg, #152f61 0%, #1c3f82 50%, #234FA2 100%)",
         padding: "0.9rem 1.1rem",
         display: "flex", alignItems: "center", justifyContent: "space-between",
         flexShrink: 0,
@@ -84,12 +106,24 @@ export default function ChatWindow({ onClose }) {
             background: "rgba(255,255,255,0.15)", border: "2px solid rgba(255,255,255,0.3)",
             display: "flex", alignItems: "center", justifyContent: "center",
           }}>
-            <Sparkles size={16} color="#5eead4" />
+            <Sparkles size={16} color="#0075BE" />
           </div>
           <div>
-            <div style={{ fontWeight: 800, fontSize: 15, color: "#fff", lineHeight: 1.1 }}>KBot</div>
+            <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+              <span style={{ fontWeight: 800, fontSize: 15, color: "#fff", lineHeight: 1.1 }}>KBot</span>
+              {/* Role badge */}
+              <span style={{
+                fontSize: 9, fontWeight: 700, textTransform: "uppercase", letterSpacing: 1,
+                padding: "2px 7px", borderRadius: 20,
+                background: isAdmin ? "rgba(0,117,190,0.25)" : "rgba(255,255,255,0.12)",
+                color: isAdmin ? "#0075BE" : "rgba(255,255,255,0.55)",
+                border: `1px solid ${isAdmin ? "rgba(0,117,190,0.4)" : "rgba(255,255,255,0.2)"}`,
+              }}>
+                {isAdmin ? "Admin" : "🔒 Limited"}
+              </span>
+            </div>
             <div style={{ display: "flex", alignItems: "center", gap: 4, marginTop: 2 }}>
-              <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#5eead4" }} />
+              <div style={{ width: 6, height: 6, borderRadius: "50%", background: "#0075BE" }} />
               <span style={{ fontSize: 10.5, color: "rgba(255,255,255,0.65)", fontWeight: 500 }}>
                 {loading ? "Thinking…" : "Online"}
               </span>
@@ -146,7 +180,7 @@ export default function ChatWindow({ onClose }) {
                     ol: ({children}) => <ol style={{ paddingLeft:18, marginBottom:7 }}>{children}</ol>,
                     li: ({children}) => <li style={{ marginBottom:3 }}>{children}</li>,
                     strong: ({children}) => <strong style={{ fontWeight:700, color:"#0f172a" }}>{children}</strong>,
-                    code: ({children}) => <code style={{ background:"#e8f5f3", color:"#155f55", padding:"1px 5px", borderRadius:4, fontSize:12 }}>{children}</code>,
+                    code: ({children}) => <code style={{ background:"#e6f1f8", color:"#234FA2", padding:"1px 5px", borderRadius:4, fontSize:12 }}>{children}</code>,
                   }}
                 >{clean(msg.text)}</ReactMarkdown>
               )}
@@ -216,7 +250,7 @@ export default function ChatWindow({ onClose }) {
           background:"#f8fafc", border:"1.5px solid #e2e8f0", borderRadius:12, padding:"0.45rem 0.45rem 0.45rem 0.85rem",
           transition:"border-color 0.2s",
         }}
-          onFocusCapture={e => e.currentTarget.style.borderColor="#1a7a6d"}
+          onFocusCapture={e => e.currentTarget.style.borderColor="#234FA2"}
           onBlurCapture={e => e.currentTarget.style.borderColor="#e2e8f0"}
         >
           <input
@@ -225,14 +259,14 @@ export default function ChatWindow({ onClose }) {
             value={input}
             onChange={e => setInput(e.target.value)}
             onKeyDown={e => e.key==="Enter" && !e.shiftKey && send()}
-            placeholder="Ask about warranty data..."
+            placeholder={isAdmin ? "Ask about warranty data or costs..." : "Ask about warranty data..."}
             disabled={loading}
             style={{ flex:1, fontSize:13.5, color:"#0f172a", background:"transparent", border:"none", outline:"none" }}
           />
           <button onClick={() => send()} disabled={loading || !input.trim()}
             style={{
               width:34, height:34, borderRadius:9, border:"none", cursor:"pointer",
-              background: input.trim() && !loading ? "linear-gradient(135deg,#155f55,#1a7a6d)" : "#e2e8f0",
+              background: input.trim() && !loading ? "linear-gradient(135deg,#1c3f82,#234FA2)" : "#e2e8f0",
               color: input.trim() && !loading ? "#fff" : "#94a3b8",
               display:"flex", alignItems:"center", justifyContent:"center",
               transition:"all 0.2s", flexShrink:0,
@@ -240,7 +274,7 @@ export default function ChatWindow({ onClose }) {
           ><Send size={14} /></button>
         </div>
         <p style={{ fontSize:10, color:"#94a3b8", textAlign:"center", marginTop:6 }}>
-          Powered by Google Gemini · KPCL Warranty Data
+          Powered by Google Gemini · Indi4 Warranty Data
         </p>
       </div>
 

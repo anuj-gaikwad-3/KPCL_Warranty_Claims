@@ -47,7 +47,7 @@ export default function LoginPage() {
       {/* Left panel — branding */}
       <div style={{
         flex: "0 0 48%",
-        background: "linear-gradient(160deg, #0d4a42 0%, #155f55 45%, #1a7a6d 80%, #1b8a7a 100%)",
+        background: "linear-gradient(160deg, #152f61 0%, #1c3f82 45%, #234FA2 80%, #0075BE 100%)",
         display: "flex", flexDirection: "column",
         alignItems: "center", justifyContent: "center",
         padding: "3rem 3.5rem",
@@ -71,11 +71,11 @@ export default function LoginPage() {
             display: "flex", alignItems: "center", justifyContent: "center",
             fontWeight: 900, fontSize: 22, color: "#fff", margin: "0 auto 1.75rem",
             boxShadow: "0 8px 30px rgba(0,0,0,0.2)",
-          }}>KP</div>
+          }}>I4</div>
 
           <h1 style={{ fontSize: "2.2rem", fontWeight: 900, color: "#fff", letterSpacing: -0.8, marginBottom: "0.75rem", lineHeight: 1.1 }}>
-            KPCL Warranty<br />
-            <span style={{ color: "#5eead4" }}>Intelligence</span>
+            Indi4 Warranty<br />
+            <span style={{ color: "#0075BE" }}>Intelligence</span>
           </h1>
           <p style={{ color: "rgba(255,255,255,0.68)", fontSize: 14.5, lineHeight: 1.7, marginBottom: "3rem" }}>
             Real-time analytics, AI diagnostics, and ML-based forecasting for warranty claims management.
@@ -108,7 +108,7 @@ export default function LoginPage() {
         {/* Back link */}
         <div style={{ position: "absolute", top: "1.5rem", right: "2rem" }}>
           <Link to="/" style={{ fontSize: 13, color: "#5f6b7a", textDecoration: "none", display: "flex", alignItems: "center", gap: 4, fontWeight: 500 }}
-            onMouseEnter={e => e.currentTarget.style.color = "#1a7a6d"}
+            onMouseEnter={e => e.currentTarget.style.color = "#234FA2"}
             onMouseLeave={e => e.currentTarget.style.color = "#5f6b7a"}>
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
             Back to home
@@ -128,13 +128,14 @@ export default function LoginPage() {
 
           {/* Demo hint box */}
           <div style={{
-            background: "#e6f5f2", border: "1px solid #b3e0d9",
+            background: "#e6f1f8", border: "1px solid #0075BE",
             borderRadius: 10, padding: "0.75rem 1rem",
             marginBottom: "1.75rem", display: "flex", alignItems: "flex-start", gap: 8,
           }}>
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#1a7a6d" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginTop: 2, flexShrink: 0 }}><circle cx="12" cy="12" r="10" /><line x1="12" y1="8" x2="12" y2="12" /><line x1="12" y1="16" x2="12.01" y2="16" /></svg>
-            <div style={{ fontSize: 12, color: "#1a7a6d", lineHeight: 1.5 }}>
-              <strong>Credentials:</strong> <code style={{ background: "#c8e9e2", padding: "1px 5px", borderRadius: 4 }}>admin@c4i4.org</code> &nbsp;/&nbsp; <code style={{ background: "#c8e9e2", padding: "1px 5px", borderRadius: 4 }}>admin123</code>
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#234FA2" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginTop: 2, flexShrink: 0 }}><circle cx="12" cy="12" r="10" /><line x1="12" y1="8" x2="12" y2="12" /><line x1="12" y1="16" x2="12.01" y2="16" /></svg>
+            <div style={{ fontSize: 12, color: "#234FA2", lineHeight: 1.7 }}>
+              <div><strong>Admin</strong> (full access): <code style={{ background: "#d0e4f2", padding: "1px 5px", borderRadius: 4 }}>admin@c4i4.org</code> &nbsp;/&nbsp; <code style={{ background: "#d0e4f2", padding: "1px 5px", borderRadius: 4 }}>admin123</code></div>
+              <div><strong>Viewer</strong> (no cost data): <code style={{ background: "#d0e4f2", padding: "1px 5px", borderRadius: 4 }}>viewer@indi4.com</code> &nbsp;/&nbsp; <code style={{ background: "#d0e4f2", padding: "1px 5px", borderRadius: 4 }}>viewer123</code></div>
             </div>
           </div>
 
@@ -166,7 +167,7 @@ export default function LoginPage() {
                       outline: "none", boxSizing: "border-box",
                       transition: "border-color 0.2s, box-shadow 0.2s",
                     }}
-                    onFocus={e => { e.target.style.borderColor = "#1a7a6d"; e.target.style.boxShadow = "0 0 0 3px rgba(26,122,109,0.12)"; }}
+                    onFocus={e => { e.target.style.borderColor = "#234FA2"; e.target.style.boxShadow = "0 0 0 3px rgba(35,79,162,0.12)"; }}
                     onBlur={e => { e.target.style.borderColor = error ? "#d94f4f" : "#dde1e6"; e.target.style.boxShadow = "none"; }}
                   />
                 </div>
@@ -194,7 +195,7 @@ export default function LoginPage() {
                       outline: "none", boxSizing: "border-box",
                       transition: "border-color 0.2s, box-shadow 0.2s",
                     }}
-                    onFocus={e => { e.target.style.borderColor = "#1a7a6d"; e.target.style.boxShadow = "0 0 0 3px rgba(26,122,109,0.12)"; }}
+                    onFocus={e => { e.target.style.borderColor = "#234FA2"; e.target.style.boxShadow = "0 0 0 3px rgba(35,79,162,0.12)"; }}
                     onBlur={e => { e.target.style.borderColor = error ? "#d94f4f" : "#dde1e6"; e.target.style.boxShadow = "none"; }}
                   />
                   <button
@@ -230,15 +231,15 @@ export default function LoginPage() {
               disabled={loading}
               style={{
                 width: "100%", padding: "0.85rem",
-                background: loading ? "#a3c4bf" : "linear-gradient(135deg, #155f55 0%, #1a7a6d 100%)",
+                background: loading ? "#b0c4de" : "linear-gradient(135deg, #1c3f82 0%, #234FA2 100%)",
                 color: "#fff", border: "none", borderRadius: 10,
                 fontSize: 15, fontWeight: 700, cursor: loading ? "not-allowed" : "pointer",
-                boxShadow: loading ? "none" : "0 4px 16px rgba(26,122,109,0.35)",
+                boxShadow: loading ? "none" : "0 4px 16px rgba(35,79,162,0.35)",
                 transition: "all 0.25s",
                 display: "flex", alignItems: "center", justifyContent: "center", gap: 8,
               }}
-              onMouseEnter={e => { if (!loading) { e.currentTarget.style.transform = "translateY(-1px)"; e.currentTarget.style.boxShadow = "0 8px 24px rgba(26,122,109,0.4)"; } }}
-              onMouseLeave={e => { e.currentTarget.style.transform = "translateY(0)"; e.currentTarget.style.boxShadow = loading ? "none" : "0 4px 16px rgba(26,122,109,0.35)"; }}
+              onMouseEnter={e => { if (!loading) { e.currentTarget.style.transform = "translateY(-1px)"; e.currentTarget.style.boxShadow = "0 8px 24px rgba(35,79,162,0.4)"; } }}
+              onMouseLeave={e => { e.currentTarget.style.transform = "translateY(0)"; e.currentTarget.style.boxShadow = loading ? "none" : "0 4px 16px rgba(35,79,162,0.35)"; }}
             >
               {loading ? (
                 <>
@@ -257,7 +258,7 @@ export default function LoginPage() {
 
         {/* Footer */}
         <p style={{ position: "absolute", bottom: "1.5rem", fontSize: 11, color: "#8e99a4", letterSpacing: 0.3 }}>
-          © 2024 KPCL — Warranty Intelligence Platform
+          © 2024 Indi4 — Warranty Intelligence Platform
         </p>
       </div>
 

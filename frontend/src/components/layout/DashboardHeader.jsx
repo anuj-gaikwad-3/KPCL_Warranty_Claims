@@ -16,7 +16,7 @@ export default function DashboardHeader({ title, subtitle, badge }) {
             fontSize: 10, fontWeight: 700, color: "rgba(255,255,255,0.88)",
             letterSpacing: 1.3, textTransform: "uppercase",
           }}>
-            <span style={{ width: 5, height: 5, borderRadius: "50%", background: "#5eead4", display: "inline-block" }} />
+            <span style={{ width: 5, height: 5, borderRadius: "50%", background: "#0075BE", display: "inline-block" }} />
             {badge || "Dashboard"}
           </span>
           {selectedFy && (

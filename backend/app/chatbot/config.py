@@ -6,7 +6,7 @@ load_dotenv()
 
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "KPCL AI Chatbot"
+    PROJECT_NAME: str = "Indi4 AI Chatbot"
     VERSION: str = "1.0.0"
 
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")

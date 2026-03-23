@@ -424,8 +424,8 @@ export default function ForecastingDashboard() {
                 padding: "7px 10px",
                 borderRadius: 10,
                 border: "1px solid #e2e8f0",
-                background: tab === k ? "#e8f5f3" : "#fff",
-                color: tab === k ? "#155f55" : "#475569",
+                background: tab === k ? "#e6f1f8" : "#fff",
+                color: tab === k ? "#234FA2" : "#475569",
                 fontSize: 12.5,
                 fontWeight: 800,
                 cursor: "pointer",
@@ -626,7 +626,7 @@ export default function ForecastingDashboard() {
       {tab === "models" && (
         <>
           <div className="info-banner">
-            <div style={{ fontWeight: 900, color: "#155f55" }}>{insights?.models?.headline ?? "Model insights loaded"}</div>
+            <div style={{ fontWeight: 900, color: "#234FA2" }}>{insights?.models?.headline ?? "Model insights loaded"}</div>
           </div>
 
           <div className="chart-card">
@@ -722,7 +722,7 @@ export default function ForecastingDashboard() {
                         <tr key={i}>
                           <td style={{ fontWeight: 800 }}>{r.Model_masked}</td>
                           <td style={{ textAlign: "right" }}>{(r.p10 ?? r.predicted_p10 ?? 0).toLocaleString("en-IN")}</td>
-                          <td style={{ textAlign: "right", fontWeight: 900, color: "#155f55" }}>{(r.predicted_complaints ?? 0).toLocaleString("en-IN")}</td>
+                          <td style={{ textAlign: "right", fontWeight: 900, color: "#234FA2" }}>{(r.predicted_complaints ?? 0).toLocaleString("en-IN")}</td>
                           <td style={{ textAlign: "right" }}>{(r.p90 ?? r.predicted_p90 ?? 0).toLocaleString("en-IN")}</td>
                         </tr>
                       ))}
@@ -752,7 +752,7 @@ export default function ForecastingDashboard() {
               </div>
             </div>
             <div style={{ padding: "1rem 1.25rem", color: "#475569", fontSize: 13 }}>
-              This integrated dashboard focuses on the same KPCLwarrantyClaims-style overview. Your detailed parts planning is already implemented in the Forecasting → Parts & Inventory route.
+              This integrated dashboard focuses on the same Indi4-style overview. Your detailed parts planning is already implemented in the Forecasting → Parts & Inventory route.
             </div>
           </div>
         </>
@@ -761,7 +761,7 @@ export default function ForecastingDashboard() {
       {tab === "trends" && (
         <>
           <div className="info-banner">
-            <div style={{ fontWeight: 900, color: "#155f55" }}>{insights?.total?.headline ?? "Trend insights loaded"}</div>
+            <div style={{ fontWeight: 900, color: "#234FA2" }}>{insights?.total?.headline ?? "Trend insights loaded"}</div>
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">

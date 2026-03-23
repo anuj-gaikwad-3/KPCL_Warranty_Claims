@@ -38,10 +38,10 @@ export default function Sidebar() {
       {/* Brand */}
       <div className="flex items-center gap-2 px-2 mb-4">
         <div className="w-9 h-9 rounded-lg bg-white/20 flex items-center justify-center text-white font-bold text-sm">
-          KP
+          I4
         </div>
         <div className="flex flex-col leading-tight">
-          <h2 className="text-base font-extrabold tracking-tight text-white mb-0">KPCL Warranty</h2>
+          <h2 className="text-base font-extrabold tracking-tight text-white mb-0">Indi4 Warranty</h2>
           <span className="text-[10px] uppercase tracking-[1.4px] text-white/70 font-semibold">
             Intelligence
           </span>
